@@ -457,3 +457,57 @@
 2012-04-23 18:08:05 [INFO] Saving chunks
 2012-04-23 18:08:05 [INFO] Saving chunks
 2012-04-23 18:08:05 [INFO] Saving chunks
+2012-04-24 08:32:47 [INFO] Starting minecraft server version 1.2.4
+2012-04-24 08:32:47 [INFO] Loading properties
+2012-04-24 08:32:47 [INFO] Starting Minecraft server on *:25565
+2012-04-24 08:32:47 [INFO] Preparing level "world"
+2012-04-24 08:32:47 [INFO] Default game type: 0
+2012-04-24 08:32:47 [INFO] Preparing start region for level 0
+2012-04-24 08:32:47 [INFO] Done (446161000ns)! For help, type "help" or "?"
+2012-04-24 08:34:12 [INFO] fhudgeons [/192.168.1.18:60237] logged in with entity id 132 at (-0.5, 58.0, -28.5)
+2012-04-24 08:42:40 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-04-24 09:04:36 [INFO] CONSOLE: Stopping the server..
+2012-04-24 09:04:36 [INFO] Stopping server
+2012-04-24 09:04:36 [INFO] Saving chunks
+2012-04-24 09:04:36 [INFO] Saving chunks
+2012-04-24 09:04:36 [INFO] Saving chunks
+2012-04-24 19:03:26 [INFO] Starting minecraft server version 1.2.4
+2012-04-24 19:03:26 [INFO] Loading properties
+2012-04-24 19:03:26 [INFO] Starting Minecraft server on *:25565
+2012-04-24 19:03:26 [INFO] Preparing level "world"
+2012-04-24 19:03:26 [INFO] Default game type: 0
+2012-04-24 19:03:26 [INFO] Preparing start region for level 0
+2012-04-24 19:03:27 [INFO] Preparing spawn area: 97%
+2012-04-24 19:03:27 [INFO] Done (1114677000ns)! For help, type "help" or "?"
+2012-04-24 19:04:32 [INFO] bhudgeons [/192.168.1.11:56035] logged in with entity id 140 at (-273.0758740976427, 58.0, 94.30000001192093)
+2012-04-24 19:04:37 [INFO] /192.168.1.18:50186 lost connection
+2012-04-24 19:06:24 [INFO] /192.168.1.18:50194 lost connection
+2012-04-24 19:06:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:08:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:08:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:08:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:09:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:09:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:09:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:09:09 [INFO] fhudgeons [/192.168.1.18:50211] logged in with entity id 4675 at (14.9375, 63.0, -24.96875)
+2012-04-24 19:09:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:09:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-24 19:09:47 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-04-24 19:10:38 [INFO] shudgeons [/192.168.1.18:50232] logged in with entity id 6638 at (0.15625, 58.0, -23.3125)
+2012-04-24 19:26:33 [INFO] shudgeons lost connection: disconnect.quitting
+2012-04-24 19:26:38 [INFO] shudgeons [/192.168.1.18:50267] logged in with entity id 30448 at (-592.6233377170984, 65.0, 76.55953064843258)
+2012-04-24 19:33:24 [INFO] shudgeons lost connection: disconnect.quitting
+2012-04-24 19:33:29 [INFO] shudgeons [/192.168.1.18:50284] logged in with entity id 44710 at (-458.9128167365926, 66.0, 76.48723186920375)
+2012-04-24 19:38:49 [INFO] shudgeons lost connection: disconnect.quitting
+2012-04-24 19:38:55 [INFO] shudgeons [/192.168.1.18:50296] logged in with entity id 51964 at (-545.1281200824754, 66.0, 76.6091381420941)
+2012-04-24 19:41:56 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-04-24 19:42:02 [INFO] bhudgeons [/192.168.1.11:56292] logged in with entity id 59601 at (-351.46690952125465, 71.0, 76.54508034638857)
+2012-04-24 19:43:52 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-04-24 19:43:58 [INFO] shudgeons lost connection: disconnect.quitting
+2012-04-24 19:44:03 [INFO] Unknown console command. Type "help" for help.
+2012-04-25 09:39:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-25 09:54:09 [INFO] CONSOLE: Stopping the server..
+2012-04-25 09:54:09 [INFO] Stopping server
+2012-04-25 09:54:09 [INFO] Saving chunks
+2012-04-25 09:54:09 [INFO] Saving chunks
+2012-04-25 09:54:09 [INFO] Saving chunks
