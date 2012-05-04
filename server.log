@@ -511,3 +511,32 @@
 2012-04-25 09:54:09 [INFO] Saving chunks
 2012-04-25 09:54:09 [INFO] Saving chunks
 2012-04-25 09:54:09 [INFO] Saving chunks
+2012-05-03 16:00:09 [INFO] Starting minecraft server version 1.2.4
+2012-05-03 16:00:09 [INFO] Loading properties
+2012-05-03 16:00:09 [INFO] Starting Minecraft server on *:25565
+2012-05-03 16:00:09 [INFO] Preparing level "world"
+2012-05-03 16:00:09 [INFO] Default game type: 0
+2012-05-03 16:00:09 [INFO] Preparing start region for level 0
+2012-05-03 16:00:10 [INFO] Done (611836000ns)! For help, type "help" or "?"
+2012-05-03 16:00:48 [INFO] CONSOLE: Stopping the server..
+2012-05-03 16:00:48 [INFO] Stopping server
+2012-05-03 16:00:48 [INFO] Saving chunks
+2012-05-03 16:00:48 [INFO] Saving chunks
+2012-05-03 16:00:48 [INFO] Saving chunks
+2012-05-04 07:37:08 [INFO] Starting minecraft server version 1.2.4
+2012-05-04 07:37:08 [INFO] Loading properties
+2012-05-04 07:37:08 [INFO] Starting Minecraft server on *:25565
+2012-05-04 07:37:08 [INFO] Preparing level "world"
+2012-05-04 07:37:08 [INFO] Default game type: 0
+2012-05-04 07:37:08 [INFO] Preparing start region for level 0
+2012-05-04 07:37:09 [INFO] Preparing spawn area: 89%
+2012-05-04 07:37:09 [INFO] Done (1185657000ns)! For help, type "help" or "?"
+2012-05-04 07:38:12 [INFO] bhudgeons [/192.168.1.28:50310] logged in with entity id 46 at (-276.0, 58.0, 96.5)
+2012-05-04 08:12:46 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-04 08:13:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 08:15:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 08:15:14 [INFO] CONSOLE: Stopping the server..
+2012-05-04 08:15:14 [INFO] Stopping server
+2012-05-04 08:15:14 [INFO] Saving chunks
+2012-05-04 08:15:15 [INFO] Saving chunks
+2012-05-04 08:15:15 [INFO] Saving chunks
