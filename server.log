@@ -578,3 +578,19 @@
 2012-05-04 21:12:06 [INFO] Saving chunks
 2012-05-04 21:12:06 [INFO] Saving chunks
 2012-05-04 21:12:06 [INFO] Saving chunks
+2012-05-05 00:28:46 [INFO] Starting minecraft server version 1.2.4
+2012-05-05 00:28:46 [INFO] Loading properties
+2012-05-05 00:28:46 [INFO] Starting Minecraft server on *:25565
+2012-05-05 00:28:46 [INFO] Preparing level "world"
+2012-05-05 00:28:46 [INFO] Default game type: 0
+2012-05-05 00:28:46 [INFO] Preparing start region for level 0
+2012-05-05 00:28:46 [INFO] Done (443993000ns)! For help, type "help" or "?"
+2012-05-05 00:29:05 [INFO] bhudgeons [/192.168.1.28:49913] logged in with entity id 43 at (-702.71875, 66.0, 239.59375)
+2012-05-05 00:35:36 [WARNING] Time ran backwards! Did the system time change?
+2012-05-05 01:36:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-05 01:47:29 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-05 01:47:42 [INFO] CONSOLE: Stopping the server..
+2012-05-05 01:47:42 [INFO] Stopping server
+2012-05-05 01:47:42 [INFO] Saving chunks
+2012-05-05 01:47:42 [INFO] Saving chunks
+2012-05-05 01:47:42 [INFO] Saving chunks
