@@ -540,3 +540,41 @@
 2012-05-04 08:15:14 [INFO] Saving chunks
 2012-05-04 08:15:15 [INFO] Saving chunks
 2012-05-04 08:15:15 [INFO] Saving chunks
+2012-05-04 17:43:27 [INFO] Starting minecraft server version 1.2.4
+2012-05-04 17:43:27 [INFO] Loading properties
+2012-05-04 17:43:27 [INFO] Starting Minecraft server on *:25565
+2012-05-04 17:43:27 [INFO] Preparing level "world"
+2012-05-04 17:43:27 [INFO] Default game type: 0
+2012-05-04 17:43:27 [INFO] Preparing start region for level 0
+2012-05-04 17:43:27 [INFO] Done (594676000ns)! For help, type "help" or "?"
+2012-05-04 17:44:18 [INFO] shudgeons [/192.168.1.18:63054] logged in with entity id 42 at (-288.53125, 65.0, 84.6875)
+2012-05-04 17:44:30 [INFO] bhudgeons [/192.168.1.28:57456] logged in with entity id 916 at (-702.0545974471895, 66.0, 239.57209424045283)
+2012-05-04 17:47:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 17:47:47 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-04 17:47:52 [INFO] shudgeons [/192.168.1.18:63068] logged in with entity id 7435 at (-704.03125, 65.0, 74.3125)
+2012-05-04 17:56:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 18:09:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 18:24:55 [INFO] fhudgeons [/192.168.1.37:1212] logged in with entity id 59492 at (8.556956284938822, 63.0, -25.618148015923644)
+2012-05-04 18:27:57 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-05-04 18:49:59 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-04 18:50:04 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-04 19:59:38 [INFO] bhudgeons [/192.168.1.28:62817] logged in with entity id 87853 at (-701.5, 66.0, 241.5)
+2012-05-04 20:00:39 [INFO] shudgeons [/192.168.1.18:63940] logged in with entity id 88318 at (0.875, 58.0, -23.3125)
+2012-05-04 20:05:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 20:07:15 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-04 20:08:37 [INFO] bhudgeons [/192.168.1.28:63165] logged in with entity id 95392 at (-718.1308301475624, 19.0, 275.3540479262393)
+2012-05-04 20:09:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 20:09:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 20:17:55 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-04 20:18:00 [INFO] shudgeons [/192.168.1.18:63954] logged in with entity id 105967 at (-528.125, 66.0, 76.40625)
+2012-05-04 20:18:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 20:18:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-04 20:20:09 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-04 20:20:13 [INFO] shudgeons [/192.168.1.18:63959] logged in with entity id 108979 at (-708.4187471083859, 72.0, 295.82642597889094)
+2012-05-04 20:34:31 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-04 21:11:59 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-04 21:12:06 [INFO] CONSOLE: Stopping the server..
+2012-05-04 21:12:06 [INFO] Stopping server
+2012-05-04 21:12:06 [INFO] Saving chunks
+2012-05-04 21:12:06 [INFO] Saving chunks
+2012-05-04 21:12:06 [INFO] Saving chunks
