@@ -594,3 +594,68 @@
 2012-05-05 01:47:42 [INFO] Saving chunks
 2012-05-05 01:47:42 [INFO] Saving chunks
 2012-05-05 01:47:42 [INFO] Saving chunks
+2012-05-05 18:42:39 [INFO] Starting minecraft server version 1.2.4
+2012-05-05 18:42:39 [INFO] Loading properties
+2012-05-05 18:42:39 [INFO] Starting Minecraft server on *:25565
+2012-05-05 18:42:39 [INFO] Preparing level "world"
+2012-05-05 18:42:39 [INFO] Default game type: 0
+2012-05-05 18:42:39 [INFO] Preparing start region for level 0
+2012-05-05 18:42:40 [INFO] Done (611339000ns)! For help, type "help" or "?"
+2012-05-05 18:43:55 [INFO] bhudgeons [/192.168.1.28:57717] logged in with entity id 40 at (-702.5, 66.0, 242.5)
+2012-05-05 18:46:29 [INFO] shudgeons [/192.168.1.18:65055] logged in with entity id 2811 at (-702.03125, 66.0, 238.28125)
+2012-05-05 18:55:15 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-05 18:55:22 [INFO] shudgeons [/192.168.1.18:65063] logged in with entity id 14274 at (-699.3125, 70.0, 231.28125)
+2012-05-05 19:14:49 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-05 19:14:56 [INFO] shudgeons [/192.168.1.18:65080] logged in with entity id 45503 at (-671.5625, 65.0, 74.15625)
+2012-05-05 19:23:10 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-05 19:23:16 [INFO] shudgeons [/192.168.1.18:65089] logged in with entity id 51775 at (-708.7099954427266, 64.0, 336.2396133644364)
+2012-05-05 19:34:15 [WARNING] Time ran backwards! Did the system time change?
+2012-05-05 19:58:18 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-05 20:11:49 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-05 20:12:17 [INFO] CONSOLE: Stopping the server..
+2012-05-05 20:12:17 [INFO] Stopping server
+2012-05-05 20:12:17 [INFO] Saving chunks
+2012-05-05 20:12:17 [INFO] Saving chunks
+2012-05-05 20:12:17 [INFO] Saving chunks
+2012-05-06 10:03:46 [INFO] Starting minecraft server version 1.2.4
+2012-05-06 10:03:46 [INFO] Loading properties
+2012-05-06 10:03:46 [INFO] Starting Minecraft server on *:25565
+2012-05-06 10:03:46 [INFO] Preparing level "world"
+2012-05-06 10:03:46 [INFO] Default game type: 0
+2012-05-06 10:03:46 [INFO] Preparing start region for level 0
+2012-05-06 10:03:47 [INFO] Done (423279000ns)! For help, type "help" or "?"
+2012-05-06 10:04:06 [INFO] bhudgeons [/192.168.1.28:58595] logged in with entity id 42 at (-752.8975902773185, 33.0, 271.6825774620042)
+2012-05-06 10:04:24 [INFO] shudgeons [/192.168.1.18:49275] logged in with entity id 395 at (-702.5, 66.0, 242.5)
+2012-05-06 10:13:27 [WARNING] Time ran backwards! Did the system time change?
+2012-05-06 10:32:41 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-06 10:32:51 [INFO] Unknown console command. Type "help" for help.
+2012-05-06 10:32:54 [INFO] CONSOLE: Stopping the server..
+2012-05-06 10:32:54 [INFO] Stopping server
+2012-05-06 10:32:54 [INFO] Saving chunks
+2012-05-06 10:32:54 [INFO] Saving chunks
+2012-05-06 10:32:54 [INFO] Saving chunks
+2012-05-06 10:47:17 [INFO] Starting minecraft server version 1.2.4
+2012-05-06 10:47:17 [INFO] Loading properties
+2012-05-06 10:47:17 [INFO] Starting Minecraft server on *:25565
+2012-05-06 10:47:17 [INFO] Preparing level "world"
+2012-05-06 10:47:17 [INFO] Default game type: 0
+2012-05-06 10:47:17 [INFO] Preparing start region for level 0
+2012-05-06 10:47:17 [INFO] Done (419051000ns)! For help, type "help" or "?"
+2012-05-06 10:47:36 [INFO] bhudgeons [/192.168.1.28:58790] logged in with entity id 42 at (-702.59375, 66.0, 241.5)
+2012-05-06 10:47:46 [INFO] shudgeons [/192.168.1.18:49368] logged in with entity id 271 at (-702.71875, 66.0, 239.375)
+2012-05-06 11:03:20 [INFO] fhudgeons [/192.168.1.37:2059] logged in with entity id 13506 at (6.40625, 63.0, -25.28125)
+2012-05-06 11:09:20 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-06 11:09:25 [INFO] shudgeons [/192.168.1.18:49387] logged in with entity id 24870 at (-543.6038104964928, 66.0, 76.75914299322862)
+2012-05-06 11:10:47 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-05-06 11:11:35 [INFO] fhudgeons [/192.168.1.37:2070] logged in with entity id 27167 at (-336.0625, 71.0, 76.28125)
+2012-05-06 11:12:08 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-06 11:12:12 [INFO] shudgeons [/192.168.1.18:49398] logged in with entity id 27808 at (-255.71875, 69.0, 76.46875)
+2012-05-06 11:14:37 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-05-06 11:14:41 [INFO] fhudgeons [/192.168.1.37:2073] logged in with entity id 31614 at (-527.9375, 66.0, 76.15625)
+2012-05-06 11:20:27 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-06 11:20:29 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-05-06 11:20:35 [INFO] CONSOLE: Stopping the server..
+2012-05-06 11:20:35 [INFO] Stopping server
+2012-05-06 11:20:35 [INFO] Saving chunks
+2012-05-06 11:20:35 [INFO] Saving chunks
+2012-05-06 11:20:35 [INFO] Saving chunks
