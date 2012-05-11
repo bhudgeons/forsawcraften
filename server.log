@@ -775,3 +775,48 @@
 2012-05-10 14:07:04 [INFO] Saving chunks
 2012-05-10 14:07:04 [INFO] Saving chunks
 2012-05-10 14:07:04 [INFO] Saving chunks
+2012-05-10 17:35:49 [INFO] Starting minecraft server version 1.2.4
+2012-05-10 17:35:49 [INFO] Loading properties
+2012-05-10 17:35:49 [INFO] Starting Minecraft server on *:25565
+2012-05-10 17:35:49 [INFO] Preparing level "world"
+2012-05-10 17:35:49 [INFO] Default game type: 0
+2012-05-10 17:35:49 [INFO] Preparing start region for level 0
+2012-05-10 17:35:50 [INFO] Done (555365000ns)! For help, type "help" or "?"
+2012-05-10 17:36:34 [INFO] bhudgeons [/192.168.1.7:63294] logged in with entity id 38 at (-702.625, 66.0, 240.65625)
+2012-05-10 17:36:44 [INFO] shudgeons [/192.168.1.9:54244] logged in with entity id 263 at (-0.5, 58.0, -28.5)
+2012-05-10 17:40:35 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-10 17:40:40 [INFO] shudgeons [/192.168.1.9:54253] logged in with entity id 9493 at (-527.8562069020528, 66.0, 75.73531820677854)
+2012-05-10 18:08:18 [INFO] CONSOLE: Stopping the server..
+2012-05-10 18:08:18 [INFO] Stopping server
+2012-05-10 18:08:18 [INFO] Saving chunks
+2012-05-10 18:08:18 [INFO] Saving chunks
+2012-05-10 18:08:18 [INFO] Saving chunks
+2012-05-10 21:13:13 [INFO] Starting minecraft server version 1.2.4
+2012-05-10 21:13:13 [INFO] Loading properties
+2012-05-10 21:13:13 [INFO] Starting Minecraft server on *:25565
+2012-05-10 21:13:13 [INFO] Preparing level "world"
+2012-05-10 21:13:13 [INFO] Default game type: 0
+2012-05-10 21:13:13 [INFO] Preparing start region for level 0
+2012-05-10 21:13:14 [INFO] Done (592093000ns)! For help, type "help" or "?"
+2012-05-10 21:13:21 [INFO] bhudgeons [/192.168.1.7:64022] logged in with entity id 38 at (-703.5, 66.0, 243.5)
+2012-05-10 22:00:36 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-10 22:00:46 [INFO] CONSOLE: Stopping the server..
+2012-05-10 22:00:46 [INFO] Stopping server
+2012-05-10 22:00:46 [INFO] Saving chunks
+2012-05-10 22:00:46 [INFO] Saving chunks
+2012-05-10 22:00:46 [INFO] Saving chunks
+2012-05-10 22:17:41 [INFO] Starting minecraft server version 1.2.4
+2012-05-10 22:17:41 [INFO] Loading properties
+2012-05-10 22:17:41 [INFO] Starting Minecraft server on *:25565
+2012-05-10 22:17:41 [INFO] Preparing level "world"
+2012-05-10 22:17:41 [INFO] Default game type: 0
+2012-05-10 22:17:41 [INFO] Preparing start region for level 0
+2012-05-10 22:17:41 [INFO] Done (546949000ns)! For help, type "help" or "?"
+2012-05-10 22:17:56 [INFO] bhudgeons [/192.168.1.7:65089] logged in with entity id 38 at (-291.3125, 65.0, 238.875)
+2012-05-10 23:42:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-10 23:44:27 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-10 23:44:35 [INFO] CONSOLE: Stopping the server..
+2012-05-10 23:44:35 [INFO] Stopping server
+2012-05-10 23:44:35 [INFO] Saving chunks
+2012-05-10 23:44:35 [INFO] Saving chunks
+2012-05-10 23:44:35 [INFO] Saving chunks
