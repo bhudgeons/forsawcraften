@@ -975,3 +975,87 @@
 2012-05-21 20:10:21 [INFO] Saving chunks
 2012-05-21 20:10:22 [INFO] Saving chunks
 2012-05-21 20:10:22 [INFO] Saving chunks
+2012-05-22 17:26:51 [INFO] Starting minecraft server version 1.2.5
+2012-05-22 17:26:51 [INFO] Loading properties
+2012-05-22 17:26:51 [INFO] Starting Minecraft server on *:25565
+2012-05-22 17:26:51 [INFO] Preparing level "world"
+2012-05-22 17:26:51 [INFO] Default game type: 0
+2012-05-22 17:26:51 [INFO] Preparing start region for level 0
+2012-05-22 17:26:52 [INFO] Done (0.623s)! For help, type "help" or "?"
+2012-05-22 17:27:14 [INFO] bhudgeons [/192.168.1.7:51107] logged in with entity id 37 at (-463.32555055980674, 66.0, 430.9391383703648)
+2012-05-22 17:37:09 [INFO] shudgeons [/192.168.1.9:51077] logged in with entity id 9923 at (-465.3046056547169, 66.0, 429.1532280720497)
+2012-05-22 17:38:54 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-22 17:40:46 [INFO] bhudgeons [/192.168.1.7:51268] logged in with entity id 12470 at (-473.69999998807907, 37.0, 582.6999999880793)
+2012-05-22 17:41:00 [INFO] fhudgeons [/192.168.1.37:1109] logged in with entity id 12845 at (-331.71875, 70.0, 469.4375)
+2012-05-22 17:49:54 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-22 17:50:01 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-05-22 17:59:15 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-22 17:59:25 [INFO] CONSOLE: Stopping the server..
+2012-05-22 17:59:25 [INFO] Stopping server
+2012-05-22 17:59:25 [INFO] Saving chunks
+2012-05-22 17:59:25 [INFO] Saving chunks
+2012-05-22 17:59:25 [INFO] Saving chunks
+2012-05-22 17:59:52 [INFO] Starting minecraft server version 1.2.5
+2012-05-22 17:59:52 [INFO] Loading properties
+2012-05-22 17:59:52 [INFO] Starting Minecraft server on *:25565
+2012-05-22 17:59:52 [INFO] Preparing level "world"
+2012-05-22 17:59:52 [INFO] Default game type: 0
+2012-05-22 17:59:52 [INFO] Preparing start region for level 0
+2012-05-22 17:59:52 [INFO] Done (0.558s)! For help, type "help" or "?"
+2012-05-22 18:00:11 [INFO] bhudgeons [/192.168.1.7:51536] logged in with entity id 37 at (-454.0625, 28.0, 604.65625)
+2012-05-22 18:00:55 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-22 18:01:02 [INFO] CONSOLE: Stopping the server..
+2012-05-22 18:01:02 [INFO] Stopping server
+2012-05-22 18:01:02 [INFO] Saving chunks
+2012-05-22 18:01:02 [INFO] Saving chunks
+2012-05-22 18:01:02 [INFO] Saving chunks
+2012-05-24 20:15:09 [INFO] Starting minecraft server version 1.2.5
+2012-05-24 20:15:09 [INFO] Loading properties
+2012-05-24 20:15:09 [INFO] Starting Minecraft server on *:25565
+2012-05-24 20:15:09 [INFO] Preparing level "world"
+2012-05-24 20:15:09 [INFO] Default game type: 0
+2012-05-24 20:15:09 [INFO] Preparing start region for level 0
+2012-05-24 20:15:10 [INFO] Done (0.606s)! For help, type "help" or "?"
+2012-05-24 20:15:26 [INFO] bhudgeons [/192.168.1.7:61326] logged in with entity id 37 at (-477.40625, 28.0, 612.4375)
+2012-05-24 20:24:26 [INFO] shudgeons [/192.168.1.9:56787] logged in with entity id 4412 at (-463.023911874964, 66.0, 430.13820817463596)
+2012-05-24 20:32:21 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-24 20:56:48 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-24 20:56:55 [INFO] CONSOLE: Stopping the server..
+2012-05-24 20:56:55 [INFO] Stopping server
+2012-05-24 20:56:55 [INFO] Saving chunks
+2012-05-24 20:56:55 [INFO] Saving chunks
+2012-05-24 20:56:55 [INFO] Saving chunks
+2012-05-28 16:58:03 [INFO] Starting minecraft server version 1.2.5
+2012-05-28 16:58:03 [INFO] Loading properties
+2012-05-28 16:58:03 [INFO] Starting Minecraft server on *:25565
+2012-05-28 16:58:03 [INFO] Preparing level "world"
+2012-05-28 16:58:03 [INFO] Default game type: 0
+2012-05-28 16:58:03 [INFO] Preparing start region for level 0
+2012-05-28 16:58:04 [INFO] Done (1.018s)! For help, type "help" or "?"
+2012-05-28 16:58:25 [INFO] shudgeons [/192.168.1.9:61992] logged in with entity id 37 at (-465.03125, 66.0, 432.9375)
+2012-05-28 16:58:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-28 16:58:36 [INFO] bhudgeons [/192.168.1.7:58206] logged in with entity id 462 at (-462.49373880189745, 72.0, 605.6544340690753)
+2012-05-28 17:10:15 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-28 17:10:59 [INFO] shudgeons [/192.168.1.9:62019] logged in with entity id 28611 at (-702.1637852649466, 66.0, 242.01466185398047)
+2012-05-28 17:13:17 [INFO] shudgeons lost connection: disconnect.quitting
+2012-05-28 17:21:10 [INFO] bhudgeons tried command: die
+2012-05-28 17:43:07 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-28 17:43:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-28 17:43:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-28 17:43:45 [INFO] bhudgeons [/192.168.1.7:59123] logged in with entity id 66969 at (31.554982880256713, 36.0, -87.50596253287074)
+2012-05-28 18:03:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-28 18:24:21 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-28 22:55:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-28 22:56:01 [INFO] bhudgeons [/192.168.1.7:60067] logged in with entity id 97001 at (14.627171123571607, 63.0, -32.21690972354365)
+2012-05-28 23:38:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-29 00:09:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-29 00:21:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-29 00:22:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-29 02:58:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-29 02:58:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-29 03:36:56 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-05-29 03:37:12 [INFO] CONSOLE: Stopping the server..
+2012-05-29 03:37:12 [INFO] Stopping server
+2012-05-29 03:37:12 [INFO] Saving chunks
+2012-05-29 03:37:12 [INFO] Saving chunks
+2012-05-29 03:37:12 [INFO] Saving chunks
