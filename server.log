@@ -1175,3 +1175,58 @@
 2012-06-03 11:55:00 [INFO] Saving chunks
 2012-06-03 11:55:00 [INFO] Saving chunks
 2012-06-03 11:55:00 [INFO] Saving chunks
+2012-06-04 17:50:00 [INFO] Starting minecraft server version 1.2.5
+2012-06-04 17:50:00 [INFO] Loading properties
+2012-06-04 17:50:00 [INFO] Starting Minecraft server on *:25565
+2012-06-04 17:50:00 [INFO] Preparing level "world"
+2012-06-04 17:50:00 [INFO] Default game type: 0
+2012-06-04 17:50:00 [INFO] Preparing start region for level 0
+2012-06-04 17:50:00 [INFO] Done (0.707s)! For help, type "help" or "?"
+2012-06-04 17:50:17 [INFO] bhudgeons [/192.168.1.7:60849] logged in with entity id 143 at (27.070971756005463, 63.0, -55.4941676189359)
+2012-06-04 17:51:23 [INFO] shudgeons [/192.168.1.9:56695] logged in with entity id 910 at (30.256765006331193, 63.0, -21.24554212518369)
+2012-06-04 18:09:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-04 18:13:45 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-04 18:21:32 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-06-04 18:21:41 [INFO] Unknown console command. Type "help" for help.
+2012-06-04 18:21:46 [INFO] CONSOLE: Stopping the server..
+2012-06-04 18:21:46 [INFO] Stopping server
+2012-06-04 18:21:46 [INFO] Saving chunks
+2012-06-04 18:21:46 [INFO] Saving chunks
+2012-06-04 18:21:46 [INFO] Saving chunks
+2012-06-07 20:16:10 [INFO] Starting minecraft server version 1.2.5
+2012-06-07 20:16:10 [INFO] Loading properties
+2012-06-07 20:16:10 [INFO] Starting Minecraft server on *:25565
+2012-06-07 20:16:10 [INFO] Preparing level "world"
+2012-06-07 20:16:10 [INFO] Default game type: 0
+2012-06-07 20:16:10 [INFO] Preparing start region for level 0
+2012-06-07 20:16:11 [INFO] Preparing spawn area: 24%
+2012-06-07 20:16:12 [INFO] Preparing spawn area: 52%
+2012-06-07 20:16:13 [INFO] Preparing spawn area: 97%
+2012-06-07 20:16:13 [INFO] Done (3.368s)! For help, type "help" or "?"
+2012-06-07 20:16:15 [WARNING] Time ran backwards! Did the system time change?
+2012-06-07 20:16:33 [INFO] bhudgeons [/192.168.1.7:56675] logged in with entity id 136 at (-24.61053177800801, 64.0, -9.045694218346878)
+2012-06-07 20:16:42 [INFO] shudgeons [/192.168.1.9:59461] logged in with entity id 296 at (0.53125, 58.0, -26.71875)
+2012-06-07 20:23:53 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-07 21:09:38 [INFO] fhudgeons [/192.168.1.9:59519] logged in with entity id 46246 at (-0.46875, 58.0, -32.65625)
+2012-06-07 21:17:24 [INFO] <fhudgeons> ihuht/
+2012-06-07 21:22:55 [INFO] bhudgeons tried command: hello ford
+2012-06-07 21:23:20 [INFO] fhudgeons tried command: dhydgydgfygdfu
+2012-06-07 21:23:49 [INFO] fhudgeons tried command: fdhsgygdysduegufrgw
+2012-06-07 21:24:00 [INFO] bhudgeons tried command: say hello ford
+2012-06-07 21:24:16 [INFO] bhudgeons tried command: say hello moma
+2012-06-07 21:24:28 [INFO] bhudgeons tried command: fhudgeons hi
+2012-06-07 21:24:33 [INFO] <bhudgeons> hello
+2012-06-07 21:24:35 [INFO] fhudgeons tried command: hunt
+2012-06-07 21:24:46 [INFO] <bhudgeons> hi fordy
+2012-06-07 21:25:00 [INFO] <fhudgeons> hunt
+2012-06-07 21:25:13 [INFO] <fhudgeons> bygruyehurygeyuhf
+2012-06-07 21:27:39 [INFO] <fhudgeons> gasyghdywerw
+2012-06-07 21:28:21 [INFO] <bhudgeons> go to sleep
+2012-06-07 21:29:06 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-06-07 21:30:04 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-06-07 21:30:11 [INFO] Unknown console command. Type "help" for help.
+2012-06-07 21:30:14 [INFO] CONSOLE: Stopping the server..
+2012-06-07 21:30:14 [INFO] Stopping server
+2012-06-07 21:30:14 [INFO] Saving chunks
+2012-06-07 21:30:14 [INFO] Saving chunks
+2012-06-07 21:30:14 [INFO] Saving chunks
