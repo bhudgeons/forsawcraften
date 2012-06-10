@@ -1230,3 +1230,54 @@
 2012-06-07 21:30:14 [INFO] Saving chunks
 2012-06-07 21:30:14 [INFO] Saving chunks
 2012-06-07 21:30:14 [INFO] Saving chunks
+2012-06-08 19:25:28 [INFO] Starting minecraft server version 1.2.5
+2012-06-08 19:25:28 [INFO] Loading properties
+2012-06-08 19:25:28 [INFO] Starting Minecraft server on *:25565
+2012-06-08 19:25:28 [INFO] Preparing level "world"
+2012-06-08 19:25:28 [INFO] Default game type: 0
+2012-06-08 19:25:28 [INFO] Preparing start region for level 0
+2012-06-08 19:25:29 [INFO] Done (0.687s)! For help, type "help" or "?"
+2012-06-08 19:27:32 [INFO] maxie5man [/192.168.1.37:1127] logged in with entity id 130 at (-3.5, 57.62000000476837, -2.5)
+2012-06-08 19:28:15 [INFO] fhudgeons [/192.168.1.9:60169] logged in with entity id 762 at (-0.5, 58.0, -32.5)
+2012-06-08 19:28:26 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-06-08 19:29:08 [INFO] shudgeons [/192.168.1.9:60184] logged in with entity id 1252 at (-1.6999999880790722, 58.0, -24.484393827133925)
+2012-06-08 19:39:52 [INFO] maxie5man tried command: time day
+2012-06-08 19:39:59 [INFO] maxie5man tried command: time day
+2012-06-08 19:41:52 [INFO] maxie5man tried command: sethime
+2012-06-08 19:46:13 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-08 19:47:27 [INFO] fhudgeons [/192.168.1.9:60210] logged in with entity id 17158 at (-0.41047120990224983, 58.0, -30.775450038106285)
+2012-06-08 19:52:48 [INFO] fhudgeons tried command: time day
+2012-06-08 19:53:15 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-06-08 19:53:23 [INFO] maxie5man lost connection: disconnect.quitting
+2012-06-08 23:33:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 00:07:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 00:19:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 10:55:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 11:30:04 [INFO] fhudgeons [/192.168.1.9:60705] logged in with entity id 22318 at (-0.3030891436148613, 58.0, -26.69999998807907)
+2012-06-09 11:30:15 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-06-09 11:30:56 [INFO] shudgeons [/192.168.1.9:60720] logged in with entity id 22948 at (13.96875, 67.0, -35.375)
+2012-06-09 11:40:52 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-09 11:56:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-10 10:46:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-10 10:47:28 [INFO] bhudgeons [/192.168.1.7:49581] logged in with entity id 31476 at (23.71875, 63.0, -35.90625)
+2012-06-10 10:47:47 [INFO] maxie5man [/192.168.1.37:1768] logged in with entity id 31844 at (147.0, 64.0, -46.53125)
+2012-06-10 10:47:49 [INFO] shudgeons [/192.168.1.9:61378] logged in with entity id 32222 at (4.9375, 61.5, -26.71875)
+2012-06-10 10:47:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-10 10:48:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-10 11:01:30 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-10 11:15:01 [INFO] shudgeons [/192.168.1.9:61408] logged in with entity id 53618 at (-0.30000001192096304, 58.0, -32.69999998807906)
+2012-06-10 11:16:21 [INFO] maxie5man lost connection: disconnect.quitting
+2012-06-10 11:16:40 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-10 11:17:13 [INFO] bhudgeons tried command: back
+2012-06-10 11:19:49 [INFO] /192.168.1.37:1801 lost connection
+2012-06-10 11:37:21 [INFO] shudgeons [/192.168.1.9:61527] logged in with entity id 71660 at (-1.337802418815976, 58.0, -27.98715321601784)
+2012-06-10 11:41:51 [INFO] /192.168.1.37:1811 lost connection
+2012-06-10 11:42:01 [INFO] maxie5man [/192.168.1.37:1813] logged in with entity id 75747 at (-0.71875, 58.0, -25.46875)
+2012-06-10 11:47:12 [INFO] maxie5man lost connection: disconnect.quitting
+2012-06-10 11:49:25 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-10 12:02:28 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-06-10 12:02:43 [INFO] CONSOLE: Stopping the server..
+2012-06-10 12:02:43 [INFO] Stopping server
+2012-06-10 12:02:43 [INFO] Saving chunks
+2012-06-10 12:02:43 [INFO] Saving chunks
+2012-06-10 12:02:43 [INFO] Saving chunks
