@@ -1404,3 +1404,39 @@
 2012-06-20 21:53:54 [INFO] Saving chunks
 2012-06-20 21:53:54 [INFO] Saving chunks
 2012-06-20 21:53:54 [INFO] Saving chunks
+2012-06-21 20:58:58 [INFO] Starting minecraft server version 1.2.5
+2012-06-21 20:58:58 [INFO] Loading properties
+2012-06-21 20:58:58 [INFO] Starting Minecraft server on *:25565
+2012-06-21 20:58:58 [INFO] Preparing level "world"
+2012-06-21 20:58:58 [INFO] Default game type: 0
+2012-06-21 20:58:58 [INFO] Preparing start region for level 0
+2012-06-21 20:58:59 [INFO] Done (0.532s)! For help, type "help" or "?"
+2012-06-21 20:59:20 [INFO] fhudgeons [/192.168.1.7:54565] logged in with entity id 133 at (0.44610816061233, 58.0, -26.699999988079053)
+2012-06-21 21:00:03 [INFO] shudgeons [/192.168.1.9:51488] logged in with entity id 672 at (1.0625, 58.0, -23.4375)
+2012-06-21 21:00:26 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-21 21:01:00 [INFO] shudgeons [/192.168.1.9:51503] logged in with entity id 1473 at (-0.25, 58.0, -23.6875)
+2012-06-21 21:02:37 [INFO] bhudgeons [/192.168.1.20:49244] logged in with entity id 2600 at (-0.34375, 58.0, -23.9375)
+2012-06-21 21:03:41 [INFO] <shudgeons> comon lets go
+2012-06-21 21:03:42 [INFO] <fhudgeons> dad
+2012-06-21 21:03:47 [INFO] <bhudgeons> ford
+2012-06-21 21:03:57 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-06-21 21:05:02 [INFO] <shudgeons> sheesh he takes so long
+2012-06-21 21:07:10 [INFO] <shudgeons> lets kll
+2012-06-21 21:07:17 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-21 21:07:21 [INFO] shudgeons [/192.168.1.9:51524] logged in with entity id 6131 at (6.90625, 67.0, -44.4375)
+2012-06-21 21:07:56 [INFO] bhudgeons lost connection: disconnect.genericReason
+2012-06-21 21:07:56 [INFO] shudgeons lost connection: disconnect.genericReason
+2012-06-21 21:08:04 [INFO] shudgeons [/192.168.1.9:51530] logged in with entity id 6222 at (-5.15625, 61.0, -45.59375)
+2012-06-21 21:08:08 [INFO] bhudgeons [/192.168.1.20:49309] logged in with entity id 6313 at (-11.71875, 62.0, -51.15625)
+2012-06-21 21:08:13 [INFO] fhudgeons [/192.168.1.7:54740] logged in with entity id 6315 at (-1.3125, 58.0, -26.3125)
+2012-06-21 21:11:29 [INFO] shudgeons tried command: do not duy
+2012-06-21 21:17:42 [INFO] <shudgeons> dont duy dad
+2012-06-21 21:19:44 [INFO] shudgeons lost connection: disconnect.quitting
+2012-06-21 21:37:09 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-06-21 21:41:26 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-06-21 21:41:37 [INFO] Unknown console command. Type "help" for help.
+2012-06-21 21:41:40 [INFO] CONSOLE: Stopping the server..
+2012-06-21 21:41:40 [INFO] Stopping server
+2012-06-21 21:41:40 [INFO] Saving chunks
+2012-06-21 21:41:41 [INFO] Saving chunks
+2012-06-21 21:41:41 [INFO] Saving chunks
