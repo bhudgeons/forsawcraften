@@ -1735,3 +1735,117 @@
 2012-07-17 11:16:02 [INFO] Saving chunks
 2012-07-17 11:16:02 [INFO] Saving chunks
 2012-07-17 11:16:02 [INFO] Saving chunks
+2012-07-17 17:48:23 [INFO] Starting minecraft server version 1.2.5
+2012-07-17 17:48:23 [INFO] Loading properties
+2012-07-17 17:48:23 [INFO] Starting Minecraft server on *:25565
+2012-07-17 17:48:23 [INFO] Preparing level "world"
+2012-07-17 17:48:23 [INFO] Default game type: 0
+2012-07-17 17:48:23 [INFO] Preparing start region for level 0
+2012-07-17 17:48:24 [INFO] Done (0.446s)! For help, type "help" or "?"
+2012-07-17 17:48:52 [INFO] bhudgeons [/192.168.1.20:53939] logged in with entity id 128 at (129.5, 63.0, -438.5)
+2012-07-17 17:48:56 [INFO] shudgeons [/192.168.1.9:54677] logged in with entity id 445 at (-7.300000011920929, 56.0, -22.364855710751346)
+2012-07-17 18:03:10 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-17 18:05:26 [INFO] shudgeons [/192.168.1.9:54690] logged in with entity id 10140 at (91.3522913550133, 32.0, -126.02777938565809)
+2012-07-17 18:11:31 [INFO] fhudgeons [/192.168.1.7:59257] logged in with entity id 14109 at (2.125, 58.0, -23.3125)
+2012-07-17 18:19:36 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-17 18:43:23 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-07-17 21:07:41 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-18 18:02:53 [INFO] fhudgeons [/192.168.1.7:64813] logged in with entity id 99725 at (-0.0625, 58.0, -23.875)
+2012-07-18 18:06:24 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-19 09:09:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-19 20:42:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-20 07:23:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-20 07:24:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-20 07:41:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-20 13:14:04 [WARNING] Time ran backwards! Did the system time change?
+2012-07-20 17:45:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-20 19:47:18 [WARNING] Time ran backwards! Did the system time change?
+2012-07-21 08:13:48 [INFO] shudgeons [/192.168.1.9:57948] logged in with entity id 100716 at (-8.01482234111912, 57.0, -24.827625999868424)
+2012-07-21 08:26:05 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-22 07:51:12 [INFO] shudgeons [/192.168.1.9:58715] logged in with entity id 105858 at (6.496846709921615, 63.0, -26.69999998807907)
+2012-07-22 07:51:22 [INFO] fhudgeons [/192.168.1.7:64657] logged in with entity id 105931 at (0.8178302780558262, 58.0, -25.371932027942997)
+2012-07-22 08:06:03 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-22 08:06:20 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-23 17:32:14 [INFO] fhudgeons [/192.168.1.7:54361] logged in with entity id 114395 at (1.0068692401940362, 58.0, -24.725884137757316)
+2012-07-23 17:39:18 [INFO] shudgeons [/192.168.1.9:60750] logged in with entity id 117530 at (-0.14033728038940088, 58.0, -26.272028445039115)
+2012-07-23 17:47:13 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-23 17:47:32 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-24 07:52:51 [INFO] Starting minecraft server version 1.2.5
+2012-07-24 07:52:51 [INFO] Loading properties
+2012-07-24 07:52:51 [INFO] Starting Minecraft server on *:25565
+2012-07-24 07:52:51 [INFO] Preparing level "world"
+2012-07-24 07:52:51 [INFO] Default game type: 0
+2012-07-24 07:52:51 [INFO] Preparing start region for level 0
+2012-07-24 07:52:52 [INFO] Done (0.656s)! For help, type "help" or "?"
+2012-07-24 07:53:00 [INFO] fhudgeons [/192.168.1.7:53792] logged in with entity id 165 at (0.641557821870052, 58.0, -24.476972882403576)
+2012-07-24 08:35:38 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-24 17:50:07 [INFO] bhudgeons [/192.168.1.20:50608] logged in with entity id 19906 at (129.5, 63.0, -438.5)
+2012-07-24 17:50:11 [INFO] fhudgeons [/192.168.1.7:65257] logged in with entity id 20108 at (-0.6875, 58.0, -25.8125)
+2012-07-24 17:50:33 [INFO] shudgeons [/192.168.1.9:62236] logged in with entity id 20786 at (-0.2274351951428737, 58.0, -29.921805871215874)
+2012-07-24 18:00:25 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-24 18:06:03 [INFO] shudgeons [/192.168.1.9:62253] logged in with entity id 34731 at (-0.3000000119209273, 58.0, -31.72021863475149)
+2012-07-24 18:06:33 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-24 18:08:23 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-24 18:11:12 [INFO] shudgeons [/192.168.1.9:62266] logged in with entity id 36366 at (-1.300000011920928, 49.0, -29.99469641627172)
+2012-07-24 18:13:24 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-24 18:20:15 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-07-25 08:24:48 [INFO] bhudgeons [/192.168.1.20:55118] logged in with entity id 39427 at (-122.84255492189477, 44.0, -152.69999998807907)
+2012-07-25 08:26:20 [INFO] fhudgeons [/192.168.1.7:57568] lost connection
+2012-07-25 08:26:54 [INFO] Disconnecting /192.168.1.7:57581: Took too long to log in
+2012-07-25 08:27:37 [INFO] fhudgeons [/192.168.1.7:57600] logged in with entity id 41921 at (2.7148948623679483, 59.5, -25.737457868175536)
+2012-07-25 08:53:13 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-25 08:57:54 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-07-25 15:55:07 [INFO] fhudgeons [/192.168.1.7:62664] logged in with entity id 63279 at (-0.30000001192093256, 58.0, -32.468864380764785)
+2012-07-25 15:55:09 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-25 16:45:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-25 18:27:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-26 04:29:22 [WARNING] Time ran backwards! Did the system time change?
+2012-07-26 10:41:27 [INFO] shudgeons [/192.168.1.9:64016] logged in with entity id 63363 at (-0.30000001192093007, 58.0, -27.7953167395467)
+2012-07-26 10:41:34 [INFO] fhudgeons [/192.168.1.7:62738] logged in with entity id 63550 at (-0.3000000119209325, 58.0, -32.468864380764785)
+2012-07-26 11:00:55 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-26 11:01:06 [INFO] fhudgeons [/192.168.1.7:63720] logged in with entity id 78057 at (0.5251180936163626, 58.0, -24.887684468622712)
+2012-07-26 11:01:21 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-26 11:01:26 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-26 17:39:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-26 18:38:31 [WARNING] Time ran backwards! Did the system time change?
+2012-07-26 18:53:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-26 22:30:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-27 07:14:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-27 10:40:29 [WARNING] Time ran backwards! Did the system time change?
+2012-07-27 13:44:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-27 18:54:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-27 18:56:01 [INFO] fhudgeons [/192.168.1.7:63314] logged in with entity id 78576 at (0.5251180936163626, 58.0, -24.887684468622712)
+2012-07-27 19:06:51 [INFO] <fhudgeons> R
+2012-07-27 19:18:26 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-27 19:23:47 [INFO] fhudgeons [/192.168.1.7:64711] logged in with entity id 95427 at (0.14745283317911395, 58.0, -26.403430678852953)
+2012-07-27 19:28:10 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-27 20:25:54 [INFO] fhudgeons [/192.168.1.7:52490] logged in with entity id 97657 at (1.21875, 58.0, -24.625)
+2012-07-27 20:32:08 [WARNING] Time ran backwards! Did the system time change?
+2012-07-27 20:39:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-27 20:50:09 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-28 07:27:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-28 09:12:38 [WARNING] Time ran backwards! Did the system time change?
+2012-07-28 09:34:28 [INFO] shudgeons [/192.168.1.9:50333] logged in with entity id 114661 at (4.49511132882616, 30.0, -80.19506195409143)
+2012-07-28 09:40:15 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-28 09:51:39 [INFO] fhudgeons [/192.168.1.7:60689] logged in with entity id 117478 at (0.3125, 58.0, -24.3125)
+2012-07-28 09:52:18 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-28 10:12:17 [INFO] shudgeons [/192.168.1.9:50388] logged in with entity id 117943 at (122.63497252515614, 63.0, -433.40953540354013)
+2012-07-28 10:16:03 [INFO] fhudgeons [/192.168.1.7:61659] logged in with entity id 120045 at (0.8911845516514978, 58.0, -26.22771955388649)
+2012-07-28 10:22:28 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-28 10:23:10 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-07-28 12:40:01 [INFO] shudgeons [/192.168.1.9:50737] logged in with entity id 125185 at (1.96875, 58.0, -27.8125)
+2012-07-28 12:40:42 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-28 17:35:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-28 17:49:07 [INFO] shudgeons [/192.168.1.9:51057] logged in with entity id 125924 at (-9.734805749204359, 46.0, -25.027422641523316)
+2012-07-28 17:54:23 [INFO] shudgeons lost connection: disconnect.quitting
+2012-07-28 18:48:26 [WARNING] Time ran backwards! Did the system time change?
+2012-07-29 07:54:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-30 17:27:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-30 18:20:54 [WARNING] Time ran backwards! Did the system time change?
+2012-07-30 18:37:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-30 18:54:26 [INFO] Unknown console command. Type "help" for help.
+2012-07-30 18:54:28 [INFO] CONSOLE: Stopping the server..
+2012-07-30 18:54:28 [INFO] Stopping server
+2012-07-30 18:54:28 [INFO] Saving chunks
+2012-07-30 18:54:29 [INFO] Saving chunks
+2012-07-30 18:54:29 [INFO] Saving chunks
