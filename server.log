@@ -2260,3 +2260,95 @@
 2012-08-22 00:23:03 [INFO] Saving chunks for level 'world'/Nether
 2012-08-22 00:23:03 [INFO] Saving chunks for level 'world'/The End
 2012-08-22 00:23:03 [INFO] Stopping server
+2012-08-22 00:26:44 [INFO] Starting minecraft server version 1.3.2
+2012-08-22 00:26:44 [INFO] Loading properties
+2012-08-22 00:26:44 [INFO] Default game type: SURVIVAL
+2012-08-22 00:26:44 [INFO] Generating keypair
+2012-08-22 00:26:44 [INFO] Starting Minecraft server on *:25565
+2012-08-22 00:26:44 [INFO] Preparing level "world"
+2012-08-22 00:26:44 [INFO] Preparing start region for level 0
+2012-08-22 00:26:45 [INFO] Done (0.419s)! For help, type "help" or "?"
+2012-08-22 06:47:05 [INFO] shudgeons[/192.168.1.19:59889] logged in with entity id 33 at (-436.69999998807907, 64.0, 358.30099054941724)
+2012-08-22 06:47:29 [INFO] fhudgeons[/192.168.1.14:58493] logged in with entity id 290 at (-435.7233555383228, 67.16610926093821, 361.30000001192093)
+2012-08-22 06:53:10 [INFO] [shudgeons: Set the time to 0]
+2012-08-22 07:06:01 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-22 07:06:03 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-22 08:11:23 [INFO] shudgeons[/192.168.1.19:59931] logged in with entity id 13076 at (-432.2433711764988, 64.0, 375.61507209845735)
+2012-08-22 08:11:48 [INFO] fhudgeons[/192.168.1.14:61938] logged in with entity id 13242 at (-433.7350664617908, 64.0, 370.3814887799043)
+2012-08-22 08:23:44 [INFO] [shudgeons: Set the time to 0]
+2012-08-22 08:38:03 [INFO] [shudgeons: Set own game mode to Adventure Mode]
+2012-08-22 08:40:51 [INFO] [fhudgeons: Set own game mode to Survival Mode]
+2012-08-22 08:42:57 [INFO] [fhudgeons: Set own game mode to Creative Mode]
+2012-08-22 08:43:14 [INFO] [shudgeons: Set own game mode to Creative Mode]
+2012-08-22 08:47:20 [INFO] [shudgeons: Set the time to 0]
+2012-08-22 08:59:42 [INFO] <shudgeons> time set 0
+2012-08-22 09:01:51 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-22 09:01:52 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-22 18:07:36 [INFO] shudgeons[/192.168.1.19:60171] logged in with entity id 75545 at (-428.9286503413125, 57.0, 348.69999998807907)
+2012-08-22 18:15:07 [INFO] fhudgeons[/192.168.1.14:55163] logged in with entity id 82026 at (-437.242457843309, 80.45612318142663, 423.31920883124053)
+2012-08-22 18:15:10 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-22 18:18:07 [INFO] [shudgeons: Set the time to 0]
+2012-08-22 18:24:18 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-22 20:28:02 [INFO] shudgeons[/192.168.1.19:60243] logged in with entity id 89744 at (-428.5908890777656, 55.0, 434.3607277999046)
+2012-08-22 20:28:03 [INFO] fhudgeons[/192.168.1.14:61038] logged in with entity id 89906 at (-437.242457843309, 80.45612318142663, 423.31920883124053)
+2012-08-22 20:30:36 [INFO] [shudgeons: Set the time to 0]
+2012-08-22 20:41:15 [INFO] [shudgeons: Set the time to 0]
+2012-08-22 20:52:31 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-22 20:52:33 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-23 07:48:55 [INFO] fhudgeons[/192.168.1.14:58874] logged in with entity id 120664 at (-383.97761062237373, 66.50587942697386, 365.1061226685239)
+2012-08-23 07:58:22 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-23 07:58:30 [INFO] fhudgeons[/192.168.1.14:59347] logged in with entity id 128309 at (-455.21732324454996, 69.73941602216549, 429.70817371882566)
+2012-08-23 07:58:52 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-23 08:15:35 [INFO] shudgeons[/192.168.1.19:60565] logged in with entity id 128990 at (-435.47959651232145, 70.0, 374.83150625455824)
+2012-08-23 08:17:58 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-23 18:01:40 [INFO] fhudgeons[/192.168.1.14:53452] logged in with entity id 131560 at (-430.33369511389145, 70.0, 369.69999998807907)
+2012-08-23 18:12:40 [INFO] <fhudgeons> brsnd fehs
+2012-08-23 18:12:58 [INFO] <fhudgeons> hjcmsgfcuxjdfuysxhx
+2012-08-23 18:22:44 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-23 20:19:47 [INFO] shudgeons[/192.168.1.19:61664] logged in with entity id 151167 at (-461.34051591602287, 66.0, 429.6254341045924)
+2012-08-23 20:24:15 [INFO] fhudgeons[/192.168.1.14:60152] logged in with entity id 156978 at (-285.7192398448857, 63.0, 235.21387834815812)
+2012-08-23 20:24:57 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-23 20:26:06 [INFO] [shudgeons: Set the time to 0]
+2012-08-23 20:33:18 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-24 07:39:54 [INFO] shudgeons[/192.168.1.19:61928] logged in with entity id 165377 at (-428.4147643024519, 60.0, 382.2359516769462)
+2012-08-24 07:41:27 [INFO] [shudgeons: Set the time to 0]
+2012-08-24 07:54:17 [INFO] shudgeons lost connection: disconnect.genericReason
+2012-08-24 08:50:32 [INFO] shudgeons[/192.168.1.19:61964] logged in with entity id 174755 at (-432.85513073282885, 64.0, 380.8694551366263)
+2012-08-24 08:53:05 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-24 11:22:36 [INFO] shudgeons[/192.168.1.19:62194] logged in with entity id 177799 at (-448.45744544119697, 75.34038735946945, 492.79176265192643)
+2012-08-24 11:39:54 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-24 14:28:46 [INFO] fhudgeons[/192.168.1.14:60917] logged in with entity id 190603 at (-410.8109544295836, 66.0, 378.6638841644297)
+2012-08-24 14:42:10 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-24 14:43:04 [INFO] fhudgeons[/192.168.1.14:61614] logged in with entity id 201195 at (-451.67942136393833, 82.76937361072306, 435.6192517081276)
+2012-08-24 14:50:37 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-25 08:42:30 [INFO] fhudgeons[/192.168.1.14:60873] logged in with entity id 207535 at (-436.8163640236061, 71.38082756396787, 464.06548979425276)
+2012-08-25 12:50:30 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-25 12:55:58 [INFO] shudgeons[/192.168.1.19:62844] logged in with entity id 293744 at (-420.15668534260067, 71.24471974803693, 334.3674491493586)
+2012-08-25 13:17:29 [INFO] fhudgeons[/192.168.1.14:56887] logged in with entity id 306278 at (-423.78511445198774, 64.0, 368.1540994887276)
+2012-08-25 13:18:56 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-25 13:21:54 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-25 15:58:47 [INFO] shudgeons[/192.168.1.19:63032] logged in with entity id 308608 at (-434.6805537517685, 66.49064318920136, 356.22217182661495)
+2012-08-25 15:59:17 [INFO] fhudgeons[/192.168.1.14:64529] logged in with entity id 308857 at (-436.09129416087023, 64.0, 357.9721488163559)
+2012-08-25 15:59:20 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-25 16:48:41 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-26 11:48:48 [INFO] shudgeons[/192.168.1.19:63865] logged in with entity id 338103 at (-434.69999998807907, 57.0, 349.18458158437227)
+2012-08-26 11:52:32 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-26 18:02:20 [INFO] fhudgeons[/192.168.1.14:56188] logged in with entity id 340395 at (-386.7766906748065, 64.4807108763317, 387.241749687506)
+2012-08-26 18:28:05 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-27 15:02:55 [INFO] shudgeons[/192.168.1.19:64591] logged in with entity id 377129 at (-424.69999998807907, 61.0, 357.5815774936898)
+2012-08-27 15:04:20 [INFO] fhudgeons[/192.168.1.14:64218] logged in with entity id 378155 at (-418.7529442343229, 81.48900381077269, 352.6667083170122)
+2012-08-27 15:13:25 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-27 15:17:04 [INFO] shudgeons lost connection: disconnect.quitting
+2012-08-27 18:02:32 [INFO] fhudgeons[/192.168.1.14:56054] logged in with entity id 390728 at (-430.63217297569145, 70.0, 369.7234944437769)
+2012-08-27 18:02:54 [INFO] shudgeons[/192.168.1.19:64697] logged in with entity id 391309 at (-433.11413957079435, 64.0, 371.56504501618053)
+2012-08-27 18:07:06 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-08-27 20:12:49 [INFO] shudgeons lost connection: disconnect.endOfStream
+2012-08-28 09:13:41 [INFO] Stopping the server
+2012-08-28 09:13:41 [INFO] Stopping server
+2012-08-28 09:13:41 [INFO] Saving players
+2012-08-28 09:13:41 [INFO] Saving worlds
+2012-08-28 09:13:41 [INFO] Saving chunks for level 'world'/Overworld
+2012-08-28 09:13:41 [INFO] Saving chunks for level 'world'/Nether
+2012-08-28 09:13:41 [INFO] Saving chunks for level 'world'/The End
+2012-08-28 09:13:41 [INFO] Stopping server
+2012-08-28 09:13:41 [INFO] Saving players
