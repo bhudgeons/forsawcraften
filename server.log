@@ -2571,3 +2571,21 @@
 2012-09-16 16:51:55 [INFO] shudgeons[/192.168.1.19:53381] logged in with entity id 471646 at (-461.27531185868327, 66.5625, 434.3467122656978)
 2012-09-16 16:56:29 [INFO] [shudgeons: Set the time to 0]
 2012-09-16 17:07:07 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-22 14:02:13 [INFO] Starting minecraft server version 1.3.2
+2012-09-22 14:02:13 [INFO] Loading properties
+2012-09-22 14:02:13 [INFO] Default game type: SURVIVAL
+2012-09-22 14:02:13 [INFO] Generating keypair
+2012-09-22 14:02:13 [INFO] Starting Minecraft server on *:25565
+2012-09-22 14:02:14 [INFO] Preparing level "world"
+2012-09-22 14:02:14 [INFO] Preparing start region for level 0
+2012-09-22 14:02:14 [INFO] Done (0.499s)! For help, type "help" or "?"
+2012-09-22 14:02:52 [INFO] shudgeons[/192.168.1.19:49943] logged in with entity id 32 at (-454.95195631492777, 77.77882177174305, 383.09632780757124)
+2012-09-22 14:03:01 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 14:06:01 [INFO] bhudgeons[/192.168.1.8:52637] logged in with entity id 2248 at (-290.6763832283575, 75.79176933383161, 410.89055942586174)
+2012-09-22 14:14:40 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 14:24:33 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 14:40:00 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 14:50:52 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 15:01:20 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 15:11:47 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-09-22 15:14:44 [INFO] shudgeons lost connection: disconnect.quitting
