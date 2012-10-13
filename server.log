@@ -2589,3 +2589,200 @@
 2012-09-22 15:01:20 [INFO] [shudgeons: Set the time to 0]
 2012-09-22 15:11:47 [INFO] bhudgeons lost connection: disconnect.quitting
 2012-09-22 15:14:44 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-22 20:22:43 [INFO] Starting minecraft server version 1.3.2
+2012-09-22 20:22:43 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-09-22 20:22:43 [INFO] Loading properties
+2012-09-22 20:22:43 [INFO] Default game type: SURVIVAL
+2012-09-22 20:22:43 [INFO] Generating keypair
+2012-09-22 20:22:48 [INFO] Starting Minecraft server on *:25565
+2012-09-22 20:22:49 [INFO] Preparing level "world"
+2012-09-22 20:22:50 [INFO] Preparing start region for level 0
+2012-09-22 20:22:51 [INFO] Preparing spawn area: 0%
+2012-09-22 20:22:52 [INFO] Preparing spawn area: 8%
+2012-09-22 20:22:53 [INFO] Preparing spawn area: 16%
+2012-09-22 20:22:54 [INFO] Preparing spawn area: 28%
+2012-09-22 20:22:55 [INFO] Preparing spawn area: 36%
+2012-09-22 20:22:57 [INFO] Preparing spawn area: 48%
+2012-09-22 20:22:58 [INFO] Preparing spawn area: 60%
+2012-09-22 20:22:58 [INFO] Done (9.499s)! For help, type "help" or "?"
+2012-09-22 20:23:58 [INFO] bhudgeons[/70.112.17.244:33576] logged in with entity id 33 at (-474.07462874947566, 70.0, 484.41288546202327)
+2012-09-22 20:24:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-22 20:24:15 [INFO] [bhudgeons: Set the time to 0]
+2012-09-22 20:24:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-22 20:24:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-22 20:25:26 [INFO] shudgeons[/70.112.17.244:33419] logged in with entity id 1131 at (-431.37246686338136, 79.65385137355675, 414.0574756294696)
+2012-09-22 20:26:40 [INFO] fhudgeons[/70.112.17.244:33998] logged in with entity id 3666 at (-447.40990782291414, 70.04055212184534, 412.30000001192093)
+2012-09-22 20:26:51 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-22 20:27:14 [INFO] shudgeons[/70.112.17.244:33478] logged in with entity id 4007 at (-428.43997335687857, 69.74654678357386, 337.07120093279616)
+2012-09-22 20:31:47 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-09-22 20:39:45 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 20:43:59 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-22 20:44:24 [INFO] shudgeons[/70.112.17.244:33304] logged in with entity id 24183 at (-282.69999998807907, 64.08878063440264, 396.0894471257752)
+2012-09-22 20:45:07 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-22 20:45:14 [INFO] shudgeons[/70.112.17.244:33356] logged in with entity id 25689 at (-413.6276273187168, 80.62294356625752, 433.8526119717452)
+2012-09-22 20:51:43 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 20:55:18 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-22 20:55:32 [INFO] shudgeons[/70.112.17.244:33670] logged in with entity id 38671 at (-408.30000001192093, 54.0, 343.3233574440615)
+2012-09-22 21:02:19 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 21:08:17 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-09-22 21:09:58 [INFO] fhudgeons[/70.112.17.244:33644] logged in with entity id 56961 at (-463.15426880787913, 67.99657404410092, 447.85520907807063)
+2012-09-22 21:14:36 [INFO] [shudgeons: Set the time to 0]
+2012-09-22 21:17:51 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-09-22 22:17:25 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-23 02:00:23 [INFO] shudgeons[/70.112.17.244:33413] logged in with entity id 104088 at (-439.5410815235901, 64.0, 446.3378558933375)
+2012-09-23 02:00:52 [INFO] [shudgeons: Set own game mode to Survival Mode]
+2012-09-23 02:03:01 [INFO] [shudgeons: Set own game mode to Creative Mode]
+2012-09-23 02:06:28 [INFO] [shudgeons: Set the time to 0]
+2012-09-23 02:10:12 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-23 02:15:31 [INFO] shudgeons[/70.112.17.244:33320] logged in with entity id 113500 at (-240.4254916188047, 63.0, 390.96142799066604)
+2012-09-23 02:16:38 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-23 12:46:27 [INFO] shudgeons[/70.112.17.244:33085] logged in with entity id 115128 at (-430.00874077941734, 64.0, 420.88731052186955)
+2012-09-23 12:51:39 [INFO] [shudgeons: Set the time to 0]
+2012-09-23 13:03:38 [INFO] [shudgeons: Set the time to 0]
+2012-09-23 13:09:33 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-23 15:46:05 [INFO] shudgeons[/70.112.17.244:33209] logged in with entity id 132503 at (-435.1370148683593, 64.0, 374.0417016928793)
+2012-09-23 15:50:48 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-23 15:51:14 [INFO] shudgeons[/70.112.17.244:34275] logged in with entity id 136473 at (-432.2137419375555, 64.0, 366.6422606604653)
+2012-09-23 15:59:05 [INFO] [shudgeons: Set the time to 0]
+2012-09-23 16:44:59 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-23 21:18:02 [INFO] shudgeons[/70.112.17.244:32912] logged in with entity id 165111 at (-440.1597785702668, 64.0, 445.6552647535717)
+2012-09-23 21:18:12 [INFO] [shudgeons: Set the time to 0]
+2012-09-23 23:40:15 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-25 20:05:51 [INFO] shudgeons[/70.112.17.244:32858] logged in with entity id 232125 at (-283.07499998807907, 64.0, 389.45701429936065)
+2012-09-25 20:08:22 [INFO] [shudgeons: Set the time to 0]
+2012-09-25 20:48:01 [INFO] [shudgeons: Set the time to 0]
+2012-09-25 20:57:57 [INFO] [shudgeons: Set the time to 0]
+2012-09-25 21:08:47 [INFO] [shudgeons: Given Wooden Door (ID 64) * 1 to shudgeons]
+2012-09-25 21:13:57 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-25 21:17:45 [INFO] LukeandBrady[/208.124.50.234:60524] logged in with entity id 275612 at (0.5, 57.62000000476837, -4.5)
+2012-09-25 21:20:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-25 21:26:15 [WARNING] LukeandBrady moved wrongly!
+2012-09-25 22:51:15 [INFO] shudgeons[/70.112.17.244:33507] logged in with entity id 327106 at (-406.8104467611837, 63.0, 480.6409171696815)
+2012-09-25 22:51:28 [INFO] fhudgeons[/70.112.17.244:32896] logged in with entity id 327463 at (-408.312094413408, 62.231523797587016, 347.4487113849357)
+2012-09-25 22:52:23 [INFO] [shudgeons: Opped LukeandBrady]
+2012-09-25 22:53:10 [INFO] <shudgeons> you are now an op
+2012-09-25 22:53:17 [INFO] [shudgeons: Set the time to 0]
+2012-09-25 22:53:46 [INFO] [LukeandBrady: Set own game mode to Creative Mode]
+2012-09-25 22:54:09 [INFO] <shudgeons> hy!
+2012-09-25 22:55:08 [INFO] <shudgeons> I wil show you arownd
+2012-09-25 22:55:49 [INFO] <shudgeons> Luke come on
+2012-09-25 22:57:22 [INFO] <shudgeons> folw me
+2012-09-25 23:01:12 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-09-25 23:05:56 [INFO] [shudgeons: Set the time to 0]
+2012-09-25 23:14:42 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-26 01:49:32 [INFO] LukeandBrady lost connection: disconnect.genericReason
+2012-09-26 11:41:18 [INFO] shudgeons[/70.112.17.244:32772] logged in with entity id 422762 at (-414.98888013179806, 64.0, 468.30000001192093)
+2012-09-26 11:41:29 [INFO] [shudgeons: Set the time to 0]
+2012-09-26 11:44:41 [INFO] fhudgeons[/70.112.17.244:33025] logged in with entity id 425121 at (-461.99927110180846, 66.0, 430.1690129903848)
+2012-09-26 11:48:23 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-09-26 12:12:31 [INFO] [shudgeons: Set the time to 0]
+2012-09-26 12:13:48 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-26 20:15:08 [INFO] shudgeons[/70.112.17.244:32889] logged in with entity id 438508 at (-411.8486980518961, 50.0, 477.30000001192093)
+2012-09-26 20:16:40 [INFO] [shudgeons: Set the time to 0]
+2012-09-26 20:19:59 [INFO] [shudgeons: Set the time to 34]
+2012-09-26 20:20:19 [INFO] [shudgeons: Set the time to 0]
+2012-09-26 20:24:10 [INFO] shudgeons lost connection: disconnect.quitting
+2012-09-26 21:12:25 [INFO] fhudgeons[/70.112.17.244:33227] logged in with entity id 447863 at (-441.3464861069458, 70.0, 361.327261912394)
+2012-09-26 21:15:23 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-09-26 22:13:48 [INFO] LukeandBrady[/208.124.50.234:52555] logged in with entity id 449249 at (-407.2152325826254, 63.0, 480.1089302293171)
+2012-09-26 23:31:13 [INFO] [LukeandBrady: Set the time to 0]
+2012-09-26 23:43:11 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-09-27 00:23:48 [INFO] LukeandBrady[/208.124.50.234:53601] logged in with entity id 523263 at (-417.0875680702948, 64.0, 462.4086519321478)
+2012-09-27 00:39:53 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-09-27 20:17:22 [INFO] LukeandBrady[/208.124.50.234:55366] logged in with entity id 540299 at (-410.30000001192093, 63.20000004768372, 479.98639691707837)
+2012-09-27 20:22:23 [INFO] fhudgeons[/70.112.17.244:33321] logged in with entity id 542745 at (-433.99362894456885, 70.0, 362.88749130018124)
+2012-09-27 20:23:12 [INFO] <LukeandBrady> hjidhfhmhfhdjfh
+2012-09-27 20:24:13 [INFO] <LukeandBrady> don't mess with my houseeeeeeeeeeeeeeeee
+2012-09-27 20:25:57 [INFO] <LukeandBrady> follow me
+2012-09-27 20:27:54 [INFO] <LukeandBrady> look in the dispsier
+2012-09-27 20:29:21 [INFO] <LukeandBrady> look in the dispenser
+2012-09-27 20:33:26 [INFO] <LukeandBrady> i'll meet you in there
+2012-09-27 20:37:52 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-09-27 20:39:00 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-09-27 21:46:09 [INFO] LukeandBrady[/208.124.50.234:56118] logged in with entity id 554665 at (-377.30000001192093, 11.110000038918454, 425.13676915550604)
+2012-09-27 21:58:47 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-09-27 22:01:01 [INFO] LukeandBrady[/208.124.50.234:56282] logged in with entity id 569228 at (-428.0262081848096, 64.54205929913606, 440.6262263937852)
+2012-09-27 22:23:14 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-09-28 20:13:43 [INFO] LukeandBrady[/208.124.50.234:58938] logged in with entity id 587547 at (-411.89605354573087, 50.0, 477.3894054646518)
+2012-09-28 20:15:06 [INFO] [LukeandBrady: Set the time to 0]
+2012-09-28 20:46:24 [INFO] [LukeandBrady: Set the time to 0]
+2012-09-28 20:54:43 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-09-30 23:27:28 [INFO] fhudgeons[/70.112.17.244:32946] logged in with entity id 627135 at (-429.8271262652531, 70.0, 369.51249998807907)
+2012-09-30 23:32:26 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-06 13:01:50 [INFO] shudgeons[/70.112.17.244:33667] logged in with entity id 633583 at (-435.43399650162024, 64.0, 354.60530216018896)
+2012-10-06 13:01:54 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-06 20:03:25 [INFO] shudgeons[/70.112.17.244:33473] logged in with entity id 633819 at (-435.43399650162024, 64.0, 354.60530216018896)
+2012-10-06 20:03:38 [INFO] [shudgeons: Set the time to 0]
+2012-10-06 20:06:59 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-07 15:56:57 [INFO] LukeandBrady[/208.124.50.234:55359] logged in with entity id 637196 at (-466.2490190395516, 88.62228147028273, 519.2245247122034)
+2012-10-07 16:00:24 [INFO] [LukeandBrady: Set the time to 0]
+2012-10-07 16:33:49 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-10-07 21:14:07 [INFO] shudgeons[/70.112.17.244:32891] logged in with entity id 659281 at (-422.8608318037282, 57.0, 309.60959530930757)
+2012-10-07 21:14:26 [INFO] [shudgeons: Set the time to 0]
+2012-10-07 21:24:50 [INFO] [shudgeons: Set the time to 0]
+2012-10-07 21:28:51 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-08 18:56:11 [INFO] shudgeons[/70.112.17.244:33186] logged in with entity id 675895 at (-429.5739932346512, 67.50145708309742, 421.4841356946913)
+2012-10-08 18:56:19 [INFO] [shudgeons: Set the time to 0]
+2012-10-08 18:57:12 [INFO] fhudgeons[/70.112.17.244:33519] logged in with entity id 677130 at (-457.2479875337414, 65.10408037809304, 401.8661597093814)
+2012-10-08 19:06:35 [INFO] [shudgeons: Set the time to 0]
+2012-10-08 19:06:54 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-08 19:06:55 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-09 12:26:55 [INFO] shudgeons[/70.112.17.244:33339] logged in with entity id 691557 at (-509.9322897467156, 74.35433943274246, 464.8052375593932)
+2012-10-09 12:27:55 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-09 12:28:23 [INFO] shudgeons[/70.112.17.244:33391] logged in with entity id 692541 at (-478.9992522140954, 74.35433943274246, 451.2067248722184)
+2012-10-09 12:28:33 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-10 23:17:49 [INFO] LukeandBrady[/208.124.50.234:52396] logged in with entity id 692720 at (-418.66343117844406, 64.0, 459.30478757866797)
+2012-10-10 23:34:14 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-10-11 20:08:33 [INFO] fhudgeons[/70.112.17.244:33170] logged in with entity id 701977 at (-277.82756797612655, 81.9885667165557, 386.48436720074955)
+2012-10-11 20:09:15 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-11 20:09:17 [INFO] shudgeons[/70.112.17.244:32792] logged in with entity id 703204 at (-480.1684307970461, 74.35433943274246, 454.6224226436793)
+2012-10-11 20:10:57 [INFO] [shudgeons: Set own game mode to Survival Mode]
+2012-10-11 20:11:26 [INFO] [shudgeons: Set own game mode to Creative Mode]
+2012-10-11 20:14:26 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-11 20:18:03 [INFO] shudgeons[/70.112.17.244:33076] logged in with entity id 709372 at (-408.4788844489868, 63.0, 479.48750001192093)
+2012-10-11 20:18:15 [INFO] [shudgeons: Set the time to 0]
+2012-10-11 20:30:09 [INFO] fhudgeons[/70.112.17.244:33353] logged in with entity id 725314 at (-389.51376856112046, 74.27733714125642, 390.7931946043327)
+2012-10-11 20:30:52 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-11 20:31:43 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-11 20:32:50 [INFO] fhudgeons[/70.112.17.244:33727] logged in with entity id 726123 at (-410.0597651656159, 66.0, 333.57327215768424)
+2012-10-11 20:34:01 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-11 20:53:16 [INFO] shudgeons[/70.112.17.244:33119] logged in with entity id 726602 at (-465.69999998807907, 66.0, 427.5828312557627)
+2012-10-11 20:53:40 [INFO] [shudgeons: Set the time to 0]
+2012-10-11 20:55:46 [INFO] LukeandBrady[/208.124.50.234:49469] logged in with entity id 728682 at (-440.0868201331571, 69.3870181683717, 403.0466221075958)
+2012-10-11 20:56:03 [INFO] fhudgeons[/70.112.17.244:33634] logged in with entity id 729709 at (-410.5996231087709, 63.0, 329.5295631159749)
+2012-10-11 20:56:06 [INFO] <shudgeons> luke
+2012-10-11 20:56:26 [INFO] <LukeandBrady> here
+2012-10-11 20:56:41 [INFO] <shudgeons> luke!
+2012-10-11 20:59:25 [INFO] <shudgeons> : )
+2012-10-11 21:01:00 [INFO] <shudgeons> do not blowup the vilige
+2012-10-11 21:04:20 [INFO] [shudgeons: Set the time to 2]
+2012-10-11 21:05:46 [INFO] <shudgeons> luke come hear
+2012-10-11 21:09:17 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-11 21:09:22 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-11 21:14:49 [INFO] [LukeandBrady: Set the time to 0]
+2012-10-11 21:16:47 [INFO] LukeandBrady lost connection: disconnect.quitting
+2012-10-11 23:26:20 [INFO] shudgeons[/70.112.17.244:33790] logged in with entity id 753984 at (-469.9133351834069, 77.31771725183063, 596.4291675652634)
+2012-10-11 23:26:28 [INFO] [shudgeons: Set the time to 0]
+2012-10-12 00:02:26 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-12 12:02:13 [INFO] shudgeons[/70.112.17.244:33205] logged in with entity id 773593 at (-409.69172715754246, 63.0, 479.69999998807907)
+2012-10-12 12:02:59 [INFO] [shudgeons: Set the time to 0]
+2012-10-12 12:09:57 [INFO] [shudgeons: Set the time to 0]
+2012-10-12 12:13:49 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-12 20:40:43 [INFO] shudgeons[/70.112.17.244:33160] logged in with entity id 788629 at (-569.4653603481572, 67.77553679119062, 494.15229455811607)
+2012-10-12 20:40:52 [INFO] [shudgeons: Set the time to 0]
+2012-10-12 20:43:44 [INFO] [shudgeons: Set the time to 0]
+2012-10-12 20:44:37 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-12 20:46:33 [INFO] shudgeons[/70.112.17.244:33045] logged in with entity id 793107 at (-412.69999998807907, 63.0, 480.48474764528504)
+2012-10-12 20:46:37 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-13 12:23:30 [INFO] shudgeons[/70.112.17.244:32913] logged in with entity id 793308 at (-412.30000001192093, 63.0, 480.8960382522956)
+2012-10-13 12:23:40 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-13 13:55:07 [INFO] fhudgeons[/70.112.17.244:33282] logged in with entity id 793510 at (-460.423181103308, 73.0, 430.61121238271653)
+2012-10-13 13:55:26 [INFO] shudgeons[/70.112.17.244:33160] logged in with entity id 793792 at (-408.91041775613536, 63.0, 479.69999998807907)
+2012-10-13 13:55:40 [INFO] [shudgeons: Set the time to 0]
+2012-10-13 14:01:32 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-13 14:13:17 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-13 15:26:44 [INFO] shudgeons[/70.112.17.244:33116] logged in with entity id 810168 at (-433.5709487424164, 64.0, 374.11509570897954)
+2012-10-13 15:26:58 [INFO] [shudgeons: Set the time to 0]
+2012-10-13 15:27:09 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-13 15:37:41 [INFO] shudgeons[/70.112.17.244:33427] logged in with entity id 810973 at (-451.36701455787386, 79.27882134369295, 399.29076998205045)
+2012-10-13 15:37:48 [INFO] [shudgeons: Set the time to 0]
