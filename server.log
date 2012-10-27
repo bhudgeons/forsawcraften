@@ -2786,3 +2786,31 @@
 2012-10-13 15:27:09 [INFO] shudgeons lost connection: disconnect.quitting
 2012-10-13 15:37:41 [INFO] shudgeons[/70.112.17.244:33427] logged in with entity id 810973 at (-451.36701455787386, 79.27882134369295, 399.29076998205045)
 2012-10-13 15:37:48 [INFO] [shudgeons: Set the time to 0]
+2012-10-13 15:40:52 [INFO] bhudgeons[/70.112.17.244:33722] logged in with entity id 815498 at (-456.68299349092047, 68.0, 437.8185099604967)
+2012-10-13 15:41:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-10-13 15:47:41 [INFO] [shudgeons: Set the time to 0]
+2012-10-13 15:52:49 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-10-13 15:53:52 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-14 13:43:00 [INFO] shudgeons[/70.112.17.244:33359] logged in with entity id 833317 at (-354.30000001192093, 67.20317090288178, 501.49188116233455)
+2012-10-14 13:49:53 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-14 16:04:03 [INFO] shudgeons[/70.112.17.244:33019] logged in with entity id 837575 at (-315.2261308397276, 64.0, 523.935460557723)
+2012-10-14 16:04:14 [INFO] [shudgeons: Set the time to 0]
+2012-10-14 16:05:59 [INFO] LukeandBrady [/208.124.50.234:57965] lost connection
+2012-10-14 16:06:14 [INFO] LukeandBrady [/208.124.50.234:57969] lost connection
+2012-10-14 16:09:43 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-14 16:20:22 [INFO] LukeandBrady [/208.124.50.234:58016] lost connection
+2012-10-16 20:51:13 [INFO] shudgeons[/70.112.17.244:33433] logged in with entity id 844202 at (-460.16802581574234, 78.14491983019089, 462.26455002458977)
+2012-10-16 20:52:31 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-19 22:55:14 [INFO] shudgeons[/70.112.17.244:33164] logged in with entity id 845495 at (-361.50424415407844, 74.87785555699932, 384.89759094084684)
+2012-10-19 22:55:23 [INFO] [shudgeons: Set the time to 0]
+2012-10-19 22:57:11 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-21 18:31:30 [INFO] LukeandBrady [/208.124.50.234:53135] lost connection
+2012-10-21 18:36:05 [INFO] fhudgeons[/70.112.17.244:33188] logged in with entity id 848102 at (-488.9353620157392, 69.0, 427.4550483319273)
+2012-10-21 18:39:39 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-21 19:16:57 [INFO] fhudgeons[/70.112.17.244:32896] logged in with entity id 852835 at (-428.40689204742637, 60.0, 383.6115660815152)
+2012-10-21 19:22:20 [INFO] [fhudgeons: Toggled downfall]
+2012-10-21 19:22:49 [INFO] [fhudgeons: Toggled downfall]
+2012-10-21 19:23:15 [INFO] [fhudgeons: Toggled downfall]
+2012-10-21 19:25:27 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-25 20:36:48 [INFO] Disconnecting shudgeons [/70.112.17.244:33554]: Outdated server!
+2012-10-27 01:52:03 [INFO] Disconnecting shudgeons [/70.112.17.244:33090]: Outdated server!
