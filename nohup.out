@@ -274,3 +274,423 @@ Reached end of stream
 Reached end of stream
 Reached end of stream
 2012-10-27 01:52:03 [INFO] Disconnecting shudgeons [/70.112.17.244:33090]: Outdated server!
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:470)
+	at java.net.ServerSocket.accept(ServerSocket.java:438)
+	at fy.run(SourceFile:56)
+Closing listening thread
+208 recipes
+27 achievements
+2012-10-27 01:59:33 [INFO] Starting minecraft server version 1.4.2
+2012-10-27 01:59:33 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-10-27 01:59:33 [INFO] Loading properties
+2012-10-27 01:59:33 [INFO] Default game type: SURVIVAL
+2012-10-27 01:59:33 [INFO] Generating keypair
+2012-10-27 01:59:34 [INFO] Starting Minecraft server on *:25565
+2012-10-27 01:59:34 [INFO] Preparing level "world"
+2012-10-27 01:59:34 [INFO] Preparing start region for level 0
+2012-10-27 01:59:35 [INFO] Preparing spawn area: 69%
+2012-10-27 01:59:35 [INFO] Done (1.424s)! For help, type "help" or "?"
+2012-10-27 01:59:47 [INFO] bhudgeons[/70.112.17.244:33776] logged in with entity id 45 at (-242.70532039648543, 66.0, 393.7120269444841)
+2012-10-27 02:00:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-10-27 02:00:53 [INFO] [bhudgeons: Set own game mode to Survival Mode]
+2012-10-27 02:00:58 [INFO] [bhudgeons: Set own game mode to Creative Mode]
+2012-10-27 02:02:24 [INFO] shudgeons[/70.112.17.244:33522] logged in with entity id 4667 at (-412.23865584033916, 63.0, 479.3750238475833)
+2012-10-27 02:04:13 [INFO] [bhudgeons: Set own game mode to Survival Mode]
+2012-10-27 02:04:36 [INFO] [bhudgeons: Set own game mode to Creative Mode]
+2012-10-27 02:05:32 [INFO] fhudgeons[/70.112.17.244:32901] logged in with entity id 7893 at (-458.8886149507101, 65.0, 407.3017565370809)
+2012-10-27 02:07:37 [INFO] [bhudgeons: Set the time to 0]
+2012-10-27 02:10:08 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-10-27 02:10:48 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-27 02:12:43 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-27 03:22:52 [INFO] shudgeons[/70.112.17.244:33197] logged in with entity id 16581 at (-412.0279246126812, 57.0, 347.9483088116932)
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dt.a(SourceFile:141)
+	at dx.a(SourceFile:188)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-10-27 03:23:32 [INFO] shudgeons lost connection: disconnect.genericReason
+2012-10-27 13:37:42 [INFO] shudgeons[/70.112.17.244:33280] logged in with entity id 16894 at (-411.64245729834255, 57.0, 347.96442247342014)
+2012-10-27 13:40:30 [INFO] [shudgeons: Set the time to 0]
+2012-10-27 13:43:35 [INFO] fhudgeons[/70.112.17.244:33479] logged in with entity id 23887 at (-416.6747356664158, 71.98935876746026, 552.37127748846)
+2012-10-27 13:45:02 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-27 13:49:09 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-10-27 13:52:39 [INFO] shudgeons[/70.112.17.244:33695] logged in with entity id 32119 at (-457.0, 67.0, 440.00999999046326)
+2012-10-27 13:52:47 [INFO] [shudgeons: Set the time to 0]
+2012-10-27 14:02:39 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-27 14:04:32 [INFO] shudgeons[/70.112.17.244:33759] logged in with entity id 41042 at (-431.94373364385694, 64.0, 348.42999094598906)
+2012-10-27 14:05:46 [INFO] [shudgeons: Set the time to 0]
+2012-10-27 14:09:13 [INFO] [shudgeons: Set the time to 0]
+2012-10-27 14:19:20 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-27 15:18:46 [INFO] shudgeons[/70.112.17.244:32903] logged in with entity id 59790 at (1.4661809045141767, 58.0, -23.68184549362754)
+2012-10-27 15:18:53 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-27 15:56:16 [INFO] shudgeons[/70.112.17.244:32775] logged in with entity id 60120 at (0.4783210706468227, 58.0, -24.380394712586153)
+2012-10-27 15:58:07 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-28 16:46:41 [INFO] shudgeons[/70.112.17.244:33386] logged in with entity id 62136 at (14.124778775432045, 67.0, -44.62385819152711)
+2012-10-28 16:55:09 [INFO] shudgeons lost connection: disconnect.quitting
+2012-10-28 17:16:14 [INFO] shudgeons[/70.112.17.244:33691] logged in with entity id 68525 at (-0.32102438556543744, 58.0, -24.294862948168976)
+2012-10-28 17:17:33 [INFO] [shudgeons: Set the time to 0]
+2012-10-28 17:21:40 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-01 18:45:31 [INFO] jamiealter[/99.68.200.242:55794] logged in with entity id 80876 at (1.5, 60.62000000476837, -9.5)
+2012-11-01 18:45:34 [INFO] bhudgeons[/173.227.88.18:26435] logged in with entity id 81983 at (-362.7046870884866, 88.39439898962704, 420.8252611864426)
+2012-11-01 18:47:37 [INFO] <jamiealter> dfkfiu'Ojo;oiwwsssasAaaaas
+2012-11-01 18:47:48 [INFO] <bhudgeons> swim you bastard
+2012-11-01 18:48:23 [INFO] [bhudgeons: Set the time to 0]
+2012-11-01 18:49:39 [INFO] <bhudgeons> hey
+2012-11-01 18:49:44 [INFO] <bhudgeons> turn around
+2012-11-01 18:50:29 [INFO] <bhudgeons> hey bastard
+2012-11-01 18:50:33 [INFO] <jamiealter> WHAT UP
+2012-11-01 18:50:38 [INFO] <bhudgeons> follow me
+2012-11-01 18:51:09 [INFO] <bhudgeons> right-click the cart to get in
+2012-11-01 18:53:28 [INFO] <bhudgeons> did you get out?
+2012-11-01 18:54:12 [INFO] <bhudgeons> are you still here?
+2012-11-01 18:55:13 [INFO] <jamiealter> where am i
+2012-11-01 18:55:22 [INFO] <bhudgeons> did you get out of the card?
+2012-11-01 18:55:27 [INFO] <bhudgeons> cart?
+2012-11-01 18:55:31 [INFO] <jamiealter> im still in teh car
+2012-11-01 18:56:19 [INFO] <jamiealter> something killed me
+2012-11-01 18:57:23 [INFO] <bhudgeons> did you ride the cart all the way to the end?
+2012-11-01 18:57:30 [INFO] <jamiealter> yep
+2012-11-01 18:57:42 [INFO] <bhudgeons> i'm at the end of the rail now
+2012-11-01 18:57:57 [WARNING] jamiealter moved wrongly!
+2012-11-01 18:58:13 [INFO] <bhudgeons> you are not here
+2012-11-01 18:58:42 [INFO] <jamiealter> I died.. so i started again in the water
+2012-11-01 19:00:31 [INFO] <bhudgeons> im on my way back
+2012-11-01 19:00:40 [INFO] [bhudgeons: Set the time to 0]
+2012-11-01 19:04:47 [INFO] <bhudgeons> where are you now?
+2012-11-01 19:04:57 [INFO] <bhudgeons> go to the railroad track
+2012-11-01 19:05:30 [INFO] <bhudgeons> there you are
+2012-11-01 19:05:34 [INFO] <bhudgeons> follow me
+2012-11-01 19:06:03 [INFO] <bhudgeons> dude
+2012-11-01 19:06:09 [INFO] <jamiealter> where r u?
+2012-11-01 19:06:36 [INFO] <bhudgeons> see me?
+2012-11-01 19:06:51 [INFO] <jamiealter> no
+2012-11-01 19:07:00 [INFO] <bhudgeons> im standing in front of you
+2012-11-01 19:07:16 [INFO] <jamiealter> maybe a glitch.... i dont see u
+2012-11-01 19:07:20 [INFO] <bhudgeons> hmm
+2012-11-01 19:07:26 [INFO] <bhudgeons> stay there
+2012-11-01 19:07:28 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-01 19:07:33 [INFO] bhudgeons[/173.227.88.18:44317] logged in with entity id 125206 at (-115.08055673038048, 66.0, 132.33030448397642)
+2012-11-01 19:07:51 [INFO] <bhudgeons> now?
+2012-11-01 19:07:55 [INFO] <jamiealter> yep
+2012-11-01 19:08:00 [INFO] <bhudgeons> ok follow me
+2012-11-01 19:08:58 [INFO] <bhudgeons> whoops sorr wrong way
+2012-11-01 19:10:59 [INFO] <jamiealter> its like a pot farm
+2012-11-01 19:11:10 [INFO] <bhudgeons> this is nothing
+2012-11-01 19:11:22 [INFO] <bhudgeons> sawyer has gone apeshit here
+2012-11-01 19:11:31 [INFO] <jamiealter> you have lost all ability to call me a gaming nerd
+2012-11-01 19:11:41 [INFO] <bhudgeons> dude this is not me
+2012-11-01 19:11:49 [INFO] <bhudgeons> sawyer and ford did 99% of this
+2012-11-01 19:11:55 [INFO] <jamiealter> okay. wink. wink
+2012-11-01 19:12:09 [INFO] <jamiealter> this is what you do all day
+2012-11-01 19:12:15 [INFO] <bhudgeons> you can get stuff out of the cases here.  when you're done...
+2012-11-01 19:12:47 [INFO] <jamiealter> im kidding... Sawyer was totally in to this
+2012-11-01 19:12:50 [INFO] <bhudgeons> follow the railroad back the way we came (take a right at the fork)
+2012-11-01 19:13:05 [INFO] <bhudgeons> you'll find the other houses and stuff
+2012-11-01 19:13:13 [INFO] <bhudgeons> i have to work now :)
+2012-11-01 19:13:18 [INFO] <bhudgeons> adios
+2012-11-01 19:13:22 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-01 19:13:24 [INFO] <jamiealter> cool - adios
+2012-11-01 19:41:45 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-02 01:47:44 [INFO] jamiealter[/24.238.196.187:57591] logged in with entity id 158705 at (481.69999998807907, 63.0, -445.08703721937763)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-02 02:21:09 [INFO] jamiealter lost connection: disconnect.genericReason
+2012-11-03 18:57:45 [INFO] shudgeons[/70.112.17.244:34407] logged in with entity id 180748 at (336.50391763241106, 33.0, 1031.9782915027718)
+2012-11-03 18:58:14 [INFO] bhudgeons[/70.112.17.244:33170] logged in with entity id 181442 at (0.28302001144127503, 58.0, -25.165876656701755)
+2012-11-03 18:58:54 [INFO] [bhudgeons: Set the time to 0]
+2012-11-03 19:01:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:01:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:01:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:04:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:04:11 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-03 19:04:21 [INFO] bhudgeons[/70.112.17.244:32781] logged in with entity id 210597 at (-442.8792730538174, 84.0, 402.61899725627165)
+2012-11-03 19:04:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:06:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:06:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:07:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:10:09 [INFO] [shudgeons: Set the time to 0]
+2012-11-03 19:10:41 [INFO] fhudgeons[/70.112.17.244:36057] logged in with entity id 229737 at (-440.69999998807907, 64.0, 355.6723326860127)
+2012-11-03 19:13:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:13:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:14:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:15:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 19:15:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-03 19:16:14 [INFO] fhudgeons lost connection: disconnect.genericReason
+2012-11-03 19:16:27 [INFO] fhudgeons[/70.112.17.244:32831] logged in with entity id 244743 at (25.97823332861896, 125.03952163586735, -45.63740324762098)
+2012-11-03 19:17:26 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-03 19:19:49 [INFO] fhudgeons[/70.112.17.244:32946] logged in with entity id 247731 at (-1.9516864191582792, 69.31440041201083, 0.27205865102210497)
+2012-11-03 19:21:14 [INFO] [shudgeons: Set the time to 0]
+2012-11-03 19:31:22 [INFO] [bhudgeons: Set the time to 0]
+2012-11-03 19:35:11 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-03 19:35:22 [INFO] bhudgeons[/70.112.17.244:33029] logged in with entity id 261544 at (-0.3516855341629906, 64.0, -3.0960912343709808)
+2012-11-03 19:42:28 [INFO] [shudgeons: Set the time to 0]
+2012-11-03 19:42:31 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-03 19:49:09 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-03 19:50:19 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-03 19:50:36 [INFO] bhudgeons[/70.112.17.244:34326] logged in with entity id 278836 at (16.31886218480932, 84.71448390961028, -24.94948585018952)
+2012-11-03 19:50:56 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-03 21:05:06 [INFO] fhudgeons[/70.112.17.244:34769] logged in with entity id 279525 at (17.525189690693857, 70.23981936600332, -63.25062052884937)
+2012-11-03 21:06:37 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-03 21:07:00 [INFO] fhudgeons[/70.112.17.244:32892] logged in with entity id 298772 at (13.778499586188117, 69.0, -33.82516338590266)
+2012-11-03 21:08:51 [INFO] shudgeons[/70.112.17.244:34011] logged in with entity id 300859 at (-13.491465679526058, 66.4984434962073, -5.016564784189801)
+2012-11-03 21:17:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 21:18:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-03 21:28:49 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-03 21:31:57 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-03 22:48:09 [INFO] shudgeons[/70.112.17.244:33055] logged in with entity id 320379 at (156.91253443495384, 64.87805220509549, -74.88097383031537)
+2012-11-03 22:49:46 [INFO] [shudgeons: Set the time to 0]
+2012-11-03 22:50:09 [INFO] [shudgeons: Set the time to 50020]
+2012-11-03 22:50:23 [INFO] [shudgeons: Set the time to 12500]
+2012-11-03 22:59:39 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-03 23:48:10 [INFO] shudgeons[/70.112.17.244:35141] logged in with entity id 331144 at (-409.5396804886533, 68.51411695671177, 294.5761532447614)
+2012-11-03 23:52:19 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-04 15:13:43 [INFO] shudgeons[/70.112.17.244:36051] logged in with entity id 335350 at (-431.08838293365665, 60.0, 394.30000001192093)
+2012-11-04 15:16:16 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-04 21:05:54 [INFO] jamiealter[/24.238.196.187:51260] logged in with entity id 337654 at (46.699999988079064, 46.0, -57.69999998807908)
+2012-11-04 21:07:45 [INFO] edenalter[/24.238.196.187:56891] logged in with entity id 339573 at (3.5, 57.62000000476837, 8.5)
+2012-11-04 21:13:22 [WARNING] edenalter moved wrongly!
+2012-11-04 21:26:18 [WARNING] jamiealter moved wrongly!
+2012-11-04 21:28:44 [INFO] <jamiealter> Hey Edie! Its me Dad
+2012-11-04 21:28:51 [INFO] <edenalter> heyyy
+2012-11-04 22:19:41 [WARNING] jamiealter moved wrongly!
+2012-11-04 22:36:00 [WARNING] jamiealter moved wrongly!
+2012-11-04 22:59:08 [WARNING] jamiealter moved wrongly!
+2012-11-04 23:06:45 [WARNING] edenalter moved wrongly!
+2012-11-04 23:22:29 [WARNING] jamiealter moved wrongly!
+2012-11-05 00:04:50 [WARNING] edenalter moved wrongly!
+2012-11-05 00:15:40 [INFO] <edenalter> WHERE ARE YOU ?
+2012-11-05 00:36:15 [WARNING] edenalter moved wrongly!
+2012-11-05 00:40:37 [WARNING] jamiealter moved wrongly!
+2012-11-05 00:41:39 [WARNING] edenalter moved wrongly!
+2012-11-05 01:25:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 01:26:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 01:28:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 01:29:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 01:29:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 01:30:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 01:55:23 [INFO] <edenalter> DAYLIGHT IN 0
+2012-11-05 02:00:24 [INFO] <jamiealter> Im lying in Bed
+2012-11-05 02:00:40 [INFO] <jamiealter> so comfy
+2012-11-05 02:00:54 [INFO] <edenalter> I DONT HAVE A BED :{
+2012-11-05 02:00:54 [INFO] <jamiealter> BEASTIE G!
+2012-11-05 02:05:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:05:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:06:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:07:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:26:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:26:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:49:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:49:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:50:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 02:50:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-05 03:21:41 [INFO] edenalter lost connection: disconnect.quitting
+2012-11-05 03:21:43 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-05 03:21:51 [INFO] jamiealter[/24.238.196.187:51504] logged in with entity id 678525 at (-499.69999998807907, 70.0, 465.493803546593)
+2012-11-05 03:21:59 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-05 03:22:02 [INFO] edenalter[/24.238.196.187:56979] logged in with entity id 678752 at (-498.4796063005924, 70.0, 465.5297967194755)
+2012-11-05 03:22:11 [INFO] edenalter lost connection: disconnect.quitting
+2012-11-05 13:02:01 [INFO] edenalter[/24.238.196.187:56990] logged in with entity id 678966 at (-498.4796063005924, 70.0, 465.5297967194755)
+2012-11-05 13:14:01 [INFO] <edenalter> hello
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-05 13:21:23 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-05 13:21:42 [INFO] edenalter[/24.238.196.187:56999] logged in with entity id 695836 at (-498.69999998807907, 70.0, 465.4557106154793)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-05 13:31:40 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-05 23:38:43 [INFO] edenalter[/24.238.196.187:57031] logged in with entity id 702234 at (-498.69999998807907, 70.0, 465.4557106154793)
+2012-11-05 23:41:07 [INFO] edenalter lost connection: disconnect.endOfStream
+2012-11-05 23:49:30 [INFO] edenalter[/24.238.196.187:57045] logged in with entity id 704393 at (-498.3597399642294, 70.0, 465.00201014300933)
+2012-11-05 23:52:54 [INFO] edenalter lost connection: disconnect.quitting
+2012-11-06 00:02:58 [INFO] edenalter[/24.238.196.187:57327] logged in with entity id 706385 at (-498.3597399642294, 70.0, 465.00201014300933)
+2012-11-06 00:03:28 [INFO] jamiealter[/24.238.196.187:56564] logged in with entity id 706647 at (-499.69999998807907, 70.0, 465.493803546593)
+2012-11-06 00:07:59 [INFO] <edenalter> go to sleep
+2012-11-06 00:08:37 [INFO] <edenalter> GO TO SLEEP
+2012-11-06 00:30:49 [INFO] shudgeons[/70.112.17.244:33303] logged in with entity id 734309 at (-351.16961992816306, 67.05636714752922, 314.9597277709158)
+2012-11-06 00:32:39 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-06 00:52:51 [WARNING] edenalter moved wrongly!
+2012-11-06 02:45:56 [INFO] <edenalter> WHERE ARE U
+2012-11-06 03:28:06 [INFO] edenalter lost connection: disconnect.quitting
+2012-11-06 03:29:20 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-06 03:29:31 [INFO] jamiealter[/24.238.196.187:56713] logged in with entity id 882968 at (270.6586031569113, 95.0, -189.41497503526384)
+2012-11-06 03:29:58 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-06 21:12:05 [INFO] fhudgeons[/70.112.17.244:34485] logged in with entity id 883197 at (35.9764336217786, 63.0, -60.35058128852559)
+2012-11-06 21:31:28 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-06 21:31:36 [INFO] fhudgeons[/70.112.17.244:33768] logged in with entity id 917552 at (46.49676405454561, 67.0, -54.6332315716551)
+2012-11-06 21:32:36 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-07 01:27:00 [INFO] jamiealter[/24.238.196.187:49182] logged in with entity id 919587 at (270.4582143367784, 95.0, -189.92089321706263)
+2012-11-07 01:33:32 [INFO] edenalter[/24.238.196.187:58288] logged in with entity id 923893 at (268.5, 95.0, -188.5)
+2012-11-07 01:48:10 [INFO] <edenalter> 44tte
+2012-11-07 03:16:48 [WARNING] jamiealter moved wrongly!
+2012-11-07 03:20:43 [INFO] <jamiealter> `t
+2012-11-07 03:21:45 [INFO] <jamiealter> t
+2012-11-07 03:31:52 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-07 03:32:38 [INFO] edenalter lost connection: disconnect.quitting
+2012-11-07 23:05:59 [INFO] edenalter[/24.238.196.187:58408] logged in with entity id 999063 at (269.65962449195774, 107.0, -187.31258886174604)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-07 23:12:07 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-09 12:15:56 [INFO] shudgeons[/70.112.17.244:33993] logged in with entity id 1003159 at (-507.1641410516259, 75.0288225327488, 449.8451930809141)
+2012-11-09 12:23:27 [INFO] <shudgeons> who greeft
+2012-11-09 12:25:09 [INFO] fhudgeons[/70.112.17.244:33218] logged in with entity id 1010441 at (4.621023096368663, 81.0, -23.957666801373513)
+2012-11-09 12:34:53 [INFO] [shudgeons: Set the time to 0]
+2012-11-09 12:43:39 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-09 12:43:56 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-10 02:56:38 [INFO] fhudgeons[/70.112.17.244:33036] logged in with entity id 1045307 at (-465.01817440744634, 66.0, 431.6918829488372)
+2012-11-10 03:09:33 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-10 13:17:36 [INFO] shudgeons[/70.112.17.244:33484] logged in with entity id 1067341 at (-510.13842651062487, 48.0, 249.61659062845888)
+2012-11-10 13:30:00 [INFO] fhudgeons[/70.112.17.244:33394] logged in with entity id 1074149 at (-428.00971171611127, 64.0, 363.9779541128515)
+2012-11-10 13:34:15 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-10 14:00:41 [INFO] fhudgeons lost connection: disconnect.endOfStream
+2012-11-10 15:55:50 [INFO] edenalter[/24.238.196.187:62267] logged in with entity id 1098984 at (269.895059465445, 103.0, -187.5019426347394)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-10 16:04:01 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-10 16:04:21 [INFO] shudgeons[/70.112.17.244:32847] logged in with entity id 1104670 at (-457.0, 67.0, 440.00999999046326)
+2012-11-10 16:06:58 [INFO] shudgeons lost connection: disconnect.quitting
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-10 21:01:39 [INFO] Disconnecting shudgeons [/70.112.17.244:32917]: Took too long to log in
+2012-11-10 23:50:54 [INFO] HarryDiamand[/70.113.89.231:50638] logged in with entity id 1109713 at (2.5, 57.62000000476837, 5.5)
+2012-11-10 23:54:22 [INFO] HarryDiamand lost connection: disconnect.quitting
+2012-11-10 23:54:29 [INFO] HarryDiamand [/70.113.89.231:50645] lost connection
+2012-11-10 23:54:37 [INFO] HarryDiamand[/70.113.89.231:50648] logged in with entity id 1113848 at (1.925000011920928, 63.0, -13.035540598329291)
+2012-11-10 23:56:02 [INFO] HarryDiamand lost connection: disconnect.quitting
+2012-11-11 14:29:20 [INFO] shudgeons[/70.112.17.244:34129] logged in with entity id 1114797 at (-454.6234799057674, 66.0, 439.3027195251271)
+2012-11-11 14:34:41 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-11 15:21:16 [INFO] shudgeons [/70.112.17.244:35538] lost connection
+2012-11-11 15:21:26 [INFO] shudgeons [/70.112.17.244:33334] lost connection
+2012-11-11 15:21:38 [INFO] shudgeons [/70.112.17.244:33726] lost connection
+2012-11-11 15:22:00 [INFO] shudgeons [/70.112.17.244:33761] lost connection
+2012-11-11 15:22:08 [INFO] fhudgeons[/70.112.17.244:33285] logged in with entity id 1119794 at (-295.25955339727085, 66.0, 391.0537139450562)
+2012-11-11 15:22:15 [INFO] shudgeons[/70.112.17.244:33733] logged in with entity id 1119974 at (-280.27529984998995, 79.52882134360088, 377.2096404833569)
+2012-11-11 15:22:23 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-11 15:27:43 [INFO] HarryDiamand[/70.113.89.231:51953] logged in with entity id 1125196 at (0.24220208856565778, 63.0, -14.633025631751805)
+2012-11-11 15:28:13 [INFO] <shudgeons> harry
+2012-11-11 15:28:47 [INFO] HarryDiamand lost connection: disconnect.quitting
+2012-11-11 15:30:01 [INFO] [shudgeons: Opped harrydiamand]
+2012-11-11 15:35:21 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-11 15:44:04 [INFO] shudgeons [/70.112.17.244:33605] lost connection
+2012-11-11 15:44:20 [INFO] fhudgeons [/70.112.17.244:33425] lost connection
+2012-11-11 15:44:43 [INFO] fhudgeons[/70.112.17.244:32853] logged in with entity id 1145137 at (-295.25955339727085, 66.0, 391.0537139450562)
+2012-11-11 15:44:54 [INFO] shudgeons [/70.112.17.244:33966] lost connection
+2012-11-11 15:45:04 [INFO] shudgeons [/70.112.17.244:32823] lost connection
+2012-11-11 15:45:08 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-11 18:18:56 [INFO] shudgeons[/70.112.17.244:33483] logged in with entity id 1146051 at (0.8694764319861162, 64.0, -3.7359360675687734)
+2012-11-11 18:19:08 [INFO] [shudgeons: Set the time to 0]
+2012-11-11 18:26:27 [INFO] fhudgeons[/70.112.17.244:33114] logged in with entity id 1154147 at (-295.25955339727085, 66.0, 391.0537139450562)
+2012-11-11 18:37:00 [INFO] [shudgeons: Set the time to 0]
+2012-11-11 18:37:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-11 18:38:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-11 18:39:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-11 18:39:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-11 18:47:38 [INFO] [shudgeons: Set the time to 0]
+2012-11-11 18:56:00 [INFO] <fhudgeons> hery
+2012-11-11 18:57:25 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-11 23:47:06 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-12 16:22:13 [INFO] shudgeons[/70.112.17.244:34567] logged in with entity id 1302293 at (-298.30754722016184, 68.36579905689062, 398.3302809636811)
+2012-11-12 16:24:58 [INFO] [shudgeons: Set the time to 0]
+2012-11-12 16:26:28 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-16 21:20:02 [INFO] edenalter[/24.238.196.187:50917] logged in with entity id 1308068 at (267.5, 95.0, -191.5)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-16 21:21:11 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-16 21:21:18 [INFO] edenalter[/24.238.196.187:50923] logged in with entity id 1309052 at (270.30000001192093, 96.41999998688698, -186.94041287010475)
+2012-11-16 21:23:11 [INFO] edenalter lost connection: disconnect.quitting
+2012-11-16 23:27:57 [INFO] edenalter[/24.238.196.187:51870] logged in with entity id 1310373 at (270.60728879267117, 95.95584061193154, -188.11506229868098)
+2012-11-16 23:33:44 [INFO] edenalter lost connection: disconnect.endOfStream
+2012-11-17 12:47:43 [INFO] Disconnecting HarryDiamand [/70.113.89.231:50829]: Outdated server!
+2012-11-21 05:26:36 [INFO] edenalter[/24.238.196.187:53258] logged in with entity id 1315026 at (270.71361036169606, 95.0, -188.64576845802367)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at anq.a(Unknown Source)
+	at anq.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at dx.a(SourceFile:177)
+	at bx.i(SourceFile:248)
+	at bx.c(SourceFile:23)
+	at by.run(SourceFile:101)
+2012-11-21 05:32:53 [INFO] edenalter lost connection: disconnect.genericReason
