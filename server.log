@@ -3117,3 +3117,288 @@
 2012-11-17 12:47:43 [INFO] Disconnecting HarryDiamand [/70.113.89.231:50829]: Outdated server!
 2012-11-21 05:26:36 [INFO] edenalter[/24.238.196.187:53258] logged in with entity id 1315026 at (270.71361036169606, 95.0, -188.64576845802367)
 2012-11-21 05:32:53 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-21 18:19:32 [INFO] Starting minecraft server version 1.4.2
+2012-11-21 18:19:32 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-11-21 18:19:32 [INFO] Loading properties
+2012-11-21 18:19:32 [INFO] Default game type: SURVIVAL
+2012-11-21 18:19:32 [INFO] Generating keypair
+2012-11-21 18:19:33 [INFO] Starting Minecraft server on *:25565
+2012-11-21 18:19:33 [INFO] Preparing level "world"
+2012-11-21 18:19:33 [INFO] Preparing start region for level 0
+2012-11-21 18:19:34 [INFO] Preparing spawn area: 68%
+2012-11-21 18:19:34 [INFO] Done (1.437s)! For help, type "help" or "?"
+2012-11-21 18:24:27 [INFO] Starting minecraft server version 1.4.5
+2012-11-21 18:24:27 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-11-21 18:24:27 [INFO] Loading properties
+2012-11-21 18:24:27 [INFO] Default game type: SURVIVAL
+2012-11-21 18:24:27 [INFO] Generating keypair
+2012-11-21 18:24:27 [INFO] Starting Minecraft server on *:25565
+2012-11-21 18:24:27 [INFO] Preparing level "world"
+2012-11-21 18:24:27 [INFO] Preparing start region for level 0
+2012-11-21 18:24:28 [INFO] Preparing spawn area: 71%
+2012-11-21 18:24:29 [INFO] Done (1.404s)! For help, type "help" or "?"
+2012-11-21 18:40:45 [INFO] bhudgeons[/24.238.196.187:52067] logged in with entity id 48 at (14.223087618140347, 84.71448390961028, -35.076061028974365)
+2012-11-21 18:41:28 [INFO] [bhudgeons: Set the time to 0]
+2012-11-21 18:49:03 [INFO] [bhudgeons: Set bhudgeons's spawn point to (-248, 85, -365)]
+2012-11-21 18:51:54 [INFO] [bhudgeons: Set the time to 0]
+2012-11-21 18:54:41 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-21 18:54:44 [INFO] bhudgeons[/24.238.196.187:52135] logged in with entity id 41297 at (-69.48711530185287, 90.13268656959372, -383.9030295539387)
+2012-11-21 19:01:55 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-11-21 19:06:42 [INFO] alterslider[/24.238.196.187:52365] logged in with entity id 61697 at (-5.5, 57.62000000476837, -5.5)
+2012-11-21 19:39:44 [INFO] alterslider lost connection: disconnect.quitting
+2012-11-22 01:19:45 [INFO] edenalter[/24.238.196.187:53526] logged in with entity id 107549 at (269.7675599416186, 103.0, -189.71440807031468)
+2012-11-22 01:20:49 [INFO] edenalter lost connection: disconnect.quitting
+2012-11-25 15:27:27 [INFO] shudgeons[/70.112.17.244:33602] logged in with entity id 108820 at (-457.0, 67.08584060716316, 440.00999999046326)
+2012-11-25 15:27:40 [INFO] [shudgeons: Set the time to 0]
+2012-11-25 15:44:57 [INFO] [shudgeons: Set the time to 0]
+2012-11-25 15:45:09 [INFO] fhudgeons[/70.112.17.244:33694] logged in with entity id 136819 at (-393.7528200639625, 63.0, 360.66117299881023)
+2012-11-25 15:45:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:46:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:47:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:49:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:50:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:52:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:53:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:53:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:53:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:55:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:56:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:56:16 [INFO] [shudgeons: Set the time to 0]
+2012-11-25 15:56:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 15:56:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-11-25 16:03:06 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-25 16:03:28 [INFO] shudgeons lost connection: disconnect.genericReason
+2012-11-26 12:56:07 [INFO] shudgeons[/70.112.17.244:33331] logged in with entity id 177970 at (273.4946009641618, 87.0, -202.5235863268735)
+2012-11-26 13:51:59 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-26 20:58:15 [INFO] shudgeons[/70.112.17.244:33710] logged in with entity id 208160 at (261.50673456898767, 88.0, -199.79371951444801)
+2012-11-26 21:08:16 [INFO] <shudgeons> time set 0
+2012-11-26 21:10:20 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-26 21:30:54 [INFO] shudgeons[/70.112.17.244:33558] logged in with entity id 232556 at (-259.91825621813894, 72.98909084770365, 375.8552981080838)
+2012-11-26 21:30:57 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-27 16:07:56 [INFO] edenalter[/24.238.196.187:49164] logged in with entity id 232758 at (253.69999998807904, 82.0, -177.69999998807907)
+2012-11-27 16:21:54 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-27 16:23:52 [INFO] edenalter[/24.238.196.187:49225] logged in with entity id 243006 at (270.2259833270574, 103.0, -190.69999998807907)
+2012-11-27 16:25:04 [INFO] jamiealter[/24.238.196.187:55215] logged in with entity id 243632 at (268.40382798324475, 107.0, -187.6497650011551)
+2012-11-27 16:28:37 [INFO] <edenalter> i see u (;
+2012-11-27 16:34:17 [INFO] <edenalter> \]\
+2012-11-27 16:37:58 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-27 16:38:03 [INFO] edenalter[/24.238.196.187:49234] logged in with entity id 254087 at (269.74764666067614, 115.0, -184.74732474446282)
+2012-11-27 16:38:43 [INFO] edenalter lost connection: disconnect.genericReason
+2012-11-27 16:39:15 [INFO] edenalter[/24.238.196.187:49236] logged in with entity id 255299 at (269.74764666067614, 115.0, -184.74732474446282)
+2012-11-27 16:42:18 [INFO] <edenalter> \
+2012-11-27 17:45:49 [INFO] <edenalter> GO TO SLEEP
+2012-11-27 17:45:55 [INFO] <edenalter> WAITING 4 U
+2012-11-27 17:45:59 [INFO] <edenalter> HURRY
+2012-11-27 18:06:14 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-27 18:06:21 [INFO] edenalter lost connection: disconnect.endOfStream
+2012-11-28 12:48:58 [INFO] shudgeons[/70.112.17.244:33683] logged in with entity id 307471 at (-258.80752793950177, 72.98909084770365, 380.8640376656343)
+2012-11-28 12:51:24 [INFO] fhudgeons[/70.112.17.244:32777] logged in with entity id 311057 at (249.00756116947224, 87.0, -201.242371472155)
+2012-11-28 12:58:30 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-28 12:58:30 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-28 20:59:14 [INFO] shudgeons[/70.112.17.244:33550] logged in with entity id 331747 at (250.1913608355033, 45.0, -168.16934796675795)
+2012-11-28 20:59:26 [INFO] fhudgeons[/70.112.17.244:33538] logged in with entity id 332013 at (39.34765600401811, 64.0, -65.31683552385962)
+2012-11-28 21:01:15 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-11-28 21:12:32 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-28 21:23:42 [INFO] shudgeons[/70.112.17.244:33453] logged in with entity id 341968 at (271.6999999880791, 95.0, -191.5361073359925)
+2012-11-28 21:24:58 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-28 22:41:38 [INFO] HarryDiamand [/70.113.89.231:64202] lost connection
+2012-11-28 22:41:51 [INFO] HarryDiamand [/70.113.89.231:64205] lost connection
+2012-11-28 22:42:14 [INFO] HarryDiamand [/70.113.89.231:64209] lost connection
+2012-11-28 22:46:59 [INFO] HarryDiamand[/70.113.89.231:64397] logged in with entity id 342747 at (98.69999998807907, 53.0, -58.30000001192091)
+2012-11-28 22:47:17 [INFO] HarryDiamand lost connection: disconnect.quitting
+2012-11-28 22:47:22 [INFO] HarryDiamand[/70.113.89.231:64402] logged in with entity id 344241 at (3.5, 73.0, 2.5)
+2012-11-28 22:47:27 [INFO] HarryDiamand lost connection: disconnect.quitting
+2012-11-29 00:10:12 [INFO] shudgeons[/70.112.17.244:33480] logged in with entity id 344306 at (252.4233990934641, 50.95504923243429, -181.42500001192093)
+2012-11-29 00:11:38 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-29 00:29:32 [INFO] shudgeons[/70.112.17.244:33516] logged in with entity id 345053 at (249.51812789963475, 46.0, -181.42109857469728)
+2012-11-29 00:30:32 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-29 01:09:27 [INFO] jamiealter[/24.238.196.187:49175] logged in with entity id 345654 at (250.08432316691434, 72.0, -190.1991325911456)
+2012-11-29 01:32:35 [INFO] jamiealter lost connection: disconnect.quitting
+2012-11-29 02:17:25 [INFO] shudgeons[/70.112.17.244:32996] logged in with entity id 359068 at (252.69999998807907, 72.32751644301347, -181.42500001192093)
+2012-11-29 02:21:29 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-30 12:23:23 [INFO] shudgeons[/70.112.17.244:33601] logged in with entity id 361080 at (253.54413946949512, 82.0, -178.69999998807907)
+2012-11-30 12:25:02 [INFO] shudgeons lost connection: disconnect.quitting
+2012-11-30 12:28:53 [INFO] shudgeons[/70.112.17.244:32944] logged in with entity id 361831 at (194.0712672695332, 46.0, -181.69999998807907)
+2012-11-30 12:30:56 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-01 00:03:49 [INFO] spitblast[/72.177.30.184:50636] logged in with entity id 363779 at (-9.5, 60.62000000476837, 8.5)
+2012-12-01 00:14:58 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-01 02:11:48 [INFO] spitblast [/72.177.30.184:49712] lost connection
+2012-12-01 14:05:31 [INFO] shudgeons[/70.112.17.244:33617] logged in with entity id 378258 at (270.4345970084169, 120.0, -185.85268540034957)
+2012-12-01 14:10:16 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-01 15:22:01 [INFO] HarryDiamand [/70.113.89.231:53257] lost connection
+2012-12-01 15:22:10 [INFO] HarryDiamand [/70.113.89.231:53260] lost connection
+2012-12-01 15:22:27 [INFO] HarryDiamand [/70.113.89.231:53264] lost connection
+2012-12-01 15:22:55 [INFO] HarryDiamand [/70.113.89.231:53268] lost connection
+2012-12-01 15:25:19 [INFO] HarryDiamand [/70.113.89.231:53275] lost connection
+2012-12-01 15:54:19 [INFO] HarryDiamand [/70.113.89.231:53316] lost connection
+2012-12-01 15:54:31 [INFO] HarryDiamand [/70.113.89.231:53319] lost connection
+2012-12-01 15:54:46 [INFO] HarryDiamand [/70.113.89.231:53323] lost connection
+2012-12-01 17:44:10 [INFO] fhudgeons[/70.112.17.244:33497] logged in with entity id 391202 at (31.8161164618775, 64.0, -65.10859274801831)
+2012-12-01 17:44:40 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-01 17:58:31 [INFO] shudgeons[/70.112.17.244:33261] logged in with entity id 392072 at (-428.69999998807907, 60.0, 393.7053064828719)
+2012-12-01 17:59:22 [INFO] [shudgeons: Opped spitblast]
+2012-12-01 17:59:43 [INFO] fhudgeons[/70.112.17.244:33325] logged in with entity id 392719 at (25.88946727790236, 62.0, -65.74882331815833)
+2012-12-01 18:01:30 [INFO] [fhudgeons: Teleported fhudgeons to shudgeons]
+2012-12-01 18:03:31 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 18:11:14 [INFO] [shudgeons: Toggled downfall]
+2012-12-01 18:13:56 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 18:14:19 [INFO] [shudgeons: Toggled downfall]
+2012-12-01 18:15:09 [INFO] [shudgeons: Toggled downfall]
+2012-12-01 18:18:33 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-01 18:21:21 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-01 21:03:56 [INFO] bhudgeons[/70.112.17.244:34000] logged in with entity id 431430 at (29.427362291177708, 67.0, -41.47292089907724)
+2012-12-01 21:04:37 [INFO] fhudgeons[/70.112.17.244:33906] logged in with entity id 432725 at (-494.27659327306685, 70.0, 456.6390151957008)
+2012-12-01 21:04:47 [INFO] shudgeons[/70.112.17.244:33624] logged in with entity id 433591 at (-412.9047623995478, 50.0, 477.30000001192093)
+2012-12-01 21:05:00 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 21:06:25 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-12-01 21:06:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:06:33 [INFO] bhudgeons[/70.112.17.244:32768] logged in with entity id 444359 at (-311.5, 63.69999998807907, 232.1784571703473)
+2012-12-01 21:06:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:07:05 [INFO] [bhudgeons: Teleported bhudgeons to bhudgeons]
+2012-12-01 21:07:15 [INFO] [bhudgeons: Teleported bhudgeons to shudgeons]
+2012-12-01 21:07:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:13:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:14:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:14:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:15:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:15:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:15:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:16:01 [INFO] [shudgeons: Toggled downfall]
+2012-12-01 21:16:09 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 21:16:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:16:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:16:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:17:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:17:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:17:58 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-01 21:17:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-01 21:18:13 [INFO] [shudgeons: Toggled downfall]
+2012-12-01 21:26:27 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 21:36:33 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 21:45:08 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-12-01 21:47:20 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 21:57:31 [INFO] [shudgeons: Set the time to 0]
+2012-12-01 22:02:31 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-01 22:57:58 [INFO] Disconnecting spitblast [/208.191.157.180:50569]: Took too long to log in
+2012-12-01 22:58:08 [INFO] spitblast[/208.191.157.180:50590] logged in with entity id 528972 at (-432.7813557020792, 70.0, 366.44259556978795)
+2012-12-01 22:58:20 [INFO] [spitblast: Set own game mode to Creative Mode]
+2012-12-01 22:58:23 [INFO] Disconnecting /208.191.157.180:50580: Took too long to log in
+2012-12-01 23:33:52 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-01 23:35:15 [INFO] Disconnecting somethingstupid9 [/24.155.177.226:49656]: Took too long to log in
+2012-12-01 23:35:19 [INFO] Disconnecting spitblast [/208.191.157.180:50642]: Took too long to log in
+2012-12-01 23:35:57 [INFO] somethingstupid9 [/24.155.177.226:49666] lost connection
+2012-12-01 23:36:05 [INFO] somethingstupid9 [/24.155.177.226:49675] lost connection
+2012-12-01 23:36:46 [INFO] spitblast[/208.191.157.180:50687] logged in with entity id 561656 at (-349.8634129394556, 64.04689495826226, 351.79790705937705)
+2012-12-01 23:39:39 [INFO] somethingstupid9 [/24.155.177.226:49696] lost connection
+2012-12-01 23:40:13 [INFO] somethingstupid9 [/24.155.177.226:49712] lost connection
+2012-12-01 23:40:20 [INFO] somethingstupid9 [/24.155.177.226:49721] lost connection
+2012-12-01 23:40:40 [INFO] somethingstupid9 [/24.155.177.226:49730] lost connection
+2012-12-01 23:40:49 [INFO] somethingstupid9 [/24.155.177.226:49739] lost connection
+2012-12-01 23:48:28 [INFO] spitblast lost connection: disconnect.genericReason
+2012-12-01 23:49:02 [INFO] spitblast [/208.191.157.180:50733] lost connection
+2012-12-01 23:49:25 [INFO] spitblast [/208.191.157.180:50772] lost connection
+2012-12-01 23:49:40 [INFO] spitblast [/208.191.157.180:50783] lost connection
+2012-12-01 23:49:43 [INFO] Disconnecting /208.191.157.180:50753: Took too long to log in
+2012-12-01 23:50:51 [INFO] spitblast [/208.191.157.180:50812] lost connection
+2012-12-01 23:52:08 [INFO] spitblast [/208.191.157.180:50861] lost connection
+2012-12-01 23:52:32 [INFO] Disconnecting /208.191.157.180:50852: Took too long to log in
+2012-12-01 23:53:23 [INFO] spitblast [/208.191.157.180:50884] lost connection
+2012-12-01 23:53:41 [INFO] Disconnecting /208.191.157.180:50870: Took too long to log in
+2012-12-02 00:15:44 [INFO] somethingstupid9[/24.155.177.226:49799] logged in with entity id 574175 at (-4.5, 57.62000000476837, -4.5)
+2012-12-02 00:16:23 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2012-12-02 00:17:04 [INFO] spitblast[/24.155.177.226:49815] logged in with entity id 575038 at (-337.69999998807907, 63.0, 348.3940886333585)
+2012-12-02 00:19:42 [INFO] [spitblast: Opped somethingstupid9]
+2012-12-02 00:32:14 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-02 00:55:36 [INFO] spitblast[/24.155.177.226:49842] logged in with entity id 585566 at (-346.22815567698666, 64.0, 348.097747391544)
+2012-12-02 01:02:01 [INFO] [spitblast: Set the time to 12500]
+2012-12-02 01:43:33 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-02 02:10:36 [INFO] spitblast[/24.155.177.226:50253] logged in with entity id 631633 at (-440.7067805538819, 64.0, 446.3396060551845)
+2012-12-02 02:11:02 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-02 05:01:31 [INFO] jamiealter[/24.238.196.187:52504] logged in with entity id 632028 at (252.44371705662903, 63.0, -179.21995439629717)
+2012-12-02 05:45:50 [INFO] jamiealter lost connection: disconnect.quitting
+2012-12-02 13:04:14 [INFO] spitblast[/208.191.157.180:51029] logged in with entity id 661546 at (-459.46490107366515, 66.05630099123026, 456.5007793819163)
+2012-12-02 13:04:34 [INFO] Disconnecting /208.191.157.180:51015: Took too long to log in
+2012-12-02 13:06:44 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-02 14:27:26 [INFO] Disconnecting /208.191.157.180:52534: Took too long to log in
+2012-12-02 14:38:09 [INFO] shudgeons[/70.112.17.244:33042] logged in with entity id 663779 at (-563.4824612058256, 107.5099258190342, 526.0698672331904)
+2012-12-02 14:39:31 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-02 15:47:32 [INFO] shudgeons[/70.112.17.244:33511] logged in with entity id 667513 at (-584.7042421248345, 101.4893559654544, 525.0953972408262)
+2012-12-02 15:47:43 [INFO] [shudgeons: Set the time to 0]
+2012-12-02 16:02:28 [INFO] [shudgeons: Set the time to 0]
+2012-12-02 16:03:10 [INFO] <shudgeons> tp spitblast
+2012-12-02 16:12:38 [INFO] [shudgeons: Set the time to 0]
+2012-12-02 16:21:04 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-02 17:19:17 [INFO] HarryDiamand [/70.113.89.231:54830] lost connection
+2012-12-02 17:19:28 [INFO] HarryDiamand [/70.113.89.231:54843] lost connection
+2012-12-02 17:34:47 [INFO] shudgeons[/70.112.17.244:33539] logged in with entity id 705669 at (-343.50882627248325, 77.4025990097532, 352.1752963666666)
+2012-12-02 17:35:06 [INFO] [shudgeons: Toggled downfall]
+2012-12-02 17:42:39 [INFO] [shudgeons: Set the time to 0]
+2012-12-02 17:50:09 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-02 18:07:59 [INFO] HarryDiamand [/70.113.89.231:54931] lost connection
+2012-12-02 19:31:51 [INFO] shudgeons [/70.112.17.244:32851] lost connection
+2012-12-02 19:31:58 [INFO] shudgeons[/70.112.17.244:33203] logged in with entity id 743138 at (264.56783935196404, 119.0, -183.69999998807913)
+2012-12-02 19:32:46 [INFO] [shudgeons: Set the time to 0]
+2012-12-02 19:33:54 [INFO] fhudgeons [/70.112.17.244:33325] lost connection
+2012-12-02 19:34:06 [INFO] fhudgeons[/70.112.17.244:33361] logged in with entity id 777147 at (-465.6680764562895, 69.1116330269739, 437.0482942562662)
+2012-12-02 19:34:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:35:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:35:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:36:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:36:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:36:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:36:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:37:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:38:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:38:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:38:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:39:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:39:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:40:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:40:38 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-02 19:40:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:40:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:41:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:41:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 19:46:33 [INFO] fhudgeons lost connection: disconnect.genericReason
+2012-12-02 21:44:06 [INFO] bhudgeons[/70.112.17.244:33535] logged in with entity id 802537 at (-570.0779239541721, 66.0, 551.257618815555)
+2012-12-02 21:46:37 [INFO] [bhudgeons: Set the time to 0]
+2012-12-02 21:48:29 [INFO] shudgeons[/70.112.17.244:32834] logged in with entity id 808734 at (-227.93231610856313, 82.0288213436774, 398.90803625760805)
+2012-12-02 21:49:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 21:49:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 21:54:02 [INFO] [shudgeons: Toggled downfall]
+2012-12-02 21:54:30 [INFO] [shudgeons: Toggled downfall]
+2012-12-02 21:55:42 [INFO] fhudgeons[/70.112.17.244:34590] logged in with entity id 820443 at (-536.6904083808249, 79.12805220768372, 723.5510026286751)
+2012-12-02 21:56:56 [INFO] [shudgeons: Set the time to 0]
+2012-12-02 22:02:18 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-12-02 22:02:18 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-02 22:03:09 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-02 22:35:22 [INFO] shudgeons[/70.112.17.244:33469] logged in with entity id 834749 at (-566.3130977999658, 66.0, 534.7008802292673)
+2012-12-02 22:35:29 [INFO] [shudgeons: Set the time to 0]
+2012-12-02 22:35:40 [INFO] fhudgeons[/70.112.17.244:32823] logged in with entity id 835082 at (-565.8061865678816, 66.0, 533.268392620909)
+2012-12-02 22:36:00 [INFO] Disconnecting fhudgeons [/70.112.17.244:32786]: Took too long to log in
+2012-12-02 22:42:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 22:42:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-02 22:44:20 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-02 22:46:07 [INFO] fhudgeons lost connection: disconnect.genericReason
+2012-12-03 01:17:25 [INFO] spitblast[/208.191.157.180:49214] logged in with entity id 851772 at (-337.3709151373971, 64.0, 350.125982609174)
+2012-12-03 01:56:23 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-03 01:57:08 [INFO] spitblast[/208.191.157.180:49348] logged in with entity id 880546 at (-335.16067114321515, 89.9799159088042, 384.4099194381081)
+2012-12-03 01:57:35 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-03 21:16:08 [INFO] HarryDiamand [/70.113.89.231:55012] lost connection
+2012-12-03 21:17:07 [INFO] HarryDiamand [/70.113.89.231:55068] lost connection
+2012-12-03 21:17:16 [INFO] HarryDiamand [/70.113.89.231:55072] lost connection
+2012-12-03 23:40:34 [INFO] shudgeons[/70.112.17.244:33639] logged in with entity id 880923 at (-358.11049974329734, 81.52882134380482, 401.6379701935438)
+2012-12-03 23:41:13 [INFO] shudgeons lost connection: disconnect.endOfStream
+2012-12-03 23:48:43 [INFO] shudgeons[/70.112.17.244:33946] logged in with entity id 881315 at (-365.5439935418957, 81.52882134380482, 417.978705719687)
+2012-12-03 23:48:52 [INFO] [shudgeons: Set the time to 0]
+2012-12-03 23:58:40 [INFO] fhudgeons[/70.112.17.244:34469] logged in with entity id 950446 at (-346.71695279142386, 62.0, 330.12344557510016)
+2012-12-03 23:59:31 [INFO] [shudgeons: Set the time to 0]
+2012-12-04 00:10:06 [INFO] [shudgeons: Set the time to 0]
+2012-12-04 00:14:39 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-04 00:20:22 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-04 01:57:26 [INFO] shudgeons [/70.112.17.244:33042] lost connection
+2012-12-04 01:57:34 [INFO] shudgeons[/70.112.17.244:33150] logged in with entity id 991578 at (-343.83277038037437, 64.5, 363.19999998807907)
+2012-12-04 02:02:28 [INFO] [shudgeons: Set the time to 0]
+2012-12-04 02:49:02 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-04 14:32:53 [INFO] somethingstupid9 [/24.155.177.226:49294] lost connection
+2012-12-04 14:32:59 [INFO] somethingstupid9 [/24.155.177.226:49303] lost connection
