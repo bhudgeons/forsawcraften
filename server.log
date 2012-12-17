@@ -3402,3 +3402,136 @@
 2012-12-04 02:49:02 [INFO] shudgeons lost connection: disconnect.quitting
 2012-12-04 14:32:53 [INFO] somethingstupid9 [/24.155.177.226:49294] lost connection
 2012-12-04 14:32:59 [INFO] somethingstupid9 [/24.155.177.226:49303] lost connection
+2012-12-04 23:31:21 [INFO] Starting minecraft server version 1.4.5
+2012-12-04 23:31:21 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-04 23:31:21 [INFO] Loading properties
+2012-12-04 23:31:21 [INFO] Default game type: SURVIVAL
+2012-12-04 23:31:21 [INFO] Generating keypair
+2012-12-04 23:31:21 [INFO] Starting Minecraft server on *:25565
+2012-12-04 23:31:21 [INFO] Preparing level "world"
+2012-12-04 23:31:21 [INFO] Preparing start region for level 0
+2012-12-04 23:31:22 [INFO] Preparing spawn area: 52%
+2012-12-04 23:31:23 [INFO] Done (1.641s)! For help, type "help" or "?"
+2012-12-05 02:15:51 [INFO] jamiealter[/24.238.196.187:52697] logged in with entity id 38 at (263.63537575368144, 111.0, -183.92500001192093)
+2012-12-05 02:16:40 [INFO] jamiealter lost connection: disconnect.quitting
+2012-12-05 02:16:45 [INFO] jamiealter[/24.238.196.187:52703] logged in with entity id 1202 at (266.5, 95.0, -190.5)
+2012-12-05 02:24:19 [INFO] jamiealter lost connection: disconnect.quitting
+2012-12-05 05:43:56 [INFO] Starting minecraft server version 1.4.5
+2012-12-05 05:43:56 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-05 05:43:56 [INFO] Loading properties
+2012-12-05 05:43:56 [INFO] Default game type: SURVIVAL
+2012-12-05 05:43:56 [INFO] Generating keypair
+2012-12-05 05:43:57 [INFO] Starting Minecraft server on *:25565
+2012-12-05 05:43:57 [INFO] Preparing level "world"
+2012-12-05 05:43:57 [INFO] Preparing start region for level 0
+2012-12-05 05:43:58 [INFO] Preparing spawn area: 33%
+2012-12-05 05:43:59 [INFO] Preparing spawn area: 79%
+2012-12-05 05:43:59 [INFO] Done (2.585s)! For help, type "help" or "?"
+2012-12-05 05:47:42 [INFO] Starting minecraft server version 1.4.5
+2012-12-05 05:47:42 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-05 05:47:42 [INFO] Loading properties
+2012-12-05 05:47:42 [INFO] Default game type: SURVIVAL
+2012-12-05 05:47:42 [INFO] Generating keypair
+2012-12-05 05:47:44 [INFO] Starting Minecraft server on *:25565
+2012-12-05 05:47:44 [INFO] Preparing level "world"
+2012-12-05 05:47:45 [INFO] Preparing start region for level 0
+2012-12-05 05:47:46 [INFO] Preparing spawn area: 3%
+2012-12-05 05:47:47 [INFO] Preparing spawn area: 15%
+2012-12-05 05:47:48 [INFO] Preparing spawn area: 37%
+2012-12-05 05:47:50 [INFO] Preparing spawn area: 69%
+2012-12-05 05:47:51 [INFO] Preparing spawn area: 98%
+2012-12-05 05:47:51 [INFO] Done (6.387s)! For help, type "help" or "?"
+2012-12-05 12:51:47 [INFO] shudgeons[/70.112.17.244:33382] logged in with entity id 41 at (-295.18020848700115, 66.93456444218188, 417.39297466268783)
+2012-12-05 12:51:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-05 12:52:01 [INFO] [shudgeons: Set the time to 0]
+2012-12-05 12:55:35 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-05 22:43:04 [INFO] spitblast[/208.191.157.180:50728] logged in with entity id 7705 at (-330.2125782097866, 64.5, 347.80000001192093)
+2012-12-05 22:43:47 [INFO] [spitblast: Set the time to 0]
+2012-12-05 22:53:51 [INFO] [spitblast: Set the time to 0]
+2012-12-05 23:04:31 [INFO] [spitblast: Set the time to 0]
+2012-12-05 23:12:41 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-05 23:23:07 [INFO] shudgeons[/70.112.17.244:33717] logged in with entity id 40702 at (-573.5628113121272, 81.8643559654554, 521.0867662293028)
+2012-12-05 23:23:17 [INFO] [shudgeons: Set the time to 0]
+2012-12-05 23:23:53 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-06 00:27:43 [INFO] spitblast[/208.191.157.180:51335] logged in with entity id 44765 at (-398.7006260784115, 71.0, 254.42225300586793)
+2012-12-06 00:31:06 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-07 01:39:09 [INFO] spitblast[/208.191.157.180:53743] logged in with entity id 49609 at (-287.2145700504479, 65.39115443117979, 175.04122298706926)
+2012-12-07 01:49:43 [INFO] spitblast lost connection: disconnect.genericReason
+2012-12-07 22:10:57 [INFO] spitblast[/208.191.157.180:54044] logged in with entity id 63221 at (-392.33213264431106, 68.77387583446149, 304.30000001192093)
+2012-12-07 22:22:40 [INFO] [spitblast: Set the time to 0]
+2012-12-07 22:49:13 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-08 01:14:29 [INFO] azwii[/208.191.157.180:49219] logged in with entity id 109806 at (-6.5, 57.62000000476837, -0.5)
+2012-12-08 01:14:32 [INFO] spitblast[/208.191.157.180:54993] logged in with entity id 110281 at (-345.38268662991027, 69.22847828754192, 257.0879315904988)
+2012-12-08 01:14:43 [INFO] [spitblast: Opped azwii]
+2012-12-08 01:14:49 [INFO] [azwii: Set own game mode to Creative Mode]
+2012-12-08 01:14:50 [INFO] [spitblast: Teleported azwii to spitblast]
+2012-12-08 01:19:10 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-08 01:19:20 [INFO] spitblast[/208.191.157.180:55008] logged in with entity id 115751 at (-379.05548860259086, 65.00701654705918, 263.47065915716536)
+2012-12-08 01:20:18 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-08 01:22:41 [INFO] azwii lost connection: disconnect.quitting
+2012-12-08 01:24:19 [INFO] spitblast[/208.191.157.180:55065] logged in with entity id 118878 at (-352.7321153281716, 64.99887800703952, 268.92793036327606)
+2012-12-08 01:25:19 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-08 01:25:32 [INFO] spitblast[/208.191.157.180:55088] logged in with entity id 121173 at (-327.51478739874943, 65.0, 407.3979221815555)
+2012-12-08 01:53:28 [INFO] [spitblast: Set the time to 0]
+2012-12-08 02:01:48 [INFO] azwii[/208.191.157.180:49990] logged in with entity id 178430 at (-381.17966349113874, 64.0, 263.22671365809936)
+2012-12-08 02:05:07 [INFO] [spitblast: Toggled downfall]
+2012-12-08 02:07:05 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-08 02:07:28 [INFO] spitblast[/208.191.157.180:55168] logged in with entity id 183651 at (-397.4750013184363, 66.0, 263.10089803008117)
+2012-12-08 02:07:55 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-08 02:08:03 [INFO] azwii lost connection: disconnect.quitting
+2012-12-10 22:26:23 [INFO] HarryDiamand [/70.113.89.231:60992] lost connection
+2012-12-13 22:54:00 [INFO] shudgeons[/70.112.17.244:33758] logged in with entity id 184103 at (-349.66213161025075, 119.71101280699966, 378.9857104385683)
+2012-12-13 22:58:58 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-15 12:14:43 [INFO] spitblast[/208.191.157.180:54752] logged in with entity id 197333 at (-375.3332795677271, 65.2653142658642, 255.31130524696937)
+2012-12-15 12:41:36 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-15 12:43:54 [INFO] spitblast[/208.191.157.180:55014] logged in with entity id 225610 at (-376.5201989495361, 80.36444855801568, 275.7214744877113)
+2012-12-15 12:45:30 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-15 13:54:35 [INFO] shudgeons[/70.112.17.244:33518] logged in with entity id 227040 at (-341.55012180622595, 64.0, 349.93496587978086)
+2012-12-15 13:57:24 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-15 17:06:58 [INFO] shudgeons[/70.112.17.244:33378] logged in with entity id 235309 at (-413.1115464332423, 71.48937758587034, 373.18434738709414)
+2012-12-15 17:07:23 [INFO] [shudgeons: Set the time to 0]
+2012-12-15 17:19:05 [INFO] [shudgeons: Set the time to 0]
+2012-12-15 18:27:49 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-15 20:45:59 [INFO] spitblast[/208.191.157.180:55514] logged in with entity id 321801 at (-395.4689297492793, 85.75504690221453, 273.9207151064926)
+2012-12-15 20:50:49 [INFO] [spitblast: Toggled downfall]
+2012-12-15 20:50:50 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-15 21:37:40 [INFO] spitblast[/208.191.157.180:56574] logged in with entity id 332067 at (-536.5545702820546, 33.0, 96.69999998807906)
+2012-12-15 21:38:03 [INFO] [spitblast: Set the time to 0]
+2012-12-15 21:42:53 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-15 21:43:05 [INFO] spitblast[/208.191.157.180:56623] logged in with entity id 340097 at (-350.6994118460093, 65.6316198135944, 234.63916791106826)
+2012-12-15 21:49:49 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-16 01:38:15 [INFO] spitblast[/208.191.157.180:56724] logged in with entity id 350770 at (-357.820939678386, 71.62249933847849, 248.1182627268563)
+2012-12-16 01:41:32 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-16 12:22:04 [INFO] spitblast[/208.191.157.180:57794] logged in with entity id 356060 at (-398.5056236043457, 84.54055208576611, 207.23686951911165)
+2012-12-16 12:22:12 [INFO] [spitblast: Toggled downfall]
+2012-12-16 12:34:55 [INFO] [spitblast: Set the time to 0]
+2012-12-16 12:35:21 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-16 13:10:50 [INFO] spitblast[/208.191.157.180:57913] logged in with entity id 369068 at (-368.0618398835187, 70.40329099233787, 242.89707231862658)
+2012-12-16 13:16:07 [INFO] spitblast lost connection: disconnect.quitting
+2012-12-16 16:51:56 [INFO] shudgeons[/70.112.17.244:32835] logged in with entity id 374031 at (-574.4616096244715, 72.87228427519896, 544.7449113839555)
+2012-12-16 16:53:06 [INFO] [shudgeons: Set the time to 0]
+2012-12-16 16:59:11 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-16 20:37:16 [INFO] shudgeons[/70.112.17.244:33512] logged in with entity id 384137 at (-554.891129090986, 64.0, 477.134659951821)
+2012-12-16 20:42:59 [INFO] [shudgeons: Set the time to 0]
+2012-12-16 20:50:27 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-17 00:33:55 [INFO] maxie5man[/65.111.101.222:44406] logged in with entity id 433633 at (1.7261767733894176, 58.5, -26.699999988079096)
+2012-12-17 00:41:24 [INFO] maxie5man lost connection: disconnect.quitting
+2012-12-17 00:47:57 [INFO] maxie5man[/65.111.101.222:37065] logged in with entity id 442845 at (-4.986484246140549, 63.0, -26.406838068994773)
+2012-12-17 00:49:33 [INFO] maxie5man lost connection: disconnect.quitting
+2012-12-17 01:04:44 [INFO] maxie5man[/65.111.101.222:43505] logged in with entity id 444540 at (1.6847103270435937, 63.0, -28.97476307144885)
+2012-12-17 01:04:46 [INFO] maxie5man lost connection: disconnect.quitting
+2012-12-17 01:14:26 [INFO] maxie5man[/65.111.101.222:33089] logged in with entity id 444635 at (1.6847103270435937, 63.0, -28.97476307144885)
+2012-12-17 01:14:31 [INFO] maxie5man lost connection: disconnect.quitting
+2012-12-17 01:26:32 [INFO] bhudgeons[/70.112.17.244:32871] logged in with entity id 444675 at (-571.8443306881206, 66.0, 525.3703787383372)
+2012-12-17 01:27:26 [INFO] fhudgeons[/70.112.17.244:33446] logged in with entity id 446565 at (-536.3090072972702, 64.0, 478.82769045008735)
+2012-12-17 01:27:46 [INFO] shudgeons[/70.112.17.244:32875] logged in with entity id 447513 at (266.7030622331258, 89.5, -200.28378305495562)
+2012-12-17 01:32:54 [INFO] [shudgeons: Set the time to 0]
+2012-12-17 01:42:43 [INFO] [shudgeons: Set the time to 0]
+2012-12-17 01:42:55 [INFO] [shudgeons: Toggled downfall]
+2012-12-17 01:43:14 [INFO] [shudgeons: Toggled downfall]
+2012-12-17 01:52:40 [INFO] [shudgeons: Set the time to 0]
+2012-12-17 02:00:59 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-17 02:01:07 [INFO] shudgeons[/70.112.17.244:33251] logged in with entity id 508640 at (-578.4297913098652, 82.36437208911484, 507.94175929309415)
+2012-12-17 02:01:42 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-12-17 02:01:50 [INFO] fhudgeons lost connection: disconnect.endOfStream
+2012-12-17 02:02:24 [INFO] shudgeons lost connection: disconnect.quitting
