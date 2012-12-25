@@ -1327,3 +1327,70 @@ java.net.SocketException: Connection reset
 2012-12-17 02:01:42 [INFO] bhudgeons lost connection: disconnect.quitting
 2012-12-17 02:01:50 [INFO] fhudgeons lost connection: disconnect.endOfStream
 2012-12-17 02:02:24 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-18 00:19:02 [INFO] shudgeons[/70.112.17.244:32838] logged in with entity id 509943 at (-559.207068980101, 71.83157398791683, 513.7420750669912)
+2012-12-18 23:01:20 [INFO] HarryDiamand [/70.113.89.231:63745] lost connection
+2012-12-18 23:08:36 [INFO] [shudgeons: Set the time to 0]
+2012-12-18 23:08:55 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-19 01:00:13 [INFO] alterslider[/75.108.235.127:60849] logged in with entity id 618953 at (-463.62727330975036, 72.0, 565.0200986268062)
+2012-12-19 02:25:09 [INFO] alterslider lost connection: disconnect.quitting
+2012-12-20 01:16:04 [INFO] alterslider[/75.108.235.127:49701] logged in with entity id 672990 at (-463.62727330975036, 72.0, 565.0200986268062)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at aov.a(Unknown Source)
+	at aov.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at eg.a(SourceFile:178)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2012-12-20 01:32:11 [INFO] alterslider lost connection: disconnect.genericReason
+2012-12-20 01:39:12 [INFO] alterslider [/75.108.235.127:50607] lost connection
+2012-12-20 01:39:22 [INFO] alterslider [/75.108.235.127:50621] lost connection
+2012-12-20 01:39:42 [INFO] alterslider [/75.108.235.127:50638] lost connection
+2012-12-20 01:41:29 [INFO] alterslider [/75.108.235.127:50809] lost connection
+2012-12-20 01:43:02 [INFO] alterslider[/75.108.235.127:50940] logged in with entity id 681570 at (-463.62727330975036, 72.0, 565.0200986268062)
+2012-12-20 02:18:54 [INFO] alterslider lost connection: disconnect.quitting
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:470)
+	at java.net.ServerSocket.accept(ServerSocket.java:438)
+	at hu.run(SourceFile:66)
+Closing listening thread
+208 recipes
+27 achievements
+2012-12-20 14:51:45 [INFO] Starting minecraft server version 1.4.5
+2012-12-20 14:51:45 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-20 14:51:45 [INFO] Loading properties
+2012-12-20 14:51:45 [INFO] Default game type: SURVIVAL
+2012-12-20 14:51:45 [INFO] Generating keypair
+2012-12-20 14:51:47 [INFO] Starting Minecraft server on *:25565
+2012-12-20 14:51:47 [INFO] Preparing level "world"
+2012-12-20 14:51:48 [INFO] Preparing start region for level 0
+2012-12-20 14:51:49 [INFO] Preparing spawn area: 2%
+2012-12-20 14:51:50 [INFO] Preparing spawn area: 22%
+2012-12-20 14:51:51 [INFO] Preparing spawn area: 42%
+2012-12-20 14:51:52 [INFO] Preparing spawn area: 68%
+2012-12-20 14:51:53 [INFO] Done (5.434s)! For help, type "help" or "?"
+2012-12-20 21:30:36 [INFO] HarryDiamand [/70.113.89.231:64065] lost connection
+2012-12-21 02:46:41 [INFO] bhudgeons[/70.112.17.244:33386] logged in with entity id 53 at (-551.5538891956941, 68.52936759557846, 518.257410873498)
+2012-12-21 02:46:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-21 02:47:40 [INFO] [bhudgeons: Set the time to 0]
+2012-12-21 02:48:02 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-12-21 14:46:38 [INFO] Disconnecting fhudgeons [/70.112.17.244:32871]: Outdated server!
+2012-12-22 02:34:14 [INFO] Disconnecting alterslider [/75.108.235.127:53121]: Outdated server!
+2012-12-22 02:34:40 [INFO] Disconnecting alterslider [/75.108.235.127:53146]: Outdated server!
+2012-12-22 02:35:13 [INFO] Disconnecting alterslider [/75.108.235.127:53171]: Outdated server!
+2012-12-22 19:32:34 [INFO] Disconnecting alterslider [/75.108.235.127:52727]: Outdated server!
+2012-12-22 19:32:49 [INFO] Disconnecting alterslider [/75.108.235.127:52741]: Outdated server!
+2012-12-23 22:04:44 [INFO] Disconnecting alterslider [/75.108.235.127:62301]: Outdated server!
+2012-12-23 22:04:59 [INFO] Disconnecting alterslider [/75.108.235.127:62309]: Outdated server!
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:470)
+	at java.net.ServerSocket.accept(ServerSocket.java:438)
+	at hu.run(SourceFile:66)
+Closing listening thread
