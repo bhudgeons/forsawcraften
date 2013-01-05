@@ -1394,3 +1394,1026 @@ java.net.SocketException: Socket closed
 	at java.net.ServerSocket.accept(ServerSocket.java:438)
 	at hu.run(SourceFile:66)
 Closing listening thread
+210 recipes
+27 achievements
+2012-12-25 13:10:07 [INFO] Starting minecraft server version 1.4.6
+2012-12-25 13:10:07 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-25 13:10:07 [INFO] Loading properties
+2012-12-25 13:10:07 [INFO] Default game type: SURVIVAL
+2012-12-25 13:10:07 [INFO] Generating keypair
+2012-12-25 13:10:08 [INFO] Starting Minecraft server on *:25565
+2012-12-25 13:10:08 [INFO] Preparing level "world"
+2012-12-25 13:10:08 [INFO] Preparing start region for level 0
+2012-12-25 13:10:09 [INFO] Preparing spawn area: 6%
+2012-12-25 13:10:10 [INFO] Preparing spawn area: 49%
+2012-12-25 13:10:11 [INFO] Preparing spawn area: 93%
+2012-12-25 13:10:12 [INFO] Done (3.477s)! For help, type "help" or "?"
+2012-12-25 13:10:53 [INFO] bhudgeons[/76.236.109.53:58565] logged in with entity id 47 at (-555.8919559472378, 68.52936759557846, 535.1332198480316)
+2012-12-25 13:10:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-25 13:11:07 [INFO] bhudgeons lost connection: disconnect.quitting
+2012-12-25 13:11:11 [INFO] /76.236.109.53:58535 lost connection
+2012-12-25 13:33:37 [INFO] shudgeons[/76.236.109.53:50782] logged in with entity id 291 at (-393.4439451560677, 76.65382332546314, 323.5524821215529)
+2012-12-25 13:33:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-25 13:38:39 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-25 22:32:48 [INFO] shudgeons[/76.236.109.53:54436] logged in with entity id 21151 at (-244.37415430800706, 74.98935876746026, 364.608552728679)
+2012-12-25 22:33:54 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-26 13:12:16 [INFO] shudgeons[/76.236.109.53:56279] logged in with entity id 29105 at (-376.2714184488357, 103.87474620112643, 300.7970695846063)
+2012-12-26 13:21:08 [INFO] <shudgeons> time set 0
+2012-12-26 13:21:21 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-28 14:18:18 [INFO] shudgeons[/70.112.17.244:32936] logged in with entity id 50776 at (-551.2821358735673, 72.25781083091563, 497.35517957536575)
+2012-12-28 14:22:30 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2012-12-28 14:29:24 [INFO] shudgeons lost connection: disconnect.genericReason
+2012-12-29 02:58:18 [INFO] fhudgeons[/70.112.17.244:32907] logged in with entity id 78525 at (-583.9619521364084, 66.0, 523.4561749466179)
+2012-12-29 02:58:28 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-29 03:01:26 [INFO] shudgeons[/70.112.17.244:35837] logged in with entity id 79330 at (-307.3870642953812, 64.0, 274.5779260942135)
+2012-12-29 03:08:12 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-29 03:26:33 [INFO] fhudgeons[/70.112.17.244:35373] logged in with entity id 93943 at (-583.9619521364084, 66.0, 523.4561749466179)
+2012-12-29 03:26:52 [INFO] [fhudgeons: Toggled downfall]
+2012-12-29 03:51:51 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-29 15:05:15 [INFO] HarryDiamand[/70.113.89.231:54606] logged in with entity id 121279 at (3.5, 73.0, 2.5)
+2012-12-29 15:05:32 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2012-12-29 15:11:20 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2012-12-29 15:20:44 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2012-12-29 15:22:22 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2012-12-29 15:23:01 [INFO] HarryDiamand lost connection: disconnect.quitting
+2012-12-30 00:24:47 [INFO] fhudgeons[/70.112.17.244:33440] logged in with entity id 145192 at (-427.5, 57.0, 350.5)
+2012-12-30 00:24:56 [INFO] shudgeons[/70.112.17.244:33433] logged in with entity id 145414 at (-574.3000000119209, 66.0, 508.7067912388735)
+2012-12-30 00:25:08 [INFO] [shudgeons: Set the time to 0]
+2012-12-30 00:27:30 [INFO] [shudgeons: Set the time to 0]
+2012-12-30 00:28:22 [INFO] [shudgeons: Set the time to 12500]
+2012-12-30 00:38:27 [INFO] shudgeons lost connection: disconnect.quitting
+2012-12-30 00:38:32 [INFO] fhudgeons lost connection: disconnect.quitting
+2012-12-31 17:03:13 [INFO] shudgeons[/70.112.17.244:33657] logged in with entity id 163080 at (-280.72536172918956, 77.9893559654546, 310.06619282654606)
+2012-12-31 17:07:58 [INFO] [shudgeons: Set the time to 0]
+2012-12-31 17:38:06 [INFO] [shudgeons: Set the time to 0]
+2012-12-31 17:46:45 [INFO] [shudgeons: Toggled downfall]
+2012-12-31 17:53:18 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-01 20:17:25 [INFO] shudgeons[/70.112.17.244:33157] logged in with entity id 239019 at (-458.7227364534845, 84.27759736799935, 198.3362140166054)
+2013-01-01 20:23:24 [INFO] fhudgeons[/70.112.17.244:33722] logged in with entity id 250627 at (-280.81293367137414, 76.24066203564644, 289.4423815018631)
+2013-01-01 20:28:30 [INFO] [shudgeons: Set the time to 0]
+2013-01-01 20:29:31 [INFO] [fhudgeons: Set the time to 12500]
+2013-01-01 20:35:44 [INFO] [shudgeons: Set the time to 0]
+2013-01-01 20:46:31 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-01 20:49:33 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-01 20:49:33 [INFO] fhudgeons lost connection: disconnect.genericReason
+2013-01-01 22:20:31 [INFO] shudgeons[/70.112.17.244:32845] logged in with entity id 310893 at (-401.88786177965204, 66.17233814879118, 309.36221865046747)
+2013-01-01 22:25:04 [INFO] shudgeons[/70.112.17.244:33624] logged in with entity id 314329 at (-432.27816313254976, 70.0, 369.599951163492)
+2013-01-01 22:25:22 [INFO] shudgeons [/70.112.17.244:33156] lost connection
+2013-01-01 22:25:44 [INFO] [shudgeons: Set the time to 0]
+2013-01-01 22:25:48 [INFO] shudgeons [/70.112.17.244:33260] lost connection
+2013-01-01 22:26:34 [INFO] [shudgeons: Toggled downfall]
+2013-01-01 22:36:55 [INFO] shudgeons lost connection: disconnect.endOfStream
+2013-01-02 15:08:34 [INFO] shudgeons[/70.112.17.244:32854] logged in with entity id 328815 at (-399.00294639278115, 73.4893829166571, 344.33762426546554)
+2013-01-02 15:16:03 [INFO] [shudgeons: Set the time to 0]
+2013-01-02 15:24:35 [INFO] maxie5man[/65.111.101.222:37567] logged in with entity id 364957 at (1.6847103270435937, 63.0, -28.97476307144885)
+2013-01-02 15:25:19 [INFO] <maxie5man> sawyer its max make me an op
+2013-01-02 15:25:25 [INFO] [shudgeons: Opped maxie5man]
+2013-01-02 15:25:41 [INFO] [maxie5man: Set own game mode to Creative Mode]
+2013-01-02 15:25:49 [INFO] <shudgeons> max
+2013-01-02 15:25:50 [INFO] fhudgeons[/70.112.17.244:32825] logged in with entity id 369396 at (-463.7546158975061, 63.015625, 334.5381258791742)
+2013-01-02 15:26:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-02 15:26:50 [INFO] <maxie5man> help me i am at your old survival spot
+2013-01-02 15:26:59 [INFO] <shudgeons> stay there
+2013-01-02 15:28:17 [INFO] <maxie5man> hi
+2013-01-02 15:28:33 [INFO] <shudgeons> like my skin
+2013-01-02 15:28:40 [INFO] <maxie5man> yes
+2013-01-02 15:29:06 [INFO] <shudgeons> you are an op
+2013-01-02 15:29:48 [INFO] <maxie5man> show me where your new place is
+2013-01-02 15:29:49 [INFO] <shudgeons> follow me
+2013-01-02 15:31:05 [INFO] <maxie5man> cool
+2013-01-02 15:31:39 [INFO] <maxie5man> hi ford
+2013-01-02 15:31:42 [INFO] <shudgeons> look around max
+2013-01-02 15:32:37 [INFO] <shudgeons> let me show you to your house
+2013-01-02 15:32:50 [INFO] <fhudgeons> hey max
+2013-01-02 15:32:55 [INFO] <maxie5man> hi
+2013-01-02 15:33:14 [INFO] <shudgeons> tada
+2013-01-02 15:33:26 [INFO] <maxie5man> awesome
+2013-01-02 15:33:51 [INFO] <shudgeons> look for your room
+2013-01-02 15:34:27 [INFO] <shudgeons> not your room
+2013-01-02 15:35:15 [INFO] <maxie5man> i know its finns room he told me to go in
+2013-01-02 15:35:20 [INFO] <shudgeons> look in the chest
+2013-01-02 15:35:41 [INFO] <maxie5man> im finn
+2013-01-02 15:35:55 [INFO] <shudgeons> oh
+2013-01-02 15:36:04 [INFO] <maxie5man> but max has been chatting and telling me what to do
+2013-01-02 15:36:12 [INFO] <maxie5man> no
+2013-01-02 15:36:24 [INFO] <maxie5man> yes
+2013-01-02 15:36:34 [INFO] <maxie5man> ,jn hk
+2013-01-02 15:36:57 [INFO] <maxie5man> defanitly not
+2013-01-02 15:37:40 [INFO] <maxie5man> finn is being annoying i will be chatting from now on
+2013-01-02 15:37:58 [INFO] <shudgeons> get back in your cage you stupid wolves!
+2013-01-02 15:37:58 [INFO] <maxie5man> im still finn
+2013-01-02 15:39:36 [INFO] <shudgeons> this is your safe house
+2013-01-02 15:39:45 [INFO] <maxie5man> cool
+2013-01-02 15:39:56 [INFO] <shudgeons> see
+2013-01-02 15:40:11 [INFO] <maxie5man> oops
+2013-01-02 15:40:34 [INFO] <shudgeons> it's ok
+2013-01-02 15:41:33 [INFO] [shudgeons: Set the time to 0]
+2013-01-02 15:41:37 [INFO] <maxie5man> we are going to explore
+2013-01-02 15:47:44 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-02 15:48:28 [INFO] <shudgeons> max
+2013-01-02 15:48:37 [INFO] <maxie5man> yes
+2013-01-02 15:49:00 [INFO] <shudgeons> where are you
+2013-01-02 15:51:49 [INFO] [shudgeons: Set the time to 0]
+2013-01-02 15:53:32 [INFO] <shudgeons> this is swampy mine
+2013-01-02 15:54:46 [INFO] <shudgeons> max where are you
+2013-01-02 15:55:28 [INFO] <maxie5man> im in the big brick mansion
+2013-01-02 15:55:44 [INFO] <shudgeons> ok
+2013-01-02 15:58:19 [INFO] <maxie5man> finn is trying to lose you in the mansion
+2013-01-02 15:58:51 [INFO] <shudgeons> crap
+2013-01-02 16:00:36 [INFO] <maxie5man> oops
+2013-01-02 16:01:04 [INFO] <maxie5man> oops
+2013-01-02 16:02:00 [INFO] [shudgeons: Set the time to 0]
+2013-01-02 16:02:16 [INFO] <shudgeons> max stop
+2013-01-02 16:02:21 [INFO] <maxie5man> i have invisibility
+2013-01-02 16:03:03 [INFO] <shudgeons> son of a
+2013-01-02 16:04:15 [INFO] <shudgeons> shit where am I
+2013-01-02 16:05:04 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-02 16:11:34 [INFO] <maxie5man> sorry sawyer
+2013-01-02 16:13:44 [INFO] Disconnecting shudgeons [/70.112.17.244:33226]: Failed to verify username!
+2013-01-02 16:13:56 [INFO] shudgeons[/70.112.17.244:33086] logged in with entity id 481436 at (-339.39782204761593, 88.79178663320354, 390.34355996448573)
+2013-01-02 16:14:17 [INFO] [shudgeons: Set the time to 0]
+2013-01-02 16:14:35 [INFO] <shudgeons> max
+2013-01-02 16:15:15 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-02 17:16:17 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-02 20:50:08 [INFO] shudgeons[/70.112.17.244:32985] logged in with entity id 550836 at (-307.5275768716027, 76.65393933408795, 424.99783110272483)
+2013-01-02 20:50:34 [INFO] <shudgeons> time set 0
+2013-01-02 21:05:29 [INFO] [shudgeons: Set the time to 0]
+2013-01-02 21:12:25 [INFO] [shudgeons: Cleared the inventory of shudgeons, removing 133 items]
+2013-01-02 21:14:56 [INFO] [shudgeons: Set the time to 12500]
+2013-01-02 21:15:59 [INFO] fhudgeons[/70.112.17.244:34113] logged in with entity id 588286 at (-406.04948883559615, 63.0, 365.56165358274336)
+2013-01-02 21:16:45 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-02 21:24:36 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-03 03:20:08 [INFO] bhudgeons[/38.65.197.194:53981] logged in with entity id 593699 at (-565.5698294789997, 68.52936759557846, 538.2793078800883)
+2013-01-03 03:20:15 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 03:21:53 [INFO] shudgeons[/70.112.17.244:33496] logged in with entity id 597706 at (-562.5885630169901, 63.0, 430.4348751313539)
+2013-01-03 03:22:18 [INFO] <bhudgeons> hello sawyer
+2013-01-03 03:27:16 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-03 03:31:10 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 03:42:18 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 03:52:41 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 04:02:46 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 04:13:58 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 04:24:43 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 04:35:13 [INFO] [bhudgeons: Set the time to 0]
+2013-01-03 04:36:59 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-01-03 13:44:03 [INFO] shudgeons[/70.112.17.244:33605] logged in with entity id 710778 at (-533.7333907042919, 77.0, 506.31682008243547)
+2013-01-03 13:46:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-03 13:57:11 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-03 14:56:29 [INFO] fhudgeons[/70.112.17.244:32973] logged in with entity id 747700 at (-410.68441584319953, 77.30935216091517, 362.79398811940916)
+2013-01-03 15:06:57 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-03 15:20:26 [INFO] shudgeons[/70.112.17.244:34279] logged in with entity id 756041 at (-394.2387244230001, 76.9873513550161, 270.17160402802745)
+2013-01-03 15:26:37 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-03 15:58:27 [INFO] shudgeons [/70.112.17.244:33150] lost connection
+2013-01-03 16:00:01 [INFO] shudgeons[/70.112.17.244:34008] logged in with entity id 765924 at (-412.8546257865894, 91.989522789652, 365.40784230554436)
+2013-01-03 16:00:27 [INFO] shudgeons [/70.112.17.244:33447] lost connection
+2013-01-03 16:03:08 [INFO] maxie5man[/70.112.17.244:33532] logged in with entity id 769230 at (-594.3450686120649, 70.97977941681519, 491.8942747548763)
+Fetching addPacket for removed entity
+2013-01-03 16:14:58 [INFO] fhudgeons[/70.112.17.244:33436] logged in with entity id 784635 at (-316.2391333831949, 78.96205050170087, 278.0529622410214)
+2013-01-03 16:15:29 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-03 16:15:44 [INFO] fhudgeons[/70.112.17.244:33451] logged in with entity id 786746 at (-407.66329736394937, 96.54961702890304, 345.27496844348116)
+2013-01-03 16:17:02 [INFO] [maxie5man: Set the time to 0]
+2013-01-03 16:27:46 [INFO] [shudgeons: Set the time to 0]
+2013-01-03 16:37:55 [INFO] [shudgeons: Set the time to 0]
+2013-01-03 16:41:32 [INFO] [maxie5man: De-opped fhudgeons]
+2013-01-03 16:42:35 [INFO] [maxie5man: Opped fhudgeons]
+2013-01-03 16:42:48 [INFO] [shudgeons: De-opped maxie5man]
+2013-01-03 16:43:10 [INFO] [shudgeons: Opped maxie5man]
+2013-01-03 16:44:49 [INFO] [shudgeons: Set the time to 12500]
+2013-01-03 16:49:49 [INFO] [shudgeons: Set the time to 0]
+2013-01-03 16:52:41 [INFO] [shudgeons: Set the time to 12500]
+2013-01-03 16:54:19 [INFO] [shudgeons: Set the time to 0]
+2013-01-03 16:56:00 [INFO] [fhudgeons: Set the time to 12500]
+2013-01-03 16:56:12 [INFO] [shudgeons: Set the time to 0]
+2013-01-03 16:56:42 [INFO] [fhudgeons: Set the time to 12500]
+2013-01-03 17:00:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-03 17:02:04 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-03 17:11:44 [INFO] [fhudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-03 17:19:39 [INFO] maxie5man lost connection: disconnect.genericReason
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-03 17:19:39 [INFO] fhudgeons lost connection: disconnect.genericReason
+2013-01-03 17:19:53 [INFO] fhudgeons[/70.112.17.244:32925] logged in with entity id 877361 at (-546.1708711328511, 64.0, 502.2748680204858)
+2013-01-03 17:20:09 [INFO] maxie5man[/70.112.17.244:33595] logged in with entity id 878126 at (-541.6230412391111, 64.0, 505.08982891419896)
+2013-01-03 17:30:57 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-03 17:31:26 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-03 17:32:27 [INFO] maxie5man[/70.112.17.244:33611] logged in with entity id 936115 at (-298.86677702795885, 92.3643559654544, 165.92972656749947)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-01-03 17:34:38 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-03 18:24:27 [INFO] fhudgeons[/70.112.17.244:32792] logged in with entity id 941318 at (-391.85327314079615, 65.0, 266.28977884747326)
+2013-01-03 18:29:58 [INFO] shudgeons[/70.112.17.244:33184] logged in with entity id 948228 at (-386.75833196486775, 64.0, 288.0212014742387)
+2013-01-03 18:31:45 [INFO] Player [/70.112.17.244:32855] lost connection
+2013-01-03 18:31:53 [INFO] Player [/70.112.17.244:33202] lost connection
+2013-01-03 18:33:28 [INFO] maxie5man[/70.112.17.244:33279] logged in with entity id 954201 at (-313.3543383612617, 129.85490812545436, 182.2482409552029)
+2013-01-03 18:37:44 [INFO] [fhudgeons: Set the time to 12500]
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:48:53 [INFO] maxie5man lost connection: disconnect.genericReason
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:48:53 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 18:48:59 [INFO] shudgeons[/70.112.17.244:34264] logged in with entity id 983965 at (-560.3000000119209, 63.0, 409.25805424216145)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:49:00 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 18:49:16 [INFO] maxie5man[/70.112.17.244:33115] logged in with entity id 984488 at (-560.636784562901, 63.0, 402.2417426387734)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:49:17 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-03 18:49:42 [INFO] maxie5man[/70.112.17.244:33519] logged in with entity id 985371 at (-560.636784562901, 63.0, 402.2417426387734)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:49:43 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-03 18:49:52 [INFO] shudgeons[/70.112.17.244:33228] logged in with entity id 985845 at (-560.3000000119209, 63.0, 409.25805424216145)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:49:52 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 18:50:19 [INFO] shudgeons[/70.112.17.244:33052] logged in with entity id 986477 at (-560.3000000119209, 63.0, 409.25805424216145)
+2013-01-03 18:50:31 [INFO] maxie5man[/70.112.17.244:33326] logged in with entity id 988235 at (-560.636784562901, 63.0, 402.2417426387734)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:50:36 [INFO] maxie5man lost connection: disconnect.genericReason
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:50:36 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 18:50:43 [INFO] shudgeons[/70.112.17.244:33144] logged in with entity id 988487 at (-570.1737068618357, 71.48839768564777, 424.7663061488154)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:50:44 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 18:51:09 [INFO] maxie5man[/70.112.17.244:33362] logged in with entity id 988776 at (-560.636784562901, 63.0, 402.2417426387734)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:51:10 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-03 18:51:45 [INFO] [fhudgeons: Set the time to 12500]
+2013-01-03 18:51:52 [INFO] shudgeons[/70.112.17.244:33100] logged in with entity id 989967 at (-570.1737068618357, 71.48839768564777, 424.7663061488154)
+2013-01-03 18:52:32 [INFO] maxie5man[/70.112.17.244:33734] logged in with entity id 992349 at (-560.636784562901, 63.0, 402.2417426387734)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:52:37 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 18:52:38 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-03 18:52:52 [INFO] shudgeons[/70.112.17.244:33449] logged in with entity id 992546 at (-561.5418500873177, 63.0, 401.57861879794353)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:52:53 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 18:52:56 [INFO] maxie5man[/70.112.17.244:33591] logged in with entity id 992857 at (-560.636784562901, 63.0, 402.2417426387734)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:52:57 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-03 18:53:26 [INFO] shudgeons[/70.112.17.244:33436] logged in with entity id 994101 at (-561.5418500873177, 63.0, 401.57861879794353)
+2013-01-03 18:53:35 [INFO] maxie5man[/70.112.17.244:32935] logged in with entity id 994679 at (-560.636784562901, 63.0, 402.2417426387734)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:53:55 [INFO] shudgeons lost connection: disconnect.genericReason
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:53:55 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-03 18:53:55 [INFO] fhudgeons lost connection: disconnect.genericReason
+2013-01-03 18:54:03 [INFO] fhudgeons[/70.112.17.244:33144] logged in with entity id 995244 at (-521.3204537563042, 79.6495036892107, 378.71117706064234)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 18:54:05 [INFO] fhudgeons lost connection: disconnect.genericReason
+2013-01-03 22:53:58 [INFO] HarryDiamand[/70.113.89.231:51814] logged in with entity id 995527 at (-424.30000001192093, 61.0, 358.6999999880791)
+2013-01-03 22:54:50 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-03 22:57:14 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-03 23:00:26 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-03 23:00:42 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-03 23:01:41 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-03 23:01:49 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-03 23:02:14 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-03 23:12:39 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-03 23:15:33 [INFO] shudgeons[/70.112.17.244:33785] logged in with entity id 1019735 at (-561.3266153788179, 63.0, 402.49462690582686)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:15:37 [INFO] HarryDiamand lost connection: disconnect.genericReason
+2013-01-03 23:15:37 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 23:15:42 [INFO] shudgeons[/70.112.17.244:35615] logged in with entity id 1020135 at (-560.3337815562277, 63.0, 400.32398086385)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:15:42 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 23:15:46 [INFO] HarryDiamand[/70.113.89.231:51931] logged in with entity id 1020397 at (-565.1565617032693, 27.0, 395.2635460561163)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:15:46 [INFO] HarryDiamand lost connection: disconnect.genericReason
+2013-01-03 23:15:53 [INFO] shudgeons[/70.112.17.244:35603] logged in with entity id 1020649 at (-560.3337815562277, 63.0, 400.32398086385)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:15:53 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 23:15:56 [INFO] HarryDiamand[/70.113.89.231:51937] logged in with entity id 1020895 at (-565.1565617032693, 27.0, 395.2635460561163)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:15:57 [INFO] HarryDiamand lost connection: disconnect.genericReason
+2013-01-03 23:16:02 [INFO] HarryDiamand[/70.113.89.231:51943] logged in with entity id 1021147 at (-565.1565617032693, 27.0, 395.2635460561163)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:16:03 [INFO] HarryDiamand lost connection: disconnect.genericReason
+2013-01-03 23:16:22 [INFO] HarryDiamand[/70.113.89.231:51963] logged in with entity id 1021399 at (-565.1565617032693, 27.0, 395.2635460561163)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:16:23 [INFO] HarryDiamand lost connection: disconnect.genericReason
+2013-01-03 23:27:47 [INFO] shudgeons[/70.112.17.244:33571] logged in with entity id 1021651 at (-560.3337815562277, 63.0, 400.32398086385)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:27:48 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 23:28:08 [INFO] shudgeons[/70.112.17.244:33589] logged in with entity id 1021897 at (-560.3337815562277, 63.0, 400.32398086385)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:28:34 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-03 23:54:31 [INFO] HarryDiamand[/70.113.89.231:52492] logged in with entity id 1022236 at (-565.1565617032693, 27.0, 395.2635460561163)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-03 23:54:31 [INFO] HarryDiamand lost connection: disconnect.genericReason
+2013-01-04 02:41:31 [INFO] shudgeons[/70.112.17.244:33570] logged in with entity id 1022482 at (-561.45687291897, 63.0, 403.31352314939596)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-04 02:41:32 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-04 03:08:28 [INFO] somethingstupid9[/24.155.177.226:54467] logged in with entity id 1022723 at (15.401555778980782, 62.0, 18.60536839581627)
+2013-01-04 03:08:57 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-04 13:29:44 [INFO] shudgeons[/70.112.17.244:33024] logged in with entity id 1023534 at (-561.45687291897, 63.0, 403.31352314939596)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-04 13:29:45 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-04 16:21:51 [INFO] shudgeons[/70.112.17.244:33468] logged in with entity id 1023773 at (-561.45687291897, 63.0, 403.31352314939596)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-04 16:21:52 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-04 16:28:06 [INFO] fhudgeons[/70.112.17.244:33208] logged in with entity id 1024012 at (-521.3204537563042, 79.6495036892107, 378.71117706064234)
+2013-01-04 16:29:16 [INFO] shudgeons[/70.112.17.244:33503] logged in with entity id 1024978 at (-561.45687291897, 63.0, 403.31352314939596)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-04 16:29:18 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-04 16:29:18 [INFO] fhudgeons lost connection: disconnect.genericReason
+2013-01-04 16:29:22 [INFO] shudgeons[/70.112.17.244:33515] logged in with entity id 1024991 at (-561.2193337028511, 63.0, 401.85899913611263)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-04 16:29:23 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-04 16:29:36 [INFO] fhudgeons[/70.112.17.244:33411] logged in with entity id 1025223 at (-565.833603084788, 63.0, 432.3831660362467)
+2013-01-04 16:31:04 [INFO] [fhudgeons: Set the time to 0]
+2013-01-04 16:48:37 [INFO] shudgeons[/70.112.17.244:33312] logged in with entity id 1045143 at (-561.2193337028511, 63.0, 401.85899913611263)
+2013-01-04 17:00:50 [INFO] maxie5man [/65.111.101.222:37627] lost connection
+2013-01-04 17:01:03 [INFO] maxie5man [/65.111.101.222:47965] lost connection
+2013-01-04 17:01:16 [INFO] maxie5man [/65.111.101.222:42641] lost connection
+2013-01-04 17:01:53 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 17:02:39 [INFO] maxie5man [/65.111.101.222:40805] lost connection
+2013-01-04 17:03:14 [INFO] maxie5man[/65.111.101.222:47134] logged in with entity id 1072177 at (-559.781504739251, 63.0, 401.3096863662574)
+2013-01-04 17:03:27 [INFO] <shudgeons> max
+2013-01-04 17:03:44 [INFO] <maxie5man> no finn
+2013-01-04 17:04:02 [INFO] <shudgeons> finn
+2013-01-04 17:04:11 [INFO] <maxie5man> i am not letting max play because i am mean
+2013-01-04 17:04:32 [INFO] <maxie5man> max rote that
+2013-01-04 17:04:50 [INFO] <shudgeons> max kill him
+2013-01-04 17:05:02 [INFO] <shudgeons> kiding
+2013-01-04 17:05:20 [INFO] <maxie5man> good
+2013-01-04 17:06:07 [INFO] <shudgeons> ford just thrue up in the poty
+2013-01-04 17:06:29 [INFO] <maxie5man> ouch is he sick
+2013-01-04 17:06:30 [INFO] <shudgeons> he is sick
+2013-01-04 17:06:35 [INFO] <fhudgeons> eat poo finn from harry
+2013-01-04 17:06:55 [INFO] <maxie5man> grooooos
+2013-01-04 17:07:26 [INFO] <maxie5man> ford where are you
+2013-01-04 17:07:31 [INFO] <fhudgeons> yeah grooooooooooss but do it
+2013-01-04 17:08:01 [INFO] <maxie5man> noooooooooooooooo!
+2013-01-04 17:08:06 [INFO] <shudgeons> finn neads to eat poop
+2013-01-04 17:08:12 [INFO] <fhudgeons> oh by the way if it says it is ford its harry
+2013-01-04 17:08:31 [INFO] <shudgeons> wat
+2013-01-04 17:08:37 [INFO] <maxie5man> oh hi harry
+2013-01-04 17:08:56 [INFO] <fhudgeons> yeah hi finn
+2013-01-04 17:09:21 [INFO] <maxie5man> i do not need to eat poop
+2013-01-04 17:09:49 [INFO] <maxie5man> max will be on in 25 minutes and i do need to eat poop
+2013-01-04 17:10:10 [INFO] <maxie5man> no  i dont
+2013-01-04 17:10:19 [INFO] <shudgeons> if one more stupid guy joins will curs at them
+2013-01-04 17:10:40 [INFO] <shudgeons> again kiding
+2013-01-04 17:10:53 [INFO] <maxie5man> i know
+2013-01-04 17:11:05 [INFO] <shudgeons> good
+2013-01-04 17:11:20 [INFO] <fhudgeons> finn get out of my mine
+2013-01-04 17:11:40 [INFO] <maxie5man> fine!
+2013-01-04 17:12:01 [INFO] <shudgeons> whare am I oh crap
+2013-01-04 17:12:10 [INFO] <fhudgeons> yeah get out
+2013-01-04 17:12:25 [INFO] [maxie5man: Given Monster Spawner (ID 52) * 64 to maxie5man]
+2013-01-04 17:13:14 [INFO] <fhudgeons> dont do it
+2013-01-04 17:13:17 [INFO] <shudgeons> do not spawn monsters in harry's mine
+2013-01-04 17:13:35 [INFO] <maxie5man> thats max
+2013-01-04 17:13:52 [INFO] <shudgeons> crap
+2013-01-04 17:14:14 [INFO] [maxie5man: Toggled downfall]
+2013-01-04 17:14:31 [INFO] [shudgeons: Toggled downfall]
+2013-01-04 17:14:51 [INFO] [shudgeons: Toggled downfall]
+2013-01-04 17:15:27 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 17:15:56 [INFO] <shudgeons> stupid creeper
+2013-01-04 17:16:20 [INFO] <maxie5man> you cant find me
+2013-01-04 17:16:35 [INFO] <shudgeons> son of a
+2013-01-04 17:16:40 [INFO] <fhudgeons> finn where are you i am hunting you down
+2013-01-04 17:16:44 [INFO] <maxie5man> dont cuss
+2013-01-04 17:17:01 [INFO] <maxie5man> im not telling
+2013-01-04 17:17:21 [INFO] <shudgeons> I did not cuss now shut up
+2013-01-04 17:17:47 [INFO] <maxie5man> dont be mean you are hurting my feelings
+2013-01-04 17:18:05 [INFO] <maxie5man> max typed that
+2013-01-04 17:18:19 [INFO] <fhudgeons> shut up
+2013-01-04 17:18:42 [INFO] <shudgeons> god
+2013-01-04 17:18:42 [INFO] <fhudgeons> remember harry not ford
+2013-01-04 17:18:58 [INFO] <maxie5man> whaa i am crying and if i say max typed this
+2013-01-04 17:19:04 [INFO] <maxie5man> dont listen
+2013-01-04 17:19:18 [INFO] <maxie5man> he really did
+2013-01-04 17:19:58 [INFO] [fhudgeons: Set own game mode to Survival Mode]
+2013-01-04 17:20:13 [INFO] <maxie5man> please de op me
+2013-01-04 17:20:15 [INFO] [fhudgeons: Set own game mode to Creative Mode]
+2013-01-04 17:20:30 [INFO] <shudgeons> come on it is not hurting your fealings finn or max
+2013-01-04 17:20:30 [INFO] <maxie5man> im kidding
+2013-01-04 17:20:34 [INFO] <fhudgeons> why
+2013-01-04 17:22:12 [INFO] [fhudgeons: Set own game mode to Survival Mode]
+2013-01-04 17:22:12 [INFO] <shudgeons> finn I think it
+2013-01-04 17:22:23 [INFO] <shudgeons> crap
+2013-01-04 17:22:33 [INFO] <maxie5man> think what please de op me
+2013-01-04 17:23:01 [INFO] <maxie5man> im kidding again
+2013-01-04 17:23:05 [INFO] [fhudgeons: Set own game mode to Creative Mode]
+2013-01-04 17:23:33 [INFO] <shudgeons> finn I think it's max's turn
+2013-01-04 17:23:46 [INFO] <maxie5man> no its not
+2013-01-04 17:24:18 [INFO] <shudgeons> YES IT IS!!!!!!!!!!!!
+2013-01-04 17:24:37 [INFO] <maxie5man> no its not!!!!!!!!!!!!!!!!!!!!
+2013-01-04 17:25:48 [INFO] <maxie5man> everyone go to the mansion
+2013-01-04 17:25:59 [INFO] <fhudgeons> ok
+2013-01-04 17:26:17 [INFO] <fhudgeons> where should we meat
+2013-01-04 17:26:26 [INFO] <maxie5man> the red brick one
+2013-01-04 17:26:33 [INFO] <shudgeons> the brick mantion
+2013-01-04 17:26:34 [INFO] <fhudgeons> sorry meet
+2013-01-04 17:26:47 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 17:27:33 [INFO] <maxie5man> the other one
+2013-01-04 17:29:03 [INFO] <fhudgeons> finn you are invisible
+2013-01-04 17:29:16 [INFO] <fhudgeons> hol something
+2013-01-04 17:29:19 [INFO] <shudgeons> oh crap
+2013-01-04 17:29:33 [INFO] <maxie5man> not cool and yes i am invisable
+2013-01-04 17:30:08 [INFO] <shudgeons> I know it sucks
+2013-01-04 17:30:28 [INFO] <fhudgeons> splash potion war
+2013-01-04 17:30:53 [INFO] <maxie5man> if you drink milk it gets off
+2013-01-04 17:31:07 [INFO] <fhudgeons> so true
+2013-01-04 17:31:58 [INFO] <fhudgeons> finn you better start throwing potions
+2013-01-04 17:32:20 [INFO] <shudgeons> no potion war
+2013-01-04 17:32:31 [INFO] <fhudgeons> noooooooooooooo
+2013-01-04 17:33:11 [INFO] <maxie5man> you cant be invisable
+2013-01-04 17:35:02 [INFO] <fhudgeons> hahahahahahahahahahahahahahahahahah
+2013-01-04 17:35:47 [INFO] <maxie5man> harry i tuned you inviable
+2013-01-04 17:37:29 [INFO] <maxie5man> i have a creeper head
+2013-01-04 17:38:26 [INFO] <fhudgeons> finn you are slow
+2013-01-04 17:38:51 [INFO] <maxie5man> i drank milk
+2013-01-04 17:39:52 [INFO] <maxie5man> s maxes turn
+2013-01-04 17:40:40 [INFO] <maxie5man> max isnt there yet now he is
+2013-01-04 17:41:48 [INFO] <maxie5man> time out one sec let meget potions
+2013-01-04 17:42:05 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 17:42:09 [INFO] <fhudgeons> where are you
+2013-01-04 17:43:37 [INFO] <maxie5man> do you want to have a potion fight
+2013-01-04 17:43:44 [INFO] <maxie5man> sawyer
+2013-01-04 17:44:03 [INFO] [shudgeons: Toggled downfall]
+2013-01-04 17:44:37 [INFO] <maxie5man> SAWYER
+2013-01-04 17:45:14 [INFO] <shudgeons> oh shit
+2013-01-04 17:46:33 [INFO] <fhudgeons> i declare potion war over
+2013-01-04 17:46:41 [INFO] <maxie5man> ok
+2013-01-04 17:46:52 [INFO] <shudgeons> YES
+2013-01-04 17:46:53 [INFO] <fhudgeons> bow war
+2013-01-04 17:46:56 [INFO] <maxie5man> by the way its max now
+2013-01-04 17:47:09 [INFO] <fhudgeons> awesome
+2013-01-04 17:47:24 [INFO] <maxie5man> i need to make fireworks sorry
+2013-01-04 17:47:50 [INFO] <shudgeons> max go to your fire work factory
+2013-01-04 17:48:24 [INFO] <fhudgeons> oh by the way max if it says it is ford it is harry
+2013-01-04 17:48:45 [INFO] <shudgeons> what
+2013-01-04 17:48:45 [INFO] <maxie5man> ok
+2013-01-04 17:48:55 [INFO] <fhudgeons> good
+2013-01-04 17:49:11 [INFO] <fhudgeons> where are you max
+2013-01-04 17:49:38 [INFO] <fhudgeons> oh
+2013-01-04 17:49:45 [INFO] <fhudgeons> hi
+2013-01-04 17:49:58 [INFO] <maxie5man> hi
+2013-01-04 17:50:05 [INFO] [maxie5man: Set the time to 12500]
+2013-01-04 17:50:06 [INFO] <shudgeons> hi
+2013-01-04 17:50:06 [INFO] <fhudgeons> clap clap clap
+2013-01-04 17:50:21 [INFO] <shudgeons> nice
+2013-01-04 17:50:30 [INFO] <maxie5man> thanks
+2013-01-04 17:50:52 [INFO] <maxie5man> hey ask your mom to get on skype
+2013-01-04 17:51:12 [INFO] <shudgeons> man all those other crapy servers
+2013-01-04 17:51:52 [INFO] <fhudgeons> max you are invisible and slow
+2013-01-04 17:52:00 [INFO] <maxie5man> sawyer what is your skype name
+2013-01-04 17:52:34 [INFO] <shudgeons> I have no clue
+2013-01-04 17:52:51 [INFO] <maxie5man> ASK YOUR MOM SAWYER
+2013-01-04 17:52:54 [INFO] <fhudgeons> kill slime
+2013-01-04 17:53:08 [INFO] <shudgeons> I am
+2013-01-04 17:53:23 [INFO] <shudgeons> fine
+2013-01-04 17:54:01 [INFO] <maxie5man> SAWYER WHAT IS YOUR SKYPE NAME
+2013-01-04 17:54:09 [INFO] <fhudgeons> so what do you want to do
+2013-01-04 17:54:37 [INFO] <shudgeons> I dont know
+2013-01-04 17:54:54 [INFO] <shudgeons> sheesh
+2013-01-04 17:56:37 [INFO] [fhudgeons: Set the time to 0]
+2013-01-04 17:57:41 [INFO] <maxie5man> SAWYER IF YOU DONT TELL ME YOUR SKYPE NUMBER I AM OFF YOUR SERVER
+2013-01-04 17:57:45 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-04 17:57:54 [INFO] maxie5man [/65.111.101.222:38300] lost connection
+2013-01-04 17:58:21 [INFO] maxie5man[/65.111.101.222:36388] logged in with entity id 1174724 at (-581.9898119325824, 63.0, 424.03439346619894)
+2013-01-04 17:58:49 [INFO] <maxie5man> SAWYER WHAT IS YOUR SKYPE NAME
+2013-01-04 17:59:39 [INFO] <shudgeons> wat is your face time number max
+2013-01-04 18:00:10 [INFO] <maxie5man> SAWYER IF YOU DONT TELL ME YOUR SKYPE NUMBER I WILL BLOW UP EVERYTHING
+2013-01-04 18:00:27 [INFO] <fhudgeons> no stop
+2013-01-04 18:00:30 [INFO] <shudgeons> I DONT KNOW
+2013-01-04 18:00:43 [INFO] <maxie5man> ASK YOUR MOM!
+2013-01-04 18:01:41 [INFO] <shudgeons> SHIT
+2013-01-04 18:02:01 [INFO] <maxie5man> ill stop if you ask your mom ok
+2013-01-04 18:02:37 [INFO] <shudgeons> I did ask my mom
+2013-01-04 18:02:49 [INFO] <maxie5man> what did she say
+2013-01-04 18:03:10 [INFO] <shudgeons> she dose not know
+2013-01-04 18:03:39 [INFO] <maxie5man> fine ill check my face time number
+2013-01-04 18:04:01 [INFO] <shudgeons> thank you
+2013-01-04 18:04:42 [INFO] <maxie5man> what is your face time number
+2013-01-04 18:04:49 [INFO] <maxie5man> i dont know mine
+2013-01-04 18:05:45 [INFO] <shudgeons> mom ses I don't have one
+2013-01-04 18:06:03 [INFO] [fhudgeons: De-opped maxi5man]
+2013-01-04 18:06:36 [INFO] [shudgeons: Opped maxie5man]
+2013-01-04 18:06:55 [INFO] [fhudgeons: De-opped maxi5man]
+2013-01-04 18:06:55 [INFO] [shudgeons: De-opped fhudgeons]
+2013-01-04 18:07:10 [INFO] <maxie5man> then how can i face time you
+2013-01-04 18:07:30 [INFO] <shudgeons> I do not know
+2013-01-04 18:07:45 [INFO] <fhudgeons> max stop greifing we deopped you
+2013-01-04 18:07:49 [INFO] <maxie5man> AAAAAAAAAAAAAAAAAAAAAAAAGH
+2013-01-04 18:07:56 [INFO] [shudgeons: Opped maxie5man]
+2013-01-04 18:08:01 [INFO] <maxie5man> i am still on creative
+2013-01-04 18:08:38 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 18:09:06 [INFO] [maxie5man: Given Monster Spawner (ID 52) * 64 to maxie5man]
+2013-01-04 18:09:59 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-04 18:10:16 [INFO] <shudgeons> max stock harry's mine whith monster spawners
+2013-01-04 18:10:22 [INFO] <maxie5man> ok
+2013-01-04 18:11:01 [INFO] HarryDiamand[/70.112.17.244:33346] logged in with entity id 1194369 at (-565.1565617032693, 27.0, 395.2635460561163)
+2013-01-04 18:11:22 [INFO] [shudgeons: Opped fhudgeons]
+2013-01-04 18:11:51 [INFO] <HarryDiamand> please dont mine
+2013-01-04 18:11:57 [INFO] <maxie5man> i wont
+2013-01-04 18:12:06 [INFO] [shudgeons: De-opped harrydiamanond]
+2013-01-04 18:13:22 [INFO] [shudgeons: Opped harrydiamond]
+2013-01-04 18:13:37 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-04 18:14:58 [INFO] HarryDiamand[/70.112.17.244:33533] logged in with entity id 1201206 at (-570.0405556583182, 63.0, 437.8175563851368)
+2013-01-04 18:16:54 [INFO] <maxie5man> HARRY CHECK OUT YOUR MINE
+2013-01-04 18:17:11 [INFO] <shudgeons> hehehe
+2013-01-04 18:17:22 [INFO] <maxie5man> BEWARE OF PIGS!
+2013-01-04 18:17:28 [INFO] <shudgeons> good job max
+2013-01-04 18:20:17 [INFO] <shudgeons> max come out and I will pay you
+2013-01-04 18:20:26 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-04 18:21:57 [INFO] shudgeons[/70.112.17.244:33540] logged in with entity id 1213265 at (-563.4775349712233, 63.0, 430.3611399578155)
+2013-01-04 18:22:07 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 18:24:11 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-04 18:24:37 [INFO] <HarryDiamand> max why did you put monsters in my mine
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-01-04 18:26:17 [INFO] HarryDiamand lost connection: disconnect.genericReason
+2013-01-04 18:28:22 [INFO] <maxie5man> sorry
+2013-01-04 18:28:29 [INFO] <maxie5man> not monsters pigs
+2013-01-04 18:28:33 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-04 20:21:02 [INFO] HarryDiamand[/70.112.17.244:33455] logged in with entity id 1221646 at (-439.40329397329225, 66.0, 470.7986813279538)
+2013-01-04 20:21:18 [INFO] shudgeons[/70.112.17.244:33611] logged in with entity id 1221971 at (-611.2732451057864, 66.62373576939045, 509.78336874709277)
+2013-01-04 20:24:18 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 20:30:11 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-04 20:30:33 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-04 20:35:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 20:47:47 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-04 20:57:07 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-04 21:10:56 [INFO] HarryDiamand[/70.112.17.244:36651] logged in with entity id 1274219 at (-515.9192320793655, 71.0, 471.4998746614305)
+2013-01-04 21:12:04 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-04 21:18:23 [INFO] [HarryDiamand: Set the time to 12500]
+2013-01-04 21:19:16 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-04 21:30:55 [INFO] HarryDiamand fell out of the world
+2013-01-04 21:42:04 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-04 22:31:07 [INFO] shudgeons[/70.112.17.244:33012] logged in with entity id 1353150 at (-432.7549305956274, 66.38325062826235, 432.3992188385581)
+2013-01-04 22:31:16 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 22:42:05 [INFO] [shudgeons: Set the time to 0]
+2013-01-04 22:46:42 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-05 00:39:46 [INFO] shudgeons[/70.112.17.244:33145] logged in with entity id 1383617 at (-562.8980305174733, 57.0, 419.6615947527744)
+2013-01-05 00:40:26 [INFO] [shudgeons: Toggled downfall]
+2013-01-05 00:40:44 [INFO] [shudgeons: Set the time to 0]
+2013-01-05 00:51:11 [INFO] [shudgeons: Set the time to 0]
+2013-01-05 00:59:51 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-05 01:37:52 [INFO] azwii[/72.177.30.184:49901] logged in with entity id 1411859 at (-385.5935438002639, 64.0, 257.69955903556337)
+2013-01-05 01:39:18 [INFO] azwii lost connection: disconnect.quitting
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-05 02:08:25 [INFO] /72.177.30.184:51086 lost connection
+2013-01-05 14:23:34 [INFO] shudgeons[/70.112.17.244:34096] logged in with entity id 1413871 at (-406.9824722731741, 83.3235962471946, 371.6652535759593)
+2013-01-05 14:24:01 [INFO] [shudgeons: Toggled downfall]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-05 14:35:46 [INFO] Disconnecting /72.177.30.184:52310: Took too long to log in
+2013-01-05 14:35:56 [INFO] Disconnecting /72.177.30.184:52346: Took too long to log in
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-05 14:36:05 [INFO] Disconnecting /72.177.30.184:52377: Took too long to log in
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-05 14:43:34 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-05 15:06:42 [INFO] HarryDiamand[/70.113.89.231:52889] logged in with entity id 1429695 at (192.50109879534773, 63.0, -105.81104174492312)
+2013-01-05 15:07:15 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-05 15:07:21 [INFO] HarryDiamand[/70.113.89.231:52922] logged in with entity id 1430814 at (258.7289068262976, 103.37328582500707, -63.32887364809988)
+2013-01-05 15:20:04 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-05 15:20:49 [INFO] HarryDiamand[/70.113.89.231:52944] logged in with entity id 1474968 at (553.9580972737734, 80.16555212719797, -200.88597543471118)
+2013-01-05 15:23:02 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-05 15:24:51 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-05 16:57:09 [INFO] HarryDiamand[/70.113.89.231:52999] logged in with entity id 1488353 at (764.501282652699, 85.528821497781, -74.70228246509349)
+2013-01-05 16:57:20 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 16:57:45 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:00:43 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 17:00:45 [INFO] HarryDiamand hit the ground too hard
+2013-01-05 17:01:12 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:12:10 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 17:13:51 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-05 17:14:19 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:15:19 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 17:16:40 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:19:58 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 17:22:00 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-05 17:25:03 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:25:49 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 17:28:45 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:29:19 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 17:36:52 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:40:14 [INFO] [HarryDiamand: Set own game mode to Survival Mode]
+2013-01-05 17:41:07 [INFO] [HarryDiamand: Set own game mode to Creative Mode]
+2013-01-05 17:44:40 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-05 22:17:44 [INFO] shudgeons[/70.112.17.244:33229] logged in with entity id 1564817 at (-391.13719140109976, 69.36445605997292, 295.6253232272142)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.DataInputStream.readFully(DataInputStream.java:195)
+	at java.io.DataInputStream.readLong(DataInputStream.java:416)
+	at java.io.DataInputStream.readDouble(DataInputStream.java:468)
+	at ec.a(SourceFile:68)
+	at ef.a(SourceFile:192)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-01-05 22:18:42 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-05 22:26:57 [INFO] shudgeons[/70.112.17.244:33129] logged in with entity id 1567105 at (-455.75223552092706, 85.10617225394635, 434.76364513860034)
+2013-01-05 22:27:15 [INFO] [shudgeons: Set the time to 0]
