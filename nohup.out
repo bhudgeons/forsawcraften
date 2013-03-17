@@ -2417,3 +2417,2520 @@ java.net.SocketException: Socket closed
 2013-01-05 22:18:42 [INFO] shudgeons lost connection: disconnect.genericReason
 2013-01-05 22:26:57 [INFO] shudgeons[/70.112.17.244:33129] logged in with entity id 1567105 at (-455.75223552092706, 85.10617225394635, 434.76364513860034)
 2013-01-05 22:27:15 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at java.io.DataInputStream.readFloat(DataInputStream.java:446)
+	at ed.a(SourceFile:31)
+	at ef.a(SourceFile:192)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-01-05 22:27:48 [INFO] shudgeons lost connection: disconnect.genericReason
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:470)
+	at java.net.ServerSocket.accept(ServerSocket.java:438)
+	at hu.run(SourceFile:66)
+Closing listening thread
+210 recipes
+27 achievements
+2013-01-05 22:29:45 [INFO] Starting minecraft server version 1.4.6
+2013-01-05 22:29:45 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-01-05 22:29:45 [INFO] Loading properties
+2013-01-05 22:29:45 [INFO] Default game type: SURVIVAL
+2013-01-05 22:29:45 [INFO] Generating keypair
+2013-01-05 22:29:46 [INFO] Starting Minecraft server on *:25565
+2013-01-05 22:29:46 [INFO] Preparing level "world"
+2013-01-05 22:29:47 [INFO] Preparing start region for level 0
+2013-01-05 22:29:48 [INFO] Preparing spawn area: 11%
+2013-01-05 22:29:49 [INFO] Preparing spawn area: 50%
+2013-01-05 22:29:50 [INFO] Done (3.662s)! For help, type "help" or "?"
+2013-01-05 22:31:01 [INFO] Disconnecting /70.112.17.244:33141: Took too long to log in
+2013-01-05 23:11:52 [INFO] shudgeons[/70.112.17.244:33319] logged in with entity id 63 at (-426.0040938439725, 80.26219003258029, 456.63305246895357)
+2013-01-05 23:11:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-05 23:15:00 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-05 23:15:05 [INFO] shudgeons[/70.112.17.244:34387] logged in with entity id 6083 at (-561.2865965341031, 63.0, 402.72349834454997)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-05 23:15:06 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-06 01:23:41 [INFO] spitblast[/208.191.157.180:53253] logged in with entity id 6314 at (-359.66792213497683, 63.0, 236.69999998807907)
+2013-01-06 01:34:04 [INFO] [spitblast: Toggled downfall]
+2013-01-06 01:38:43 [INFO] [spitblast: Set the time to 0]
+2013-01-06 01:48:50 [INFO] [spitblast: Set the time to 0]
+2013-01-06 01:58:15 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-06 14:29:25 [INFO] shudgeons[/70.112.17.244:33302] logged in with entity id 53936 at (-561.2865965341031, 63.0, 402.72349834454997)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-06 14:29:26 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-06 14:29:33 [INFO] shudgeons[/70.112.17.244:33338] logged in with entity id 54210 at (-561.2865965341031, 63.0, 402.72349834454997)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-06 14:29:34 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-06 14:29:47 [INFO] shudgeons[/70.112.17.244:33402] logged in with entity id 54523 at (-561.2865965341031, 63.0, 402.72349834454997)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-06 14:29:48 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-06 14:31:09 [INFO] shudgeons[/70.112.17.244:33398] logged in with entity id 54864 at (-561.2865965341031, 63.0, 402.72349834454997)
+2013-01-06 14:32:39 [INFO] [shudgeons: Toggled downfall]
+2013-01-06 14:42:37 [INFO] [shudgeons: Set the time to 0]
+2013-01-06 14:51:38 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-06 16:57:18 [INFO] HarryDiamand[/70.113.89.231:53208] logged in with entity id 81301 at (-404.80557767159485, 63.0, 370.5531147733838)
+2013-01-06 17:06:37 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-06 17:10:45 [INFO] HarryDiamand[/70.113.89.231:53302] logged in with entity id 88101 at (-430.30000001192093, 64.0, 369.94999998807907)
+2013-01-06 17:13:25 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-06 17:13:46 [INFO] [HarryDiamand: Set HarryDiamand's spawn point to (-432, 64, 364)]
+2013-01-06 17:19:45 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-06 17:50:07 [INFO] shudgeons[/70.112.17.244:33311] logged in with entity id 103188 at (-342.300000011921, 64.0, 379.69999998807907)
+2013-01-06 17:50:19 [INFO] [shudgeons: Set the time to 0]
+2013-01-06 17:52:06 [INFO] [shudgeons: Toggled downfall]
+2013-01-06 18:00:55 [INFO] [shudgeons: Set the time to 6000]
+2013-01-06 18:01:23 [INFO] [shudgeons: Set the time to 60000]
+2013-01-06 18:01:33 [INFO] [shudgeons: Set the time to 0]
+2013-01-06 18:14:21 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-06 18:35:42 [INFO] maxie5man[/65.111.101.222:38195] logged in with entity id 143742 at (-538.5080158745056, 65.49064318920136, 443.722874978344)
+2013-01-06 18:35:46 [INFO] ZEUS9173[/24.155.245.210:53483] logged in with entity id 143988 at (-8.5, 60.62000000476837, 9.5)
+2013-01-06 18:36:29 [INFO] [maxie5man: Opped ZEUS9173]
+2013-01-06 18:36:36 [INFO] [ZEUS9173: Teleported ZEUS9173 to maxie5man]
+2013-01-06 18:36:43 [INFO] [ZEUS9173: Set own game mode to Creative Mode]
+2013-01-06 18:36:51 [INFO] spitblast[/208.191.157.180:49299] logged in with entity id 146652 at (-357.5438808874244, 66.54771250683437, 239.14432646868067)
+2013-01-06 18:36:59 [INFO] <spitblast> hi hi hi
+2013-01-06 18:37:02 [INFO] <ZEUS9173> hi
+2013-01-06 18:37:03 [INFO] <maxie5man> hi
+2013-01-06 18:37:17 [INFO] <spitblast> no im high
+2013-01-06 18:37:23 [INFO] <ZEUS9173> hi
+2013-01-06 18:37:54 [INFO] [maxie5man: Set the time to 0]
+2013-01-06 18:38:23 [INFO] ZEUS9173 lost connection: disconnect.quitting
+2013-01-06 18:38:30 [INFO] ZEUS9173[/24.155.245.210:53522] logged in with entity id 152562 at (-495.03626014354086, 83.52435749464678, 472.38812536200317)
+2013-01-06 18:38:40 [INFO] BrickNick_[/24.155.245.210:56323] logged in with entity id 153360 at (-4.5, 57.62000000476837, -1.5)
+2013-01-06 18:38:48 [INFO] [ZEUS9173: Opped bricknick_]
+2013-01-06 18:39:08 [INFO] [ZEUS9173: Set maxie5man's game mode to Survival Mode]
+2013-01-06 18:39:15 [INFO] [maxie5man: Set own game mode to Creative Mode]
+2013-01-06 18:40:36 [INFO] [ZEUS9173: Teleported ZEUS9173 to spitblast]
+2013-01-06 18:40:48 [INFO] <spitblast> nice cape
+2013-01-06 18:40:58 [INFO] <spitblast> *gollum*
+2013-01-06 18:41:14 [INFO] <maxie5man> spitblast do you know Sawyer
+2013-01-06 18:41:22 [INFO] <spitblast> yeah hes my neighbor
+2013-01-06 18:41:31 [INFO] <maxie5man> what is your name
+2013-01-06 18:41:40 [INFO] <spitblast> Henry
+2013-01-06 18:41:52 [INFO] [BrickNick_: Teleported BrickNick_ to ZEUS9173]
+2013-01-06 18:42:04 [INFO] [ZEUS9173: Set BrickNick_'s game mode to Creative Mode]
+2013-01-06 18:42:06 [INFO] <maxie5man> my names max Sawyer told me that slimeville is your village
+2013-01-06 18:42:17 [INFO] <spitblast> it is'
+2013-01-06 18:43:44 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-06 18:44:26 [INFO] [ZEUS9173: Given Monster Spawner (ID 52) * 1 to ZEUS9173]
+2013-01-06 18:46:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 18:46:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 18:47:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 18:47:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 18:47:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 18:47:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 18:50:02 [INFO] BrickNick_ lost connection: disconnect.quitting
+2013-01-06 18:53:20 [INFO] [maxie5man: De-opped ZEUS9173]
+2013-01-06 18:53:45 [INFO] [maxie5man: Set ZEUS9173's game mode to Survival Mode]
+2013-01-06 18:55:42 [INFO] [maxie5man: Given Monster Spawner (ID 52) * 1 to maxie5man]
+2013-01-06 18:57:51 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-06 19:35:37 [INFO] ZEUS9173 lost connection: disconnect.quitting
+2013-01-06 21:36:09 [INFO] shudgeons[/70.112.17.244:33330] logged in with entity id 224459 at (-496.20120469766937, 75.98687010015719, 441.980856540614)
+2013-01-06 21:44:04 [INFO] HarryDiamand[/70.112.17.244:32891] logged in with entity id 234747 at (-370.76957394360284, 74.0, 261.60718890297335)
+2013-01-06 21:45:15 [INFO] [shudgeons: Toggled downfall]
+2013-01-06 21:48:42 [INFO] [shudgeons: Set the time to 0]
+2013-01-06 21:49:01 [INFO] [shudgeons: Set the time to 0]
+2013-01-06 21:49:21 [INFO] [shudgeons: Toggled downfall]
+2013-01-06 21:49:50 [INFO] [shudgeons: Toggled downfall]
+2013-01-06 21:50:31 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-06 21:51:57 [INFO] fhudgeons[/70.112.17.244:33814] logged in with entity id 246103 at (-371.1017538349237, 64.0, 277.015990943139)
+2013-01-06 21:52:10 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-06 22:02:51 [INFO] HarryDiamand lost connection: disconnect.endOfStream
+2013-01-06 23:40:34 [INFO] shudgeons[/70.112.17.244:33068] logged in with entity id 257682 at (-366.6672981625525, 62.57128757643041, 358.8951197760362)
+2013-01-06 23:40:45 [INFO] [shudgeons: Set the time to 0]
+2013-01-06 23:41:23 [INFO] HarryDiamand[/70.112.17.244:34591] logged in with entity id 258809 at (-344.30000001192093, 68.0, 400.3281470845233)
+2013-01-06 23:51:39 [INFO] [shudgeons: Set the time to 0]
+2013-01-06 23:56:50 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-07 00:03:30 [INFO] shudgeons lost connection: disconnect.endOfStream
+2013-01-07 01:24:30 [INFO] Disconnecting /208.191.157.180:50446: Took too long to log in
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-07 01:26:11 [INFO] spitblast[/208.191.157.180:50573] logged in with entity id 344252 at (-354.6816178658561, 71.03244345474577, 226.35803565867576)
+2013-01-07 01:28:58 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-07 01:55:11 [INFO] ZEUS9173[/24.155.245.210:55131] logged in with entity id 345892 at (-345.69999998807907, 68.0, 402.30000001192093)
+2013-01-07 02:04:41 [INFO] ZEUS9173 hit the ground too hard
+2013-01-07 02:17:31 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:32 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:32 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:32 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:33 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:39 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:39 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:39 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:40 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:46 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:47 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:47 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:47 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:17:49 [WARNING] ZEUS9173 moved wrongly!
+2013-01-07 02:18:00 [WARNING] ZEUS9173 was kicked for floating too long!
+2013-01-07 02:20:33 [INFO] ZEUS9173[/24.155.245.210:55448] logged in with entity id 393359 at (-341.79730687479525, 71.3870719743042, -84.70410729646682)
+2013-01-07 02:21:02 [INFO] maxie5man[/65.111.101.222:34700] logged in with entity id 393722 at (-342.7090504514358, 69.25808122372055, 398.44077084318434)
+2013-01-07 02:21:08 [INFO] <ZEUS9173> :p
+2013-01-07 02:21:13 [INFO] <ZEUS9173> why u have to go
+2013-01-07 02:21:20 [INFO] <ZEUS9173> tp me would ya
+2013-01-07 02:21:22 [INFO] [maxie5man: Opped ZEUS9173]
+2013-01-07 02:21:32 [INFO] [ZEUS9173: Teleported ZEUS9173 to maxie5man]
+2013-01-07 02:21:38 [INFO] [ZEUS9173: Set own game mode to Creative Mode]
+2013-01-07 02:21:42 [INFO] <maxie5man> because playing family game
+2013-01-07 02:21:46 [INFO] <maxie5man> bye
+2013-01-07 02:21:48 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-07 02:49:46 [INFO] ZEUS9173 lost connection: disconnect.quitting
+2013-01-07 14:47:00 [INFO] ZEUS9173[/24.155.245.210:51348] logged in with entity id 447040 at (-347.30000001192093, 69.0, 400.69999998807907)
+2013-01-07 16:01:43 [INFO] ZEUS9173 lost connection: disconnect.quitting
+2013-01-07 22:40:44 [INFO] HarryDiamand[/70.112.17.244:34350] logged in with entity id 519858 at (-323.7782916576713, 70.4988377291048, 261.6999999880791)
+2013-01-07 22:40:44 [INFO] HarryDiamand lost connection: disconnect.endOfStream
+2013-01-07 22:40:44 [INFO] HarryDiamand lost connection: disconnect.endOfStream
+2013-01-07 22:41:12 [INFO] HarryDiamand[/70.112.17.244:33375] logged in with entity id 520057 at (-323.7782916576713, 70.4988377291048, 261.6999999880791)
+2013-01-07 22:50:30 [INFO] HarryDiamand lost connection: disconnect.endOfStream
+2013-01-07 23:38:10 [INFO] fhudgeons[/70.112.17.244:33891] logged in with entity id 531635 at (-371.1017538349237, 64.0, 277.015990943139)
+2013-01-07 23:45:07 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-08 01:36:15 [INFO] Disconnecting /208.191.157.180:52660: Took too long to log in
+2013-01-11 00:21:07 [INFO] shudgeons[/70.112.17.244:34250] logged in with entity id 545782 at (-412.32169757050866, 72.48937758587034, 234.27414756195964)
+2013-01-11 00:25:12 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-11 21:08:28 [INFO] shudgeons[/70.112.17.244:34383] logged in with entity id 561469 at (-384.4586226192898, 76.03137988834106, 234.63275144973096)
+2013-01-11 21:13:06 [INFO] [shudgeons: Set the time to 0]
+2013-01-11 21:18:58 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-11 22:20:35 [INFO] shudgeons[/70.112.17.244:33175] logged in with entity id 606506 at (-565.3263446504952, 65.70000004768382, 432.7752344385277)
+2013-01-11 22:21:42 [INFO] HarryDiamand[/70.112.17.244:33684] logged in with entity id 610039 at (-445.7130317906308, 87.82118679480595, 429.9086925125172)
+2013-01-11 22:25:16 [INFO] [shudgeons: Set the time to 0]
+2013-01-11 22:36:03 [INFO] [shudgeons: Set the time to 0]
+2013-01-11 22:37:15 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-11 22:38:46 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-12 01:03:53 [INFO] spitblast[/72.177.30.184:50421] logged in with entity id 651596 at (-361.445487530316, 77.24572683015923, 229.0692764994481)
+2013-01-12 01:27:44 [INFO] [spitblast: Set the time to 0]
+2013-01-12 01:32:51 [INFO] [spitblast: Given Command Block (ID 137) * 1 to spitblast]
+2013-01-12 01:38:12 [INFO] [spitblast: Set the time to 0]
+2013-01-12 01:44:48 [INFO] [spitblast: Toggled downfall]
+2013-01-12 01:49:43 [INFO] [spitblast: Set the time to 0]
+2013-01-12 01:50:31 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-12 01:55:41 [INFO] spitblast[/72.177.30.184:50712] logged in with entity id 701354 at (-374.30000001192093, 64.0, 234.41916858111716)
+2013-01-12 01:56:50 [INFO] [spitblast: Toggled downfall]
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-12 01:57:24 [INFO] spitblast lost connection: disconnect.genericReason
+2013-01-12 12:29:32 [INFO] spitblast[/72.177.30.184:50295] logged in with entity id 702722 at (-363.1995288506429, 76.36503309270724, 231.83285749035184)
+2013-01-12 12:48:19 [INFO] [spitblast: Set the time to 0]
+2013-01-12 12:48:35 [INFO] [spitblast: Toggled downfall]
+2013-01-12 12:50:37 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-12 15:59:02 [INFO] maxie5man[/65.111.101.222:35995] logged in with entity id 728469 at (-342.7090504514358, 69.25808122372055, 398.44077084318434)
+2013-01-12 16:00:43 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-12 21:03:33 [INFO] Disconnecting /208.191.157.180:49909: Took too long to log in
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-12 21:04:22 [INFO] spitblast[/208.191.157.180:49966] logged in with entity id 747612 at (-345.78380698046425, 83.23935609618474, 236.13681702114147)
+2013-01-12 21:09:14 [INFO] [spitblast: Toggled downfall]
+2013-01-12 21:10:59 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-13 01:21:03 [INFO] maxie5man[/65.111.101.222:39176] logged in with entity id 757838 at (-342.0932872430844, 68.0, 401.01855156839696)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-13 01:36:14 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-13 01:36:32 [INFO] maxie5man[/65.111.101.222:41221] logged in with entity id 781454 at (-561.1007121186275, 63.0, 400.8771350382939)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-13 01:36:33 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-13 01:36:41 [INFO] maxie5man[/65.111.101.222:37236] logged in with entity id 781686 at (-561.1007121186275, 63.0, 400.8771350382939)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-13 01:36:42 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-13 11:44:35 [INFO] shudgeons[/66.68.50.15:50522] logged in with entity id 781917 at (-375.6207394210872, 67.20928920025143, 278.6534929749415)
+2013-01-13 11:44:41 [INFO] [shudgeons: Set the time to 0]
+2013-01-13 11:53:34 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-13 17:54:56 [INFO] maxie5man[/65.111.101.222:44732] logged in with entity id 802012 at (-561.1007121186275, 63.0, 400.8771350382939)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-13 17:54:57 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-13 18:17:52 [INFO] maxie5man[/65.111.101.222:46942] logged in with entity id 802269 at (-561.1007121186275, 63.0, 400.8771350382939)
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-01-13 18:17:52 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-01-13 18:18:04 [INFO] maxie5man[/65.111.101.222:38683] logged in with entity id 802497 at (-561.1007121186275, 63.0, 400.8771350382939)
+2013-01-13 18:20:28 [INFO] <maxie5man> smdjdj
+2013-01-13 18:25:49 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-13 19:44:02 [INFO] maxie5man[/65.111.101.222:42941] logged in with entity id 812982 at (-247.43369267099936, 77.4911322198538, 477.4344403268237)
+2013-01-13 19:46:46 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-13 21:28:08 [INFO] shudgeons[/70.112.17.244:32862] logged in with entity id 815682 at (-372.81702855577026, 64.0, 239.83995437274967)
+2013-01-13 21:28:41 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-13 21:59:39 [INFO] shudgeons[/70.112.17.244:33433] logged in with entity id 818437 at (-385.14303250800515, 85.61435589303794, 299.1073588719071)
+2013-01-13 22:10:34 [INFO] [shudgeons: Set the time to 0]
+2013-01-13 22:18:28 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-13 23:14:22 [INFO] shudgeons[/70.112.17.244:33373] logged in with entity id 853267 at (-358.72322878857847, 64.5, 242.3356026806849)
+2013-01-13 23:18:45 [INFO] [shudgeons: Toggled downfall]
+2013-01-13 23:21:46 [INFO] [shudgeons: Set the time to 0]
+2013-01-13 23:33:20 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-14 01:53:53 [INFO] spitblast[/208.191.157.180:50499] logged in with entity id 884041 at (-366.16407595184364, 74.5, 227.84854742694787)
+2013-01-14 01:59:43 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-14 21:05:15 [INFO] shudgeons[/70.112.17.244:33288] logged in with entity id 888646 at (-357.897369180007, 75.69998021999514, 245.54733833784402)
+2013-01-14 21:07:00 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-14 21:18:15 [INFO] shudgeons[/70.112.17.244:33346] logged in with entity id 894245 at (-433.57040668833815, 90.11289333508626, 418.01181473788535)
+2013-01-14 21:18:27 [INFO] [shudgeons: Set the time to 0]
+2013-01-14 21:19:10 [INFO] [shudgeons: Set the time to 0]
+2013-01-14 21:19:29 [INFO] [shudgeons: Toggled downfall]
+2013-01-14 21:20:04 [INFO] [shudgeons: Toggled downfall]
+2013-01-14 21:23:10 [INFO] [shudgeons: Set the time to 12500]
+2013-01-14 21:24:51 [INFO] shudgeons lost connection: disconnect.endOfStream
+2013-01-14 23:47:02 [INFO] shudgeons[/70.112.17.244:33963] logged in with entity id 912145 at (-561.370960807338, 63.0, 404.8634620297121)
+2013-01-14 23:47:15 [INFO] [shudgeons: Set the time to 0]
+2013-01-14 23:47:52 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-14 23:48:22 [INFO] shudgeons [/70.112.17.244:33991] lost connection
+2013-01-15 21:34:14 [INFO] shudgeons[/70.112.17.244:34673] logged in with entity id 915215 at (-356.2985929982343, 87.26264863827336, 432.85805552384187)
+2013-01-15 21:37:26 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-15 21:50:05 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-15 23:23:26 [INFO] shudgeons[/70.112.17.244:33560] logged in with entity id 939482 at (-368.2376222934838, 70.0, 236.9804524500056)
+2013-01-15 23:24:07 [INFO] [shudgeons: Toggled downfall]
+2013-01-15 23:26:54 [INFO] shudgeons lost connection: disconnect.endOfStream
+2013-01-15 23:43:19 [INFO] shudgeons[/70.112.17.244:32908] logged in with entity id 943293 at (-320.593845890868, 65.82257187490366, 415.2687944935897)
+2013-01-15 23:43:29 [INFO] HarryDiamand[/70.113.89.231:61494] logged in with entity id 943589 at (-315.4541202294177, 68.23981936600332, 288.57865924129413)
+2013-01-15 23:43:44 [INFO] <shudgeons> harry
+2013-01-15 23:43:58 [INFO] <HarryDiamand> hi
+2013-01-15 23:44:31 [INFO] <shudgeons> where are you
+2013-01-15 23:44:45 [INFO] [shudgeons: Set the time to 0]
+2013-01-15 23:44:50 [INFO] <HarryDiamand> by the roller coaster
+2013-01-15 23:45:02 [INFO] <shudgeons> ok stay
+2013-01-15 23:45:30 [INFO] <shudgeons> hi
+2013-01-15 23:45:47 [INFO] <shudgeons> press w
+2013-01-15 23:45:53 [INFO] <HarryDiamand> how do you start this thing
+2013-01-15 23:46:16 [INFO] <shudgeons> press w to start it
+2013-01-15 23:46:27 [INFO] <HarryDiamand> thanks
+2013-01-15 23:46:28 [INFO] <shudgeons> there
+2013-01-15 23:47:09 [INFO] <shudgeons> hehehe
+2013-01-15 23:47:26 [INFO] <HarryDiamand> what the heck
+2013-01-15 23:47:48 [INFO] <shudgeons> it was a prank
+2013-01-15 23:48:04 [INFO] <HarryDiamand> yeah i can see
+2013-01-15 23:48:18 [INFO] <shudgeons> good
+2013-01-15 23:48:20 [INFO] <HarryDiamand> im going to kill this golem
+2013-01-15 23:48:39 [INFO] <shudgeons> falo me
+2013-01-15 23:49:20 [INFO] <HarryDiamand> where are u
+2013-01-15 23:49:25 [INFO] <shudgeons> look at your mine
+2013-01-15 23:49:33 [INFO] <HarryDiamand> hi
+2013-01-15 23:49:48 [INFO] <shudgeons> I did it
+2013-01-15 23:49:59 [INFO] <HarryDiamand> what
+2013-01-15 23:50:06 [INFO] <shudgeons> do you like it
+2013-01-15 23:50:15 [INFO] <HarryDiamand> yeah
+2013-01-15 23:50:24 [INFO] <shudgeons> good
+2013-01-15 23:50:32 [INFO] <HarryDiamand> sorry i have to log off
+2013-01-15 23:50:40 [INFO] <HarryDiamand> bye
+2013-01-15 23:50:44 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-15 23:55:11 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-16 20:58:24 [INFO] shudgeons[/173.174.108.132:32993] logged in with entity id 964929 at (-331.19484662268246, 64.0, 414.36997766835515)
+2013-01-16 20:58:36 [INFO] [shudgeons: Set the time to 0]
+2013-01-16 20:58:47 [INFO] [shudgeons: Toggled downfall]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-16 21:24:29 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-16 21:38:02 [INFO] shudgeons[/173.174.108.132:33586] logged in with entity id 985975 at (-321.5, 64.0, 422.5)
+2013-01-16 21:40:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-16 22:08:58 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-16 23:36:25 [INFO] shudgeons[/173.174.108.132:33610] logged in with entity id 1025146 at (-319.8836398635834, 64.5, 423.9945328185953)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-16 23:45:11 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-16 23:45:59 [INFO] shudgeons[/173.174.108.132:33645] logged in with entity id 1042261 at (-330.14192284212265, 64.0, 414.6896874475272)
+2013-01-16 23:48:15 [INFO] [shudgeons: Set the time to 0]
+2013-01-17 00:07:51 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-17 12:36:13 [INFO] shudgeons[/173.174.108.132:33284] logged in with entity id 1069043 at (-469.0646123196621, 79.59595808684277, 452.6159586830954)
+2013-01-17 12:36:39 [INFO] [shudgeons: Toggled downfall]
+2013-01-17 12:36:55 [INFO] [shudgeons: Set the time to 0]
+2013-01-17 12:47:55 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-17 21:00:06 [INFO] shudgeons[/173.174.108.132:33108] logged in with entity id 1087493 at (-347.8211950340877, 69.0, 400.53516304000067)
+2013-01-17 21:09:07 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-17 21:13:51 [INFO] fhudgeons[/173.174.108.132:35344] logged in with entity id 1106712 at (-423.5366682035593, 69.0, 369.70235608424764)
+2013-01-17 21:14:25 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-17 22:47:09 [INFO] HarryDiamand[/70.113.89.231:49449] logged in with entity id 1109251 at (-566.2808689545178, 81.35209470294403, 428.4362199927989)
+2013-01-17 22:47:57 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-17 22:53:57 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-17 23:25:59 [INFO] HarryDiamand[/70.113.89.231:51654] logged in with entity id 1118211 at (-562.699999988079, 52.23269227266675, 408.69999998807907)
+2013-01-17 23:30:18 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-18 02:12:38 [INFO] somethingstupid9[/24.155.177.226:51716] logged in with entity id 1123414 at (1.9250000119209205, 63.0, -11.981116497901178)
+2013-01-18 02:25:48 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-18 02:39:42 [INFO] somethingstupid9[/24.155.177.226:51801] logged in with entity id 1136216 at (640.3000000119209, 52.0, 146.69999998807907)
+2013-01-18 02:48:33 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-18 12:58:10 [INFO] shudgeons[/173.174.108.132:34130] logged in with entity id 1139981 at (-323.5829515108803, 64.0, 415.0989563046275)
+2013-01-18 13:05:51 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-18 20:58:23 [INFO] shudgeons[/173.174.108.132:33436] logged in with entity id 1144768 at (-344.51249998807907, 65.0, 365.2819305594712)
+2013-01-18 21:11:08 [INFO] fhudgeons[/173.174.108.132:33238] logged in with entity id 1163427 at (-390.5063759180637, 64.0, 285.48750001192093)
+2013-01-18 21:15:16 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-18 21:16:21 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-18 21:25:15 [INFO] shudgeons[/173.174.108.132:33476] logged in with entity id 1172871 at (-343.7012932419311, 64.0, 347.9771382658725)
+2013-01-18 21:25:48 [INFO] [shudgeons: Given Command Block (ID 137) * 1 to shudgeons]
+2013-01-18 21:27:16 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-18 21:45:29 [INFO] somethingstupid9[/24.155.177.226:49187] logged in with entity id 1174787 at (642.9457701946836, 60.0, 154.69999998807904)
+2013-01-18 21:47:08 [INFO] somethingstupid9 was slain by Enderman
+2013-01-18 21:47:23 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-18 21:54:46 [INFO] somethingstupid9[/24.155.177.226:49207] logged in with entity id 1177030 at (0.2370490097477212, 76.0, -4.862601672890052)
+2013-01-18 21:57:20 [WARNING] somethingstupid9 moved wrongly!
+2013-01-18 22:01:12 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-19 03:24:51 [INFO] shudgeons[/173.174.108.132:33336] logged in with entity id 1183106 at (-352.7354685723745, 76.80634745933672, 399.29002388749785)
+2013-01-19 03:25:35 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 04:44:14 [INFO] shudgeons[/173.174.108.132:34025] logged in with entity id 1183631 at (-343.33844295344613, 64.0, 356.6005469008975)
+2013-01-19 04:44:24 [INFO] Disconnecting shudgeons [/173.174.108.132:32973]: Took too long to log in
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-19 04:44:31 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.DataInputStream.readFully(DataInputStream.java:195)
+	at java.io.DataInputStream.readLong(DataInputStream.java:416)
+	at java.io.DataInputStream.readDouble(DataInputStream.java:468)
+	at ec.a(SourceFile:69)
+	at ef.a(SourceFile:192)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-19 04:48:22 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-19 04:48:36 [INFO] shudgeons[/173.174.108.132:32833] logged in with entity id 1190704 at (-389.95442970446595, 63.30190798898493, 411.25117426844236)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at eb.a(SourceFile:141)
+	at ee.a(SourceFile:106)
+	at ef.a(SourceFile:192)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-19 04:49:52 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-19 13:24:46 [INFO] spitblast[/208.191.157.180:49219] logged in with entity id 1192335 at (-335.61968340830674, 84.3722798925174, 213.46628029301888)
+2013-01-19 13:25:58 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-19 13:26:10 [INFO] spitblast [/208.191.157.180:49241] lost connection
+2013-01-19 13:26:21 [INFO] spitblast[/208.191.157.180:49251] logged in with entity id 1193646 at (-355.0371623877755, 64.0, 233.57714974842023)
+2013-01-19 13:35:28 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-19 13:47:19 [INFO] shudgeons[/173.174.108.132:33165] logged in with entity id 1199838 at (-438.23786317999094, 74.85492376304343, 386.33982131213446)
+2013-01-19 14:02:36 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 14:12:01 [INFO] HarryDiamand[/70.113.89.231:52371] logged in with entity id 1237989 at (-560.1176120275189, 80.74727989251895, 430.48049412872143)
+2013-01-19 14:12:15 [INFO] <shudgeons> harry
+2013-01-19 14:12:30 [INFO] <HarryDiamand> hi
+2013-01-19 14:13:07 [INFO] <shudgeons> damn stop that
+2013-01-19 14:13:34 [INFO] <HarryDiamand> im going to set them on fire
+2013-01-19 14:14:07 [INFO] <shudgeons> good   thoes stupid pigs
+2013-01-19 14:14:20 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 14:14:37 [INFO] <HarryDiamand> what do you want to do
+2013-01-19 14:15:04 [INFO] <shudgeons> will you help me buld
+2013-01-19 14:15:13 [INFO] <HarryDiamand> sure
+2013-01-19 14:15:14 [INFO] <shudgeons> oops
+2013-01-19 14:15:54 [INFO] <HarryDiamand> how are we going to do this
+2013-01-19 14:16:06 [INFO] <shudgeons> look at me
+2013-01-19 14:16:41 [INFO] <shudgeons> help
+2013-01-19 14:17:22 [INFO] [shudgeons: Toggled downfall]
+2013-01-19 14:18:26 [INFO] <shudgeons> good
+2013-01-19 14:18:29 [INFO] <HarryDiamand> now what
+2013-01-19 14:19:47 [INFO] <shudgeons> shit
+2013-01-19 14:22:30 [INFO] <shudgeons> look
+2013-01-19 14:22:38 [INFO] <HarryDiamand> ok
+2013-01-19 14:24:42 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-19 14:24:43 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 14:25:03 [INFO] <HarryDiamand> hey
+2013-01-19 14:25:20 [INFO] <HarryDiamand> what r u doing
+2013-01-19 14:25:59 [INFO] <shudgeons> geting rid of these stupid pigs
+2013-01-19 14:26:55 [INFO] <shudgeons> nonono glass plains
+2013-01-19 14:27:03 [INFO] <HarryDiamand> ok
+2013-01-19 14:27:44 [INFO] <HarryDiamand> where are they in your inventory
+2013-01-19 14:27:55 [INFO] <shudgeons> ses
+2013-01-19 14:28:38 [INFO] <shudgeons> yes there in decoration blocks
+2013-01-19 14:28:42 [INFO] <HarryDiamand> where do we put them
+2013-01-19 14:29:02 [INFO] <shudgeons> stop
+2013-01-19 14:29:28 [INFO] <HarryDiamand> im not doing anything
+2013-01-19 14:30:36 [INFO] <HarryDiamand> what r u doing
+2013-01-19 14:30:52 [INFO] <shudgeons> fixing it
+2013-01-19 14:32:28 [INFO] <HarryDiamand> nice house
+2013-01-19 14:32:42 [INFO] <HarryDiamand> iron doors
+2013-01-19 14:32:49 [INFO] <shudgeons> no
+2013-01-19 14:34:18 [INFO] fhudgeons[/173.174.108.132:33314] logged in with entity id 1259882 at (-315.6054067061341, 64.0, 276.77995634668093)
+2013-01-19 14:34:55 [INFO] <shudgeons> look
+2013-01-19 14:35:04 [INFO] <HarryDiamand> ok
+2013-01-19 14:35:16 [INFO] <HarryDiamand> hi
+2013-01-19 14:35:56 [INFO] <HarryDiamand> hahhaha
+2013-01-19 14:36:10 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 14:37:24 [INFO] <HarryDiamand> so guys what do u want to do
+2013-01-19 14:37:35 [INFO] <shudgeons> teague or harry
+2013-01-19 14:37:48 [INFO] <HarryDiamand> harry
+2013-01-19 14:39:05 [INFO] <HarryDiamand> thanks but im on creative
+2013-01-19 14:39:38 [INFO] <HarryDiamand> hahahaha nice sign sawyer
+2013-01-19 14:39:52 [INFO] <HarryDiamand> kill pigs
+2013-01-19 14:41:04 [INFO] <HarryDiamand> im going to roller coaster
+2013-01-19 14:41:20 [INFO] <shudgeons> wait
+2013-01-19 14:41:30 [INFO] <HarryDiamand> what
+2013-01-19 14:41:44 [INFO] <shudgeons> look at the sine
+2013-01-19 14:42:00 [INFO] <HarryDiamand> you mean sign
+2013-01-19 14:42:18 [INFO] <HarryDiamand> nice
+2013-01-19 14:42:29 [INFO] <shudgeons> I know
+2013-01-19 14:42:51 [INFO] <HarryDiamand> now ill go to roller coaster
+2013-01-19 14:43:14 [INFO] <shudgeons> you maen will
+2013-01-19 14:43:19 [INFO] <HarryDiamand> then to harrys mine after
+2013-01-19 14:43:27 [INFO] <shudgeons> ok
+2013-01-19 14:43:52 [INFO] <HarryDiamand> shut up sawyer i dont mean will
+2013-01-19 14:44:10 [INFO] <HarryDiamand> dont be a smart ass
+2013-01-19 14:44:11 [INFO] <shudgeons> shit
+2013-01-19 14:44:39 [INFO] <HarryDiamand> where is the startof this damn thing
+2013-01-19 14:45:03 [INFO] <shudgeons> here
+2013-01-19 14:45:14 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-19 14:45:17 [INFO] <HarryDiamand> thanks
+2013-01-19 14:45:23 [INFO] <shudgeons> god damn it
+2013-01-19 14:46:43 [INFO] <HarryDiamand> bye im going to play dvz
+2013-01-19 14:46:47 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-19 14:47:01 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 14:47:13 [INFO] HarryDiamand[/70.113.89.231:52473] logged in with entity id 1281024 at (-457.0, 80.03097757501318, 440.00999999046326)
+2013-01-19 14:47:41 [INFO] <HarryDiamand> lets go to potter craft do you have it
+2013-01-19 14:47:50 [INFO] azwii[/216.80.147.149:34206] logged in with entity id 1281691 at (-378.68806784949703, 65.16422679081799, 262.73104920066623)
+2013-01-19 14:47:52 [INFO] <shudgeons> no
+2013-01-19 14:47:56 [INFO] <azwii> hi
+2013-01-19 14:48:04 [INFO] <azwii> where is mall?
+2013-01-19 14:48:16 [INFO] <HarryDiamand> azwii who ru
+2013-01-19 14:48:24 [INFO] <azwii> azwii, duh
+2013-01-19 14:48:26 [INFO] <shudgeons> who are you
+2013-01-19 14:48:35 [INFO] <azwii> and who r u?
+2013-01-19 14:48:36 [INFO] <HarryDiamand> real life name
+2013-01-19 14:48:43 [INFO] <azwii> who u?
+2013-01-19 14:48:56 [INFO] <HarryDiamand> harry
+2013-01-19 14:49:03 [INFO] <HarryDiamand> who ru
+2013-01-19 14:49:06 [INFO] <azwii> harry who?
+2013-01-19 14:49:06 [INFO] <shudgeons> what the hell
+2013-01-19 14:49:22 [INFO] <HarryDiamand> sawyer who is he
+2013-01-19 14:49:30 [INFO] <azwii> oh sawyer?
+2013-01-19 14:49:52 [INFO] <azwii> r u sawyer?
+2013-01-19 14:49:58 [INFO] <HarryDiamand> no
+2013-01-19 14:50:08 [INFO] <azwii> who is?
+2013-01-19 14:50:22 [INFO] <HarryDiamand> sawyer what is his name
+2013-01-19 14:50:25 [INFO] <shudgeons> oh he is some guy I know he lives on are streat
+2013-01-19 14:50:34 [INFO] <azwii> Andrew
+2013-01-19 14:50:44 [INFO] <HarryDiamand> ok
+2013-01-19 14:50:56 [INFO] <HarryDiamand> im leaving
+2013-01-19 14:51:00 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-19 14:51:15 [INFO] <shudgeons> hi
+2013-01-19 14:52:24 [INFO] <azwii> sawyer can i let mycousin julian on?
+2013-01-19 14:52:47 [INFO] <shudgeons> who are they
+2013-01-19 14:52:56 [INFO] <azwii> my cousin
+2013-01-19 14:53:27 [INFO] <shudgeons> tell them not to greef
+2013-01-19 14:53:30 [INFO] <azwii> kk
+2013-01-19 14:53:36 [INFO] <azwii> be on in 10 or so
+2013-01-19 14:53:39 [INFO] azwii lost connection: disconnect.quitting
+2013-01-19 14:54:01 [INFO] <shudgeons> harry
+2013-01-19 14:56:25 [INFO] fhudgeons[/173.174.108.132:33402] logged in with entity id 1310027 at (-457.9246516325653, 69.4144210399717, 442.79786592596264)
+2013-01-19 14:57:00 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 14:58:29 [INFO] azwii[/216.80.147.149:47544] logged in with entity id 1320038 at (-383.5417114835227, 64.0, 256.4886002584269)
+2013-01-19 14:58:46 [INFO] wadeldo[/216.80.147.149:41335] logged in with entity id 1320748 at (-5.5, 57.62000000476837, -3.5)
+2013-01-19 14:58:53 [INFO] <shudgeons> hi
+2013-01-19 14:58:54 [INFO] <azwii> this is julian
+2013-01-19 14:59:03 [INFO] <azwii> can i op him?
+2013-01-19 14:59:20 [INFO] [azwii: Teleported wadeldo to azwii]
+2013-01-19 14:59:24 [INFO] <wadeldo> why is the spawn underwater?
+2013-01-19 14:59:33 [INFO] <shudgeons> if he dose not greef
+2013-01-19 14:59:55 [INFO] [azwii: Opped wadeldo]
+2013-01-19 15:00:11 [INFO] <wadeldo> aw yea
+2013-01-19 15:00:19 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-01-19 15:00:37 [INFO] fhudgeons lost connection: disconnect.endOfStream
+2013-01-19 15:01:22 [INFO] <shudgeons> do you like the server
+2013-01-19 15:01:28 [INFO] <azwii> its cool
+2013-01-19 15:01:43 [INFO] <shudgeons> thanks
+2013-01-19 15:01:56 [INFO] <wadeldo> prety neat
+2013-01-19 15:02:01 [INFO] <azwii> ty
+2013-01-19 15:02:14 [INFO] <shudgeons> thanks
+2013-01-19 15:02:15 [INFO] <azwii> this is my store
+2013-01-19 15:02:22 [INFO] <shudgeons> cool
+2013-01-19 15:02:47 [INFO] <shudgeons> @#&%
+2013-01-19 15:02:54 [INFO] <azwii> hmmm?
+2013-01-19 15:03:12 [INFO] <shudgeons> I cursed
+2013-01-19 15:03:19 [INFO] <azwii> why?
+2013-01-19 15:03:47 [INFO] <shudgeons> I havent got a clue
+2013-01-19 15:03:52 [INFO] <azwii> kk
+2013-01-19 15:04:36 [INFO] <shudgeons> henry comes on too
+2013-01-19 15:04:40 [INFO] <azwii> cool
+2013-01-19 15:06:01 [INFO] <azwii> no
+2013-01-19 15:06:12 [INFO] <shudgeons> crap
+2013-01-19 15:07:07 [INFO] azwii lost connection: disconnect.quitting
+2013-01-19 15:07:18 [INFO] azwii[/216.80.147.149:45370] logged in with entity id 1334611 at (-379.3881822868338, 71.36435764665791, 268.30034697169407)
+2013-01-19 15:07:42 [INFO] <azwii> ima build castle
+2013-01-19 15:07:53 [INFO] <shudgeons> is this a wepons shop
+2013-01-19 15:07:57 [INFO] <azwii> tnah
+2013-01-19 15:08:02 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 15:08:05 [INFO] <azwii> everything shjop
+2013-01-19 15:08:21 [INFO] <shudgeons> oh
+2013-01-19 15:11:20 [INFO] [azwii: Teleported wadeldo to azwii]
+2013-01-19 15:11:26 [INFO] <shudgeons> like your skin
+2013-01-19 15:15:01 [INFO] <azwii> stop gtg
+2013-01-19 15:15:07 [INFO] azwii lost connection: disconnect.quitting
+2013-01-19 15:18:28 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 15:21:39 [INFO] HarryDiamand[/70.113.89.231:54111] logged in with entity id 1353997 at (-391.23474826995187, 65.0, 268.51931403348203)
+2013-01-19 15:21:59 [INFO] <shudgeons> harry!!!!!!
+2013-01-19 15:21:59 [INFO] <HarryDiamand> who else is here
+2013-01-19 15:22:52 [INFO] <HarryDiamand> sawyer where r u
+2013-01-19 15:23:00 [INFO] <shudgeons> I do not know his name
+2013-01-19 15:25:11 [INFO] <shudgeons> fallow me
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-19 15:25:46 [INFO] wadeldo lost connection: disconnect.genericReason
+2013-01-19 15:26:56 [INFO] <shudgeons> no
+2013-01-19 15:27:03 [INFO] <HarryDiamand> ok
+2013-01-19 15:27:23 [INFO] <HarryDiamand> where do you get pots
+2013-01-19 15:28:33 [INFO] <shudgeons> no clue
+2013-01-19 15:28:36 [INFO] [HarryDiamand: Set the time to 0]
+2013-01-19 15:29:31 [INFO] <shudgeons> no
+2013-01-19 15:31:03 [INFO] <shudgeons> do you like it
+2013-01-19 15:31:15 [INFO] <HarryDiamand> yes
+2013-01-19 15:31:37 [INFO] <HarryDiamand> harrys mine we go
+2013-01-19 15:33:00 [INFO] <HarryDiamand> hey
+2013-01-19 15:34:14 [INFO] <HarryDiamand> lapiz
+2013-01-19 15:34:53 [INFO] <HarryDiamand> gold lapiz iron and coal r in here
+2013-01-19 15:37:09 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 15:37:36 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-19 15:47:42 [INFO] wadeldo[/216.80.147.149:34312] logged in with entity id 1382071 at (-148.3119055411886, 95.41663943322119, 292.3418392357516)
+2013-01-19 15:56:06 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-19 16:24:16 [INFO] shudgeons[/173.174.108.132:33093] logged in with entity id 1390815 at (-397.77508877233765, 71.0, 254.02672871347997)
+2013-01-19 16:24:27 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 16:24:45 [INFO] [shudgeons: Toggled downfall]
+2013-01-19 16:25:39 [INFO] [shudgeons: Toggled downfall]
+2013-01-19 16:30:48 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 16:43:10 [INFO] shudgeons[/173.174.108.132:33122] logged in with entity id 1405549 at (-592.7484426821953, 63.0, 411.68440138990104)
+2013-01-19 16:43:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 16:54:30 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 17:03:25 [INFO] somethingstupid9[/24.155.177.226:49264] logged in with entity id 1441109 at (-417.67017142131886, 70.0, 122.48721561214101)
+2013-01-19 17:03:59 [INFO] <shudgeons> who are you
+2013-01-19 17:04:41 [INFO] <somethingstupid9> a friend of henry
+2013-01-19 17:05:09 [INFO] <shudgeons> want me to op you
+2013-01-19 17:05:26 [INFO] <somethingstupid9> im good thanks
+2013-01-19 17:07:43 [INFO] <shudgeons> what is your real name
+2013-01-19 17:07:51 [INFO] <somethingstupid9> david
+2013-01-19 17:08:33 [INFO] <somethingstupid9> u can call me that or 9
+2013-01-19 17:08:41 [INFO] <shudgeons> get you stupid pig
+2013-01-19 17:09:13 [INFO] <shudgeons> i think i will go whith 9
+2013-01-19 17:09:19 [INFO] <somethingstupid9> k
+2013-01-19 17:09:50 [INFO] <shudgeons> where are you
+2013-01-19 17:10:27 [INFO] <somethingstupid9> in the mountains near a railroad
+2013-01-19 17:10:36 [INFO] <shudgeons> no greefing
+2013-01-19 17:11:04 [INFO] <shudgeons> tp to me
+2013-01-19 17:11:11 [INFO] <somethingstupid9> im building a house
+2013-01-19 17:13:41 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 17:16:35 [INFO] <somethingstupid9> hi
+2013-01-19 17:17:19 [INFO] <shudgeons> i will get you a house in the city
+2013-01-19 17:17:34 [INFO] <somethingstupid9> thanks
+2013-01-19 17:18:04 [INFO] <shudgeons> come to the track
+2013-01-19 17:18:32 [INFO] <somethingstupid9> in a while im a bit busy
+2013-01-19 17:19:04 [INFO] <shudgeons> where are you now
+2013-01-19 17:19:32 [INFO] <somethingstupid9> building a house its not much
+2013-01-19 17:19:50 [INFO] <shudgeons> where
+2013-01-19 17:20:05 [INFO] <somethingstupid9> on the cliff
+2013-01-19 17:20:44 [INFO] <shudgeons> are you an op
+2013-01-19 17:20:50 [INFO] <somethingstupid9> no
+2013-01-19 17:21:23 [INFO] [shudgeons: Opped somthingstupid9]
+2013-01-19 17:21:29 [INFO] <somethingstupid9> thanks
+2013-01-19 17:21:58 [INFO] [somethingstupid9: Set own game mode to Creative Mode]
+2013-01-19 17:24:22 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 17:24:24 [INFO] [somethingstupid9: Set own game mode to Survival Mode]
+2013-01-19 17:25:02 [INFO] <somethingstupid9> no
+2013-01-19 17:25:10 [INFO] <shudgeons> shit
+2013-01-19 17:26:26 [INFO] [shudgeons: Toggled downfall]
+2013-01-19 17:26:55 [INFO] <shudgeons> come to the city
+2013-01-19 17:27:02 [INFO] <somethingstupid9> here sheepy sheepy
+2013-01-19 17:27:27 [INFO] <somethingstupid9> i need to make abed
+2013-01-19 17:27:27 [INFO] <shudgeons> sheep are stupid
+2013-01-19 17:29:02 [INFO] <shudgeons> I got wool
+2013-01-19 17:29:11 [INFO] <somethingstupid9> me to
+2013-01-19 17:29:59 [INFO] <somethingstupid9> i dont think the sheep where happy about it
+2013-01-19 17:30:39 [INFO] <shudgeons> you do not nead any sheep shit
+2013-01-19 17:31:21 [INFO] <shudgeons> cas it is cheep shit
+2013-01-19 17:31:22 [INFO] [somethingstupid9: Set own game mode to Creative Mode]
+2013-01-19 17:36:25 [INFO] <shudgeons> where are you
+2013-01-19 17:36:34 [INFO] <shudgeons> oh
+2013-01-19 17:37:18 [INFO] <shudgeons> what if mobs get in
+2013-01-19 17:38:08 [INFO] <shudgeons> what is this
+2013-01-19 17:42:10 [INFO] <somethingstupid9> let me do the roof
+2013-01-19 17:44:03 [INFO] <shudgeons> my real name is sawyer
+2013-01-19 17:44:29 [INFO] <somethingstupid9> is this your server?
+2013-01-19 17:44:41 [INFO] <shudgeons> yes
+2013-01-19 17:45:07 [INFO] <somethingstupid9> show me the town
+2013-01-19 17:45:08 [INFO] <shudgeons> lets go to the server
+2013-01-19 17:45:24 [INFO] <shudgeons> city
+2013-01-19 17:45:48 [INFO] <somethingstupid9> let me guess
+2013-01-19 17:46:01 [INFO] <shudgeons> let me find you a house
+2013-01-19 17:46:04 [INFO] <somethingstupid9> henry built this
+2013-01-19 17:46:17 [INFO] <shudgeons> yes
+2013-01-19 17:47:15 [INFO] <somethingstupid9> nice
+2013-01-19 17:47:27 [INFO] <shudgeons> this is your house
+2013-01-19 17:47:37 [INFO] <somethingstupid9> o thanks
+2013-01-19 17:49:00 [INFO] <somethingstupid9> cool
+2013-01-19 17:49:36 [INFO] <somethingstupid9> nice roller coster can i try?
+2013-01-19 17:49:51 [INFO] <shudgeons> or do you want to live whith me i have 3 houses
+2013-01-19 17:50:11 [INFO] <somethingstupid9> no this is great
+2013-01-19 17:50:26 [INFO] <somethingstupid9> i like it
+2013-01-19 17:50:42 [INFO] <shudgeons> ok lets get you moved in
+2013-01-19 17:51:52 [INFO] <somethingstupid9> i need to go play my trumpet
+2013-01-19 17:53:17 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-19 17:54:03 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 19:02:03 [INFO] shudgeons[/173.174.108.132:33282] logged in with entity id 1514784 at (-393.8665083264898, 71.5625, 255.3844154743856)
+2013-01-19 19:02:35 [INFO] <shudgeons> is anyone on the server
+2013-01-19 19:03:11 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 19:47:39 [INFO] Disconnecting /173.174.108.132:32882: Took too long to log in
+2013-01-19 19:50:43 [INFO] spitblast[/208.191.157.180:49214] logged in with entity id 1516596 at (-353.6280848252503, 79.48937758587034, 237.3760670628666)
+2013-01-19 19:56:16 [INFO] [spitblast: Set the time to 0]
+2013-01-19 19:57:10 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-19 20:16:39 [INFO] wadeldo[/216.80.147.149:43846] logged in with entity id 1540920 at (-121.12462388012933, 99.44677716858148, 307.6394112729664)
+2013-01-19 21:04:22 [INFO] HarryDiamand[/173.174.108.132:33728] logged in with entity id 1576817 at (-561.5532048312015, 55.0, 417.52130010870496)
+2013-01-19 21:05:22 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-19 21:09:19 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-19 21:43:27 [INFO] shudgeons[/173.174.108.132:34254] logged in with entity id 1581869 at (-405.1692817905182, 69.2488004651504, 358.3076528567342)
+2013-01-19 21:43:47 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 21:43:53 [INFO] shudgeons[/173.174.108.132:34262] logged in with entity id 1583257 at (-414.9643733243364, 93.95934361133618, 407.1258864616055)
+2013-01-19 21:50:55 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 22:03:09 [INFO] shudgeons[/173.174.108.132:33725] logged in with entity id 1596685 at (-379.2157696313884, 64.0, 259.49347363317094)
+2013-01-19 22:03:16 [INFO] somethingstupid9[/24.155.177.226:49321] logged in with entity id 1596968 at (-421.30000001192093, 70.0, 123.69431110908849)
+2013-01-19 22:03:28 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-19 22:04:40 [INFO] HarryDiamand[/173.174.108.132:33196] logged in with entity id 1600846 at (-438.4124371999284, 86.07622176047602, 432.8281888530133)
+2013-01-19 22:05:03 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-19 22:26:43 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 22:37:14 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 22:49:06 [INFO] [shudgeons: Set the time to 0]
+2013-01-19 23:10:50 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-19 23:53:50 [INFO] shudgeons[/173.174.108.132:32915] logged in with entity id 1647645 at (-594.0858871667217, 80.8722894174099, 397.36735363181964)
+2013-01-19 23:59:39 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 00:10:09 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 00:20:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 00:24:24 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-20 00:50:07 [INFO] shudgeons[/173.174.108.132:32960] logged in with entity id 1693252 at (-499.00574804722936, 71.0, 440.04116869500433)
+2013-01-20 00:51:17 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-20 01:59:24 [INFO] Disconnecting /208.191.157.180:49460: Took too long to log in
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-20 13:29:47 [INFO] wadeldo[/216.80.147.149:36229] logged in with entity id 1695713 at (-70.30000001192087, 91.0, 220.64843345189465)
+2013-01-20 13:39:35 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-20 14:00:11 [INFO] shudgeons[/173.174.108.132:33129] logged in with entity id 1935617 at (-588.7945455600509, 63.0, 397.8326545324958)
+2013-01-20 14:00:36 [INFO] [shudgeons: Toggled downfall]
+2013-01-20 14:09:21 [INFO] fhudgeons[/173.174.108.132:34564] logged in with entity id 1956671 at (-606.7503578135638, 84.35539664105384, 476.6546504341504)
+2013-01-20 14:11:01 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 14:21:52 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 14:32:59 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 14:42:51 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 14:52:49 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 15:00:17 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-20 15:00:28 [INFO] fhudgeons[/173.174.108.132:35920] logged in with entity id 2086647 at (-386.69863169249646, 109.33298823572405, 294.582300428222)
+2013-01-20 15:02:50 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 15:07:44 [INFO] fhudgeons lost connection: disconnect.endOfStream
+2013-01-20 15:11:31 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-20 15:31:49 [INFO] shudgeons[/173.174.108.132:33665] logged in with entity id 2106634 at (-327.5098169383864, 72.0, 211.1293230592816)
+2013-01-20 15:32:03 [INFO] [shudgeons: Toggled downfall]
+2013-01-20 15:33:19 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 15:35:08 [INFO] HarryDiamand[/70.113.89.231:54679] logged in with entity id 2110694 at (-499.05499369138397, 73.0, 392.10879855665206)
+2013-01-20 15:35:24 [INFO] <HarryDiamand> who is here
+2013-01-20 15:35:28 [INFO] <shudgeons> harry
+2013-01-20 15:35:37 [INFO] <HarryDiamand> hi sawyer
+2013-01-20 15:35:38 [INFO] fhudgeons[/173.174.108.132:33240] logged in with entity id 2112544 at (-387.447603621663, 108.00435827705027, 231.94344571877258)
+2013-01-20 15:35:46 [INFO] <HarryDiamand> hi ford
+2013-01-20 15:36:02 [INFO] <HarryDiamand> where r u
+2013-01-20 15:36:24 [INFO] <HarryDiamand> hi
+2013-01-20 15:36:35 [INFO] <shudgeons> across the bridge
+2013-01-20 15:36:54 [INFO] <HarryDiamand> what bridge
+2013-01-20 15:37:20 [INFO] <shudgeons> the fantsy one
+2013-01-20 15:38:20 [INFO] <HarryDiamand> where r u now
+2013-01-20 15:38:50 [INFO] <shudgeons> looking for you
+2013-01-20 15:39:07 [INFO] <HarryDiamand> on lilly pad bridge
+2013-01-20 15:39:16 [INFO] <shudgeons> on
+2013-01-20 15:39:26 [INFO] <shudgeons> shit no
+2013-01-20 15:40:14 [INFO] <fhudgeons> no
+2013-01-20 15:41:38 [INFO] <HarryDiamand> sawyer where r u
+2013-01-20 15:41:57 [INFO] <shudgeons> stop
+2013-01-20 15:42:11 [INFO] <HarryDiamand> hi
+2013-01-20 15:42:18 [INFO] <shudgeons> fallo me
+2013-01-20 15:43:08 [INFO] <shudgeons> like it
+2013-01-20 15:43:14 [INFO] <HarryDiamand> yeah
+2013-01-20 15:43:26 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 15:43:43 [INFO] <shudgeons> poot torches down
+2013-01-20 15:43:49 [INFO] maxie5man[/65.111.101.222:32976] logged in with entity id 2134501 at (-274.7536570618896, 64.0, 454.76130048424)
+2013-01-20 15:43:55 [INFO] <HarryDiamand> max
+2013-01-20 15:44:03 [INFO] <maxie5man> finn
+2013-01-20 15:44:12 [INFO] <HarryDiamand> get off
+2013-01-20 15:44:23 [INFO] <shudgeons> shit
+2013-01-20 15:44:52 [INFO] <maxie5man> no and hi
+2013-01-20 15:45:20 [INFO] <HarryDiamand> where r u finn
+2013-01-20 15:45:39 [INFO] <maxie5man> ford where are you
+2013-01-20 15:46:33 [INFO] <HarryDiamand> where is everyone
+2013-01-20 15:46:53 [INFO] <maxie5man> im by the hotel
+2013-01-20 15:47:02 [INFO] <HarryDiamand> what hotel
+2013-01-20 15:47:28 [INFO] <shudgeons> finn get off
+2013-01-20 15:47:38 [INFO] <HarryDiamand> yeah let max on
+2013-01-20 15:47:42 [INFO] <maxie5man> NO
+2013-01-20 15:48:01 [INFO] <HarryDiamand> i will hunt you down
+2013-01-20 15:48:12 [INFO] <shudgeons> yah
+2013-01-20 15:48:44 [INFO] <HarryDiamand> need help
+2013-01-20 15:48:52 [INFO] <shudgeons> ok
+2013-01-20 15:49:22 [INFO] <maxie5man> NO THANKS
+2013-01-20 15:49:40 [INFO] <HarryDiamand> i wasnt talking to you finn
+2013-01-20 15:49:48 [INFO] <maxie5man> oh
+2013-01-20 15:50:33 [INFO] <shudgeons> throe slownes at finn
+2013-01-20 15:50:40 [INFO] <HarryDiamand> ok
+2013-01-20 15:50:50 [INFO] <shudgeons> good boy
+2013-01-20 15:51:01 [INFO] <maxie5man> well im invisable
+2013-01-20 15:51:13 [INFO] <shudgeons> crap
+2013-01-20 15:51:18 [INFO] <HarryDiamand> where r u
+2013-01-20 15:53:04 [INFO] <shudgeons> what the hall
+2013-01-20 15:55:33 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 15:56:45 [INFO] <maxie5man> i have milk
+2013-01-20 15:56:51 [INFO] <HarryDiamand> great
+2013-01-20 15:56:56 [INFO] <shudgeons> max kill him
+2013-01-20 15:58:04 [INFO] <shudgeons> harry
+2013-01-20 15:58:07 [INFO] [maxie5man: Cleared the inventory of HarryDiamand, removing 290 items]
+2013-01-20 15:58:21 [INFO] <HarryDiamand> what the hell
+2013-01-20 15:58:34 [INFO] <shudgeons> smart ass
+2013-01-20 15:58:43 [INFO] <maxie5man> i just did that
+2013-01-20 15:59:00 [INFO] <HarryDiamand> i know right
+2013-01-20 15:59:15 [INFO] <HarryDiamand> bye im logging off
+2013-01-20 15:59:19 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-01-20 15:59:56 [INFO] <shudgeons> finn it's max's turn
+2013-01-20 16:00:24 [INFO] <maxie5man> NO ITS NOT!!!!!!!!!!!!!!
+2013-01-20 16:01:04 [INFO] <maxie5man> ford where do you want to go
+2013-01-20 16:03:55 [INFO] <maxie5man> ford get off this server and go to evo-ctf.net
+2013-01-20 16:04:00 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-20 16:04:08 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-20 16:06:02 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 16:09:02 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-20 17:54:17 [INFO] shudgeons[/173.174.108.132:33364] logged in with entity id 2216896 at (-326.14685575627834, 64.0, 201.39038242606927)
+2013-01-20 17:54:19 [INFO] somethingstupid9[/24.155.177.226:49457] logged in with entity id 2217142 at (-418.15990821911527, 70.0, 127.8560236592629)
+2013-01-20 17:54:30 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-20 17:54:33 [INFO] shudgeons[/173.174.108.132:33384] logged in with entity id 2217742 at (-338.3065863927078, 68.36445605997292, 193.12830574968066)
+2013-01-20 17:54:39 [INFO] <shudgeons> hi
+2013-01-20 17:54:44 [INFO] <somethingstupid9> yo
+2013-01-20 17:55:10 [INFO] [somethingstupid9: Set own game mode to Creative Mode]
+2013-01-20 17:55:28 [INFO] <shudgeons> where are you
+2013-01-20 17:55:46 [INFO] <somethingstupid9> the city
+2013-01-20 17:57:15 [INFO] <shudgeons> ?
+2013-01-20 17:57:22 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 17:57:38 [INFO] <shudgeons> where are you
+2013-01-20 17:59:38 [INFO] <shudgeons> dude
+2013-01-20 17:59:57 [INFO] <shudgeons> what are you doing
+2013-01-20 18:00:09 [INFO] <shudgeons> oh
+2013-01-20 18:03:17 [INFO] [shudgeons: Set the time to 5602]
+2013-01-20 18:15:18 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 18:15:29 [INFO] <somethingstupid9> sawyer come to your hous
+2013-01-20 18:15:43 [INFO] [somethingstupid9: Set the time to 12500]
+2013-01-20 18:16:35 [INFO] <shudgeons> hell yes
+2013-01-20 18:18:23 [INFO] <shudgeons> do it in side
+2013-01-20 18:22:57 [INFO] <shudgeons> more
+2013-01-20 18:23:02 [INFO] <somethingstupid9> they're on fire
+2013-01-20 18:24:30 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 18:24:54 [INFO] [shudgeons: Set the time to 6000]
+2013-01-20 18:27:38 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-20 18:29:27 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-01-20 19:15:27 [INFO] shudgeons[/173.174.108.132:33692] logged in with entity id 2303589 at (-378.95191086833836, 73.06292849307106, 379.2551410492121)
+2013-01-20 19:15:36 [INFO] [shudgeons: Set the time to 0]
+2013-01-20 19:16:45 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-20 20:53:19 [INFO] azwii[/216.80.147.149:39777] logged in with entity id 2309900 at (-382.14466336535787, 71.0, 261.580960733305)
+2013-01-20 21:05:01 [INFO] [azwii: Given 1000 experience to azwii]
+2013-01-20 21:13:20 [INFO] azwii lost connection: disconnect.quitting
+2013-01-21 13:50:28 [INFO] shudgeons [/173.174.108.132:33391] lost connection
+2013-01-21 13:51:34 [INFO] shudgeons[/173.174.108.132:33715] logged in with entity id 2329758 at (-332.4090989525718, 64.0, 203.43649650728494)
+2013-01-21 13:52:52 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-21 13:52:59 [INFO] shudgeons[/173.174.108.132:33736] logged in with entity id 2331814 at (-382.0890471686671, 107.03911662439288, 244.9293991674519)
+2013-01-21 14:08:20 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 14:17:22 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-21 16:14:08 [INFO] shudgeons[/173.174.108.132:33718] logged in with entity id 2392029 at (1.182758202522636, 58.0, -26.69999998807907)
+2013-01-21 16:18:25 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 16:22:13 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-21 16:27:06 [INFO] shudgeons[/173.174.108.132:34781] logged in with entity id 2417141 at (-576.4517630913642, 66.50688193849079, 390.45465751417316)
+2013-01-21 16:28:56 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 16:38:55 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 16:49:03 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 17:00:03 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 17:03:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-21 17:03:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-21 17:03:51 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-21 17:23:07 [INFO] fhudgeons[/173.174.108.132:34337] logged in with entity id 2472363 at (-429.4342605773156, 60.0, 396.58457496056894)
+2013-01-21 17:27:45 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-21 17:35:12 [INFO] fhudgeons[/173.174.108.132:35078] logged in with entity id 2482315 at (-221.89847155758156, 74.7472798982414, 396.55135077092564)
+2013-01-21 17:38:26 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-21 20:21:01 [INFO] shudgeons[/173.174.108.132:33610] logged in with entity id 2483814 at (-30.78963962278629, 80.8685331064469, 43.791283137497686)
+2013-01-21 20:21:38 [INFO] [shudgeons: Toggled downfall]
+2013-01-21 20:21:54 [INFO] [shudgeons: Toggled downfall]
+2013-01-21 20:22:40 [INFO] [shudgeons: Toggled downfall]
+2013-01-21 20:23:31 [INFO] [shudgeons: Toggled downfall]
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-01-21 20:23:55 [INFO] shudgeons lost connection: disconnect.endOfStream
+2013-01-21 20:24:21 [INFO] shudgeons [/173.174.108.132:33646] lost connection
+2013-01-21 20:25:15 [INFO] shudgeons[/173.174.108.132:32897] logged in with entity id 2489133 at (-226.2551686161875, 65.05496897980153, 113.79928400805234)
+2013-01-21 20:29:14 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 20:29:26 [INFO] [shudgeons: Toggled downfall]
+2013-01-21 20:39:30 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-21 20:42:34 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-21 20:50:08 [INFO] shudgeons[/173.174.108.132:32935] logged in with entity id 2510146 at (-222.8260580506042, 83.17382454951924, 122.25436982575343)
+2013-01-21 20:50:20 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 21:02:07 [INFO] [shudgeons: Set the time to 0]
+2013-01-21 21:06:05 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-21 23:58:25 [INFO] shudgeons[/173.174.108.132:32991] logged in with entity id 2536650 at (-350.488750844115, 64.0, 236.717015564382)
+2013-01-21 23:58:36 [INFO] [shudgeons: Set the time to 0]
+2013-01-22 00:07:32 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-22 00:28:25 [INFO] shudgeons[/173.174.108.132:33021] logged in with entity id 2558899 at (-567.5953560469765, 70.36435764665791, 426.5051292366608)
+2013-01-22 00:28:47 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-23 13:08:47 [INFO] shudgeons[/173.174.108.132:33215] logged in with entity id 2559199 at (-557.0345945075793, 84.96230745927217, 433.7986985488484)
+2013-01-23 13:09:49 [INFO] [shudgeons: Toggled downfall]
+2013-01-23 13:10:12 [INFO] [shudgeons: Set the time to 0]
+2013-01-23 13:14:15 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-23 21:07:35 [INFO] shudgeons[/173.174.108.132:33236] logged in with entity id 2571029 at (-336.1349365138094, 64.0, 348.8900002703067)
+2013-01-23 21:18:53 [INFO] [shudgeons: Set the time to 0]
+2013-01-23 21:29:21 [INFO] [shudgeons: Set the time to 0]
+2013-01-23 21:35:47 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-23 22:46:02 [INFO] shudgeons[/173.174.108.132:33107] logged in with entity id 2609725 at (-262.7330252679385, 72.48935632859431, 480.9361806359209)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-23 22:56:44 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-24 11:32:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-24 12:54:51 [INFO] shudgeons[/173.174.108.132:33420] logged in with entity id 2630382 at (-288.86596561145, 69.73882765010734, 501.7316659746893)
+2013-01-24 12:59:09 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-24 20:59:27 [INFO] shudgeons[/173.174.108.132:33496] logged in with entity id 2643036 at (-439.4150186044656, 100.60492974587035, 382.4421518696562)
+2013-01-24 20:59:53 [INFO] [shudgeons: Toggled downfall]
+2013-01-24 21:01:24 [INFO] [shudgeons: Set the time to 0]
+2013-01-24 21:11:59 [INFO] [shudgeons: Set the time to 0]
+2013-01-24 21:13:55 [INFO] fhudgeons[/173.174.108.132:34295] logged in with entity id 2669654 at (-244.5774549404207, 63.0, 398.31775081593275)
+2013-01-24 21:16:16 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-01-24 21:21:59 [INFO] [shudgeons: Set the time to 0]
+2013-01-24 21:22:23 [INFO] [shudgeons: Set the time to 0]
+2013-01-24 21:22:42 [INFO] [shudgeons: Set the time to 6000]
+2013-01-24 21:31:47 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-26 00:28:58 [INFO] wadeldo[/216.80.147.149:46727] logged in with entity id 2700218 at (-70.30000001192087, 91.0, 220.76249998807904)
+2013-01-26 00:32:14 [INFO] wadeldo fell out of the world
+2013-01-26 01:08:26 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-26 14:47:26 [INFO] wadeldo[/216.80.147.149:48481] logged in with entity id 2732704 at (-23.213903657958436, 71.42497933224072, 119.27089377304279)
+2013-01-26 14:47:40 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-26 14:47:43 [INFO] wadeldo[/216.80.147.149:43943] logged in with entity id 2732914 at (-19.702209339845048, 71.42497933224072, 116.28161243135293)
+2013-01-26 14:57:51 [INFO] maxie5man[/65.111.101.222:37195] logged in with entity id 2742388 at (-430.5070385852758, 60.0, 394.6304591343275)
+2013-01-26 15:00:23 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-26 15:14:01 [INFO] wadeldo fell out of the world
+2013-01-26 15:17:33 [INFO] [wadeldo: Set wadeldo's spawn point to (-74, 98, 218)]
+2013-01-26 15:17:46 [INFO] wadeldo fell out of the world
+2013-01-26 15:17:59 [INFO] wadeldo fell out of the world
+2013-01-26 15:19:00 [INFO] <wadeldo> t/help 3
+2013-01-26 15:20:27 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-01-26 15:21:00 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-01-26 15:34:24 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-26 16:17:54 [INFO] shudgeons[/99.187.148.89:49888] logged in with entity id 2785426 at (-248.26090094312556, 75.23660464985717, 498.18924676120525)
+2013-01-26 16:21:06 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-26 22:15:34 [INFO] shudgeons[/99.187.148.89:49901] logged in with entity id 2795144 at (-352.45800892196235, 64.0, 236.08328095743187)
+2013-01-26 22:16:41 [INFO] [shudgeons: Set the time to 0]
+2013-01-26 22:18:49 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-26 23:34:00 [INFO] wadeldo[/216.80.147.149:49125] logged in with entity id 2802004 at (-75.5, 91.5625, 221.5)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-27 00:47:53 [INFO] wadeldo lost connection: disconnect.genericReason
+2013-01-27 13:58:31 [INFO] wadeldo[/216.80.147.149:46068] logged in with entity id 2965497 at (196.1187031302638, 116.99315122576611, 462.7270314807804)
+2013-01-27 14:00:02 [INFO] maxie5man[/65.111.101.222:40028] logged in with entity id 2973724 at (-443.8525292143505, 103.96719214988993, 415.8079981196985)
+2013-01-27 14:00:06 [INFO] <wadeldo> hi
+2013-01-27 14:00:24 [INFO] <maxie5man> hi who are you
+2013-01-27 14:00:38 [INFO] <wadeldo> u no andrew
+2013-01-27 14:01:11 [INFO] <wadeldo> sorry, do you know andrew
+2013-01-27 14:01:25 [INFO] <maxie5man> no
+2013-01-27 14:01:48 [INFO] <maxie5man> finn is playing
+2013-01-27 14:02:01 [INFO] <wadeldo> ?
+2013-01-27 14:02:30 [INFO] <wadeldo> where are u
+2013-01-27 14:02:35 [INFO] <maxie5man> do you know max
+2013-01-27 14:02:41 [INFO] <wadeldo> no
+2013-01-27 14:03:06 [INFO] <maxie5man> well im his brother
+2013-01-27 14:03:12 [INFO] <wadeldo> k
+2013-01-27 14:03:30 [INFO] <maxie5man> im by the hotel
+2013-01-27 14:03:44 [INFO] <wadeldo> where hotel
+2013-01-27 14:04:11 [INFO] <maxie5man> the dimond one
+2013-01-27 14:04:26 [INFO] <wadeldo> near spawn right?
+2013-01-27 14:04:39 [INFO] <maxie5man> yea
+2013-01-27 14:04:50 [INFO] <wadeldo> b right there
+2013-01-27 14:06:26 [INFO] <wadeldo> u no the big glass place
+2013-01-27 14:06:50 [INFO] <maxie5man> no
+2013-01-27 14:07:35 [INFO] <wadeldo> wait, have u seen any lime wool rollercoasters with mincart tracks?
+2013-01-27 14:07:54 [INFO] <maxie5man> no
+2013-01-27 14:08:01 [INFO] <wadeldo> darn
+2013-01-27 14:08:08 [INFO] [maxie5man: Set the time to 0]
+2013-01-27 14:08:39 [INFO] <wadeldo> what about coblestone ones
+2013-01-27 14:08:50 [INFO] <maxie5man> yup
+2013-01-27 14:09:03 [INFO] <wadeldo> yes!
+2013-01-27 14:09:19 [INFO] <maxie5man> where are you
+2013-01-27 14:09:28 [INFO] <wadeldo> what biome are u in
+2013-01-27 14:09:52 [INFO] <wadeldo> plains?
+2013-01-27 14:10:05 [INFO] <maxie5man> i dont know
+2013-01-27 14:10:24 [INFO] <wadeldo> descibe your suroundings
+2013-01-27 14:10:40 [INFO] <wadeldo> sorry i spell bad
+2013-01-27 14:11:17 [INFO] <wadeldo> i see the hotel!
+2013-01-27 14:11:18 [INFO] <maxie5man> dimond hotel its ok roller coster
+2013-01-27 14:11:29 [INFO] <wadeldo> hi
+2013-01-27 14:11:38 [INFO] <wadeldo> follow me
+2013-01-27 14:11:45 [INFO] <maxie5man> hi
+2013-01-27 14:13:36 [INFO] <wadeldo> forget this
+2013-01-27 14:14:01 [INFO] <wadeldo> come on
+2013-01-27 14:15:04 [INFO] <maxie5man> can i go on
+2013-01-27 14:15:10 [INFO] <wadeldo> sure
+2013-01-27 14:15:30 [INFO] <wadeldo> oops
+2013-01-27 14:15:39 [INFO] <maxie5man> its ok
+2013-01-27 14:17:22 [INFO] <wadeldo> i used to think this was spawn because i spawnd here once
+2013-01-27 14:17:29 [INFO] <maxie5man> that was awsome
+2013-01-27 14:17:34 [INFO] <wadeldo> thanks
+2013-01-27 14:18:06 [INFO] <wadeldo> big glass place i was talking about
+2013-01-27 14:18:33 [INFO] <maxie5man> follow me and now i remember it
+2013-01-27 14:19:03 [INFO] <wadeldo> i thought this was the hotel at first
+2013-01-27 14:19:13 [INFO] <maxie5man> funny
+2013-01-27 14:20:34 [INFO] <wadeldo> i rode this once
+2013-01-27 14:20:49 [INFO] <maxie5man> cool
+2013-01-27 14:21:00 [INFO] <wadeldo> it was neat
+2013-01-27 14:21:10 [INFO] <maxie5man> nice
+2013-01-27 14:24:24 [INFO] <wadeldo> u no how all that water got there
+2013-01-27 14:24:33 [INFO] <maxie5man> no
+2013-01-27 14:24:57 [INFO] <maxie5man> where are you
+2013-01-27 14:25:56 [INFO] <wadeldo> andrew was cleaning up aome greifing and acsdentaly caught the tree on fire
+2013-01-27 14:25:56 [INFO] <maxie5man> im leaving
+2013-01-27 14:26:00 [INFO] <wadeldo> no
+2013-01-27 14:26:10 [INFO] <maxie5man> bye
+2013-01-27 14:26:12 [INFO] maxie5man lost connection: disconnect.quitting
+2013-01-27 14:26:13 [INFO] <wadeldo> k
+2013-01-27 14:34:12 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-27 15:22:42 [INFO] alterslider[/99.187.148.89:64736] logged in with entity id 3060528 at (-480.5, 66.0, 576.5)
+2013-01-27 15:27:22 [INFO] shudgeons[/99.187.148.89:49944] logged in with entity id 3063550 at (-266.30000001192093, 63.0, 389.6050596515862)
+2013-01-27 15:27:38 [INFO] [shudgeons: Opped alterslider]
+2013-01-27 15:27:58 [INFO] [alterslider: Set own game mode to Creative Mode]
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-27 15:31:38 [INFO] alterslider lost connection: disconnect.genericReason
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-01-27 15:34:14 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-01-27 15:43:55 [INFO] shudgeons[/99.187.148.89:50160] logged in with entity id 3074758 at (-263.21693799863, 64.0, 484.14186817072584)
+2013-01-27 15:44:34 [INFO] [shudgeons: Set the time to 0]
+2013-01-27 15:44:43 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-27 16:28:19 [INFO] wadeldo[/216.80.147.149:48841] logged in with entity id 3075468 at (-75.69999998807909, 91.5625, 221.69999998807907)
+2013-01-27 17:17:19 [INFO] shudgeons[/99.187.148.89:50610] logged in with entity id 3112312 at (-261.2856659499936, 57.27500914082369, 377.0889726027604)
+2013-01-27 17:17:22 [INFO] <wadeldo> hi
+2013-01-27 17:17:27 [INFO] [shudgeons: Set the time to 0]
+2013-01-27 17:17:48 [INFO] <wadeldo> where r u
+2013-01-27 17:18:29 [INFO] <shudgeons> in the city
+2013-01-27 17:18:38 [INFO] <wadeldo> near spawn?
+2013-01-27 17:18:45 [INFO] <shudgeons> no
+2013-01-27 17:19:00 [INFO] <wadeldo> k ... where is the city
+2013-01-27 17:19:41 [INFO] <shudgeons> i will meat u in your house
+2013-01-27 17:20:02 [INFO] <wadeldo> my big obsidian tower?
+2013-01-27 17:20:12 [INFO] <shudgeons> yes
+2013-01-27 17:20:15 [INFO] <wadeldo> k
+2013-01-27 17:20:30 [INFO] <shudgeons> stay there
+2013-01-27 17:20:33 [INFO] <wadeldo> kaw
+2013-01-27 17:20:40 [INFO] <wadeldo> sorry kw
+2013-01-27 17:20:48 [INFO] <wadeldo> sorry again
+2013-01-27 17:21:03 [INFO] <shudgeons> ?
+2013-01-27 17:21:25 [INFO] <wadeldo> i keep on makeing errors like thisssk
+2013-01-27 17:21:58 [INFO] <wadeldo> hey
+2013-01-27 17:22:50 [INFO] <shudgeons> cool
+2013-01-27 17:22:56 [INFO] <wadeldo> thanks
+2013-01-27 17:23:45 [INFO] <shudgeons> folo me
+2013-01-27 17:23:49 [INFO] <wadeldo> k
+2013-01-27 17:24:40 [INFO] <shudgeons> this is the city
+2013-01-27 17:24:51 [INFO] <wadeldo> k
+2013-01-27 17:25:02 [INFO] <wadeldo> i though this was spawn
+2013-01-27 17:25:24 [INFO] <shudgeons> and spawn
+2013-01-27 17:25:52 [INFO] <wadeldo> how do you make the blocks in the dunguns
+2013-01-27 17:26:11 [INFO] <wadeldo> that spawn zombies and stuff
+2013-01-27 17:26:18 [INFO] <shudgeons> do not know
+2013-01-27 17:27:58 [INFO] <wadeldo> my ender chests are filld with that stuff
+2013-01-27 17:28:13 [INFO] <wadeldo> in this ender chest
+2013-01-27 17:28:24 [INFO] <shudgeons> ?
+2013-01-27 17:29:58 [INFO] <wadeldo> hey
+2013-01-27 17:30:02 [INFO] <shudgeons> sorry
+2013-01-27 17:33:06 [INFO] <shudgeons> damn
+2013-01-27 17:35:45 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-01-27 17:36:03 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-01-27 17:36:11 [INFO] <wadeldo> woo!
+java.lang.ArrayIndexOutOfBoundsException: 9999999
+	at ai.b(SourceFile:38)
+	at x.a(SourceFile:48)
+	at iv.d(SourceFile:487)
+	at iv.a(SourceFile:469)
+	at cu.a(SourceFile:44)
+	at cg.b(SourceFile:349)
+	at iv.d(SourceFile:57)
+	at iw.b(SourceFile:39)
+	at ht.b(SourceFile:30)
+	at net.minecraft.server.MinecraftServer.r(SourceFile:762)
+	at ho.r(SourceFile:248)
+	at net.minecraft.server.MinecraftServer.q(SourceFile:679)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:613)
+	at fy.run(SourceFile:849)
+2013-01-27 17:36:55 [INFO] <wadeldo> where r u
+2013-01-27 17:37:13 [INFO] <wadeldo> no more spawning for me
+2013-01-27 17:37:20 [INFO] <wadeldo> for now
+2013-01-27 17:37:42 [INFO] <shudgeons> il tell you if u stop spawning hell
+2013-01-27 17:37:47 [INFO] <wadeldo> k
+2013-01-27 17:38:28 [INFO] <shudgeons> by the diamond mantion
+2013-01-27 17:40:26 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-27 17:46:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:47:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:47:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:47:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:48:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:48:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:48:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:49:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:49:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-27 17:56:15 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-01-27 17:59:28 [INFO] wadeldo lost connection: disconnect.quitting
+2013-01-27 21:32:43 [INFO] maxie5man [/65.111.101.222:32913] lost connection
+2013-01-28 00:09:44 [INFO] Player [/173.174.108.132:33175] lost connection
+2013-01-28 00:09:52 [INFO] Player [/173.174.108.132:33156] lost connection
+2013-01-28 00:18:39 [INFO] Player [/173.174.108.132:33261] lost connection
+2013-01-28 20:57:42 [INFO] shudgeons[/173.174.108.132:33705] logged in with entity id 3204267 at (-462.1618286512352, 72.25335820969939, 439.85425941823434)
+2013-01-28 21:05:24 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-28 21:47:14 [INFO] shudgeons[/173.174.108.132:33729] logged in with entity id 3224141 at (-71.30000001192094, 88.0, 216.3020288136322)
+2013-01-28 21:48:44 [INFO] [shudgeons: Set the time to 0]
+2013-01-28 21:51:57 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-28 22:01:13 [INFO] shudgeons[/173.174.108.132:33582] logged in with entity id 3238217 at (-389.4884579655431, 64.0, 286.9198050973399)
+2013-01-28 22:14:55 [INFO] [shudgeons: Set the time to 0]
+2013-01-28 22:18:12 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-28 22:28:52 [INFO] spitblast[/208.191.157.180:49784] logged in with entity id 3278390 at (-365.9578580014199, 100.35492974588983, 230.67917452587218)
+2013-01-28 22:29:49 [INFO] spitblast lost connection: disconnect.quitting
+2013-01-30 21:20:20 [INFO] shudgeons[/173.174.108.132:33442] logged in with entity id 3280447 at (-487.3082475760392, 67.0, 423.38127833909266)
+2013-01-30 21:25:56 [INFO] [shudgeons: Set the time to 0]
+2013-01-30 21:31:53 [INFO] shudgeons lost connection: disconnect.quitting
+2013-01-31 21:32:22 [INFO] shudgeons[/173.174.108.132:32979] logged in with entity id 3302886 at (0.7668487613814889, 64.0, -3.3802027689002783)
+2013-01-31 21:35:30 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-01 20:33:44 [INFO] wadeldo[/216.80.147.149:45343] logged in with entity id 3315271 at (-75.69999998807903, 91.5625, 221.6999999880791)
+2013-02-01 20:42:32 [INFO] wadeldo fell out of the world
+2013-02-01 20:45:14 [INFO] [wadeldo: Set wadeldo's spawn point to (-74, 96, 215)]
+2013-02-01 20:45:35 [INFO] wadeldo fell out of the world
+2013-02-01 20:47:02 [INFO] [wadeldo: Set wadeldo's spawn point to (-76, 91, 216)]
+2013-02-01 20:47:15 [INFO] wadeldo fell out of the world
+2013-02-01 20:53:18 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-02 04:32:10 [INFO] maxie5man [/173.174.108.132:33140] lost connection
+2013-02-02 04:32:25 [INFO] maxie5man [/173.174.108.132:33429] lost connection
+2013-02-02 14:00:15 [INFO] somethingstupid9[/24.155.177.226:49902] logged in with entity id 3347037 at (-365.5417902501554, 64.0, 233.17092183597816)
+2013-02-02 14:06:05 [INFO] somethingstupid9 lost connection: disconnect.quitting
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.net.SocketInputStream.read(SocketInputStream.java:199)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-02-02 14:24:21 [INFO] Disconnecting /173.174.108.132:35074: Took too long to log in
+2013-02-02 14:27:07 [INFO] alterslider[/75.108.235.127:50806] logged in with entity id 3352635 at (-267.11213644668476, 64.0, 485.5141099069054)
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-02-02 19:33:06 [INFO] alterslider lost connection: disconnect.genericReason
+2013-02-03 15:19:16 [INFO] shudgeons[/173.174.108.132:33151] logged in with entity id 3543723 at (-465.9817916725658, 79.11907844792664, 400.1604551457531)
+2013-02-03 15:20:19 [INFO] fhudgeons[/173.174.108.132:33340] logged in with entity id 3545301 at (-384.8669134322166, 64.0, 284.53114081422865)
+2013-02-03 15:23:08 [INFO] [shudgeons: Set the time to 0]
+2013-02-03 15:33:06 [INFO] [shudgeons: Set the time to 0]
+2013-02-03 15:41:23 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-03 15:43:11 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-03 20:05:26 [INFO] wadeldo[/216.80.147.149:39595] logged in with entity id 3607530 at (-72.92908274347407, 98.4375, 219.27906930391683)
+2013-02-03 20:11:51 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-03 20:15:19 [INFO] wadeldo[/216.80.147.149:44749] logged in with entity id 3611929 at (-60.9499999880791, 72.06366912134642, 224.9961234388719)
+2013-02-03 20:36:21 [INFO] wadeldo fell out of the world
+2013-02-03 21:06:15 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-02-03 21:06:36 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-02-03 21:11:04 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-04 00:26:07 [INFO] shudgeons[/173.174.108.132:34463] logged in with entity id 3717327 at (-250.58362400024535, 65.0193169367183, 549.4818859586786)
+2013-02-04 00:26:52 [INFO] [shudgeons: Set the time to 0]
+java.lang.NullPointerException
+2013-02-04 00:30:30 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-02-08 00:12:23 [INFO] shudgeons[/173.174.108.132:33288] logged in with entity id 3727405 at (-561.3073144927667, 63.0, 403.3345986188369)
+java.lang.NullPointerException
+2013-02-08 00:12:24 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-02-08 22:03:37 [INFO] shudgeons[/173.174.108.132:33352] logged in with entity id 3727637 at (-561.3073144927667, 63.0, 403.3345986188369)
+java.lang.NullPointerException
+2013-02-08 22:03:38 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-02-08 22:03:45 [INFO] shudgeons[/173.174.108.132:33366] logged in with entity id 3727874 at (-561.3073144927667, 63.0, 403.3345986188369)
+java.lang.NullPointerException
+2013-02-08 22:03:45 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-02-08 23:53:05 [INFO] azwii[/173.174.124.2:50599] logged in with entity id 3728111 at (-487.69999998807896, 58.0, 186.69999998807907)
+2013-02-09 00:13:08 [INFO] azwii lost connection: disconnect.quitting
+2013-02-09 02:11:28 [INFO] wadeldo[/216.80.147.149:39768] logged in with entity id 3742873 at (-295.4156886985657, 69.86366772328535, 508.4242919597656)
+2013-02-09 02:36:49 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-09 14:07:46 [INFO] wadeldo[/216.80.147.149:35645] logged in with entity id 3797490 at (-75.6999999880791, 91.5625, 221.69999998807907)
+2013-02-09 14:26:32 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-09 14:38:28 [INFO] shudgeons[/173.174.108.132:34298] logged in with entity id 3819096 at (-561.3073144927667, 63.0, 403.3345986188369)
+java.lang.NullPointerException
+2013-02-09 14:38:28 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-02-09 14:38:36 [INFO] shudgeons[/173.174.108.132:33066] logged in with entity id 3819400 at (-561.3073144927667, 63.0, 403.3345986188369)
+java.lang.NullPointerException
+2013-02-09 14:38:37 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-02-09 15:51:15 [INFO] maxie5man[/173.174.108.132:33111] logged in with entity id 3819640 at (-425.904531418255, 72.91874169337775, 371.1654877120473)
+2013-02-09 15:56:40 [INFO] shudgeons[/173.174.108.132:32918] logged in with entity id 3824929 at (-561.3073144927667, 63.0, 403.3345986188369)
+2013-02-09 15:57:03 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-02-09 15:58:20 [INFO] maxie5man lost connection: disconnect.genericReason
+2013-02-09 16:00:02 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-09 18:57:02 [INFO] wadeldo[/216.80.147.149:47419] logged in with entity id 3832287 at (-75.69999998807906, 91.5625, 221.69999998807899)
+2013-02-09 19:06:42 [INFO] wadeldo fell out of the world
+2013-02-09 19:08:22 [INFO] [wadeldo: Set wadeldo's spawn point to (-74, 98, 217)]
+2013-02-09 19:08:38 [INFO] wadeldo fell out of the world
+2013-02-09 19:09:47 [INFO] [wadeldo: Set wadeldo's spawn point to (-76, 92, 221)]
+2013-02-09 19:09:53 [INFO] wadeldo fell out of the world
+2013-02-09 19:09:55 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-09 19:09:58 [INFO] wadeldo[/216.80.147.149:39517] logged in with entity id 3872712 at (-74.30000001192093, 91.0, 217.48070862305266)
+2013-02-09 19:10:11 [INFO] wadeldo fell out of the world
+2013-02-09 19:10:24 [INFO] wadeldo fell out of the world
+2013-02-09 19:10:59 [INFO] [wadeldo: Set own game mode to Survival Mode]
+2013-02-09 19:11:22 [INFO] wadeldo was slain by Spider
+2013-02-09 19:11:28 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-09 19:12:25 [INFO] [wadeldo: Set own game mode to Survival Mode]
+2013-02-09 19:13:02 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-09 19:20:25 [INFO] [wadeldo: Given 999999 experience to wadeldo]
+2013-02-09 19:20:44 [INFO] [wadeldo: Set own game mode to Survival Mode]
+2013-02-09 19:20:59 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-09 19:37:17 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-10 13:57:31 [INFO] wadeldo[/216.80.147.149:35940] logged in with entity id 3894774 at (-75.69999998807909, 91.5625, 221.69999998807907)
+2013-02-10 14:19:13 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-10 15:45:12 [INFO] shudgeons[/173.174.108.132:33755] logged in with entity id 3914922 at (-227.18705584033899, 65.86512829970259, 499.7186396696219)
+2013-02-10 15:45:32 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-10 15:45:43 [INFO] fhudgeons[/173.174.108.132:33259] logged in with entity id 3915106 at (-268.06494475397426, 123.73783205252998, 542.4043592608663)
+2013-02-10 15:46:05 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-10 17:05:24 [INFO] wadeldo[/216.80.147.149:41266] logged in with entity id 3916492 at (13.54051190678543, 77.06555220774221, -14.461282767762338)
+2013-02-10 17:08:02 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-10 17:09:13 [INFO] wadeldo[/216.80.147.149:42827] logged in with entity id 3921611 at (-117.34663614914214, 65.0, 242.24045495247532)
+2013-02-10 17:39:04 [INFO] wadeldo fell out of the world
+2013-02-10 17:41:00 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 17:41:43 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 17:42:09 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 17:46:27 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 17:47:00 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 17:49:20 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 17:49:50 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 17:51:41 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 17:51:53 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 17:53:15 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 17:53:26 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 17:56:02 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 17:58:39 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 18:03:05 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 18:03:13 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 18:04:40 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-10 18:05:10 [INFO] [wadeldo: Set own game mode to Adventure Mode]
+2013-02-10 18:17:30 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-11 00:02:21 [INFO] wadeldo[/216.80.147.149:40243] logged in with entity id 4010493 at (-366.58204271867345, 63.0, 278.25119835883095)
+2013-02-11 00:02:31 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-11 00:46:28 [INFO] wadeldo[/216.80.147.149:33605] logged in with entity id 4010927 at (-377.3393857684252, 64.0, 283.8524988251054)
+2013-02-11 00:46:37 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-13 22:07:15 [INFO] bhudgeons[/199.106.164.186:4525] logged in with entity id 4011235 at (-576.9270911188081, 100.03400460825276, 542.9668180063165)
+2013-02-13 22:07:21 [INFO] [bhudgeons: Set the time to 0]
+2013-02-13 22:07:56 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-02-13 22:08:01 [INFO] bhudgeons[/199.106.164.186:14643] logged in with entity id 4012818 at (-576.9270911188081, 100.03400460825276, 542.9668180063165)
+2013-02-13 22:08:13 [INFO] <bhudgeons> Sawyer?
+2013-02-13 22:08:18 [INFO] <bhudgeons> hello
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-02-13 22:08:49 [INFO] bhudgeons lost connection: disconnect.genericReason
+2013-02-13 22:09:05 [INFO] bhudgeons[/199.106.164.186:7721] logged in with entity id 4013810 at (-569.2564050869946, 100.03400460825276, 531.1787565905399)
+2013-02-13 22:09:24 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-02-13 22:09:45 [INFO] bhudgeons[/199.106.164.186:14282] logged in with entity id 4014140 at (-569.2564050869946, 100.03400460825276, 531.1787565905399)
+2013-02-13 22:11:15 [INFO] bhudgeons lost connection: disconnect.endOfStream
+2013-02-13 22:12:53 [INFO] bhudgeons[/199.106.164.186:61484] logged in with entity id 4016304 at (-539.1658792536464, 100.03400460825276, 554.1251831150986)
+2013-02-13 22:13:28 [INFO] bhudgeons lost connection: disconnect.endOfStream
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:470)
+	at java.net.ServerSocket.accept(ServerSocket.java:438)
+	at hu.run(SourceFile:66)
+Closing listening thread
+210 recipes
+27 achievements
+2013-02-13 22:14:57 [INFO] Starting minecraft server version 1.4.6
+2013-02-13 22:14:57 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-02-13 22:14:57 [INFO] Loading properties
+2013-02-13 22:14:57 [INFO] Default game type: SURVIVAL
+2013-02-13 22:14:57 [INFO] Generating keypair
+2013-02-13 22:14:59 [INFO] Starting Minecraft server on *:25565
+2013-02-13 22:14:59 [INFO] Preparing level "world"
+2013-02-13 22:14:59 [INFO] Preparing start region for level 0
+2013-02-13 22:15:00 [INFO] Preparing spawn area: 6%
+2013-02-13 22:15:01 [INFO] Preparing spawn area: 41%
+2013-02-13 22:15:02 [INFO] Preparing spawn area: 89%
+2013-02-13 22:15:03 [INFO] Done (3.577s)! For help, type "help" or "?"
+2013-02-13 22:15:35 [INFO] bhudgeons[/199.106.164.186:36583] logged in with entity id 33 at (-539.1658792536464, 100.03400460825276, 554.1251831150986)
+2013-02-13 22:15:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-13 22:16:58 [INFO] bhudgeons lost connection: disconnect.endOfStream
+2013-02-13 22:17:09 [INFO] bhudgeons[/199.106.164.186:12607] logged in with entity id 3881 at (-542.1667837288505, 100.03400460825276, 427.3260450985468)
+2013-02-13 22:17:20 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-02-13 22:28:12 [INFO] bhudgeons[/199.106.164.186:24598] logged in with entity id 4162 at (-542.1667837288505, 100.03400460825276, 427.3260450985468)
+2013-02-13 22:28:23 [INFO] <bhudgeons> Sawyer, are you here?
+2013-02-13 22:29:11 [INFO] <bhudgeons> hello?
+2013-02-13 22:29:57 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-02-15 22:21:51 [INFO] HarryDiamand[/70.113.89.231:51411] logged in with entity id 7751 at (-505.9855612248766, 96.82780643278954, 316.99563457321455)
+2013-02-15 22:29:52 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-02-16 12:21:54 [INFO] spitblast[/208.191.157.180:50431] logged in with entity id 11988 at (-376.12667515806527, 99.5309116717818, 258.0449967008153)
+2013-02-16 12:37:59 [INFO] [spitblast: Set the time to 0]
+2013-02-16 12:43:39 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-16 15:08:20 [INFO] shudgeons[/173.174.108.132:33164] logged in with entity id 28496 at (-227.18705584033899, 64.37335169963859, 499.7186396696219)
+2013-02-16 15:09:02 [INFO] [shudgeons: Set the time to 0]
+2013-02-16 15:19:02 [INFO] [shudgeons: Set the time to 0]
+2013-02-16 15:24:51 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-16 15:33:14 [INFO] shudgeons[/173.174.108.132:33245] logged in with entity id 54347 at (-250.55988296684205, 68.53023045050763, 536.3119865406262)
+2013-02-16 15:33:40 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-17 12:15:47 [INFO] spitblast[/208.191.157.180:49594] logged in with entity id 54708 at (-320.3008383953621, 67.0, 206.0243231373334)
+2013-02-17 12:16:03 [INFO] [spitblast: Set the time to 0]
+2013-02-17 12:22:42 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-17 21:22:30 [INFO] wadeldo[/216.80.147.149:45807] logged in with entity id 58754 at (-377.3393857684252, 64.0, 283.8524988251054)
+2013-02-17 21:23:25 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-17 21:43:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-17 21:54:25 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-17 22:19:37 [INFO] jamiealter[/24.238.196.159:59579] logged in with entity id 89867 at (271.6737243083487, 95.0, -192.63220346633256)
+2013-02-17 22:22:13 [INFO] jamiealter lost connection: disconnect.quitting
+2013-02-18 11:11:33 [INFO] spitblast[/173.174.124.2:49219] logged in with entity id 93833 at (-443.2868161824175, 79.08134500446278, 205.98873551652744)
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-02-18 11:15:13 [INFO] spitblast lost connection: disconnect.genericReason
+2013-02-18 13:07:34 [INFO] spitblast[/208.191.157.180:49916] logged in with entity id 95718 at (-480.6783952710998, 68.45148079699477, 207.50163452608774)
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-02-18 13:09:49 [INFO] spitblast lost connection: disconnect.genericReason
+2013-02-18 17:03:22 [INFO] shudgeons[/173.174.108.132:33321] logged in with entity id 96975 at (-246.90380616509566, 69.54107451143915, 559.2554768967394)
+2013-02-18 17:06:27 [INFO] [shudgeons: Set the time to 0]
+2013-02-18 17:17:39 [INFO] [shudgeons: Set the time to 0]
+2013-02-18 17:23:43 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-18 19:51:59 [INFO] wadeldo[/216.80.147.149:36265] logged in with entity id 142308 at (-408.91413212051094, 74.11860532720587, 331.4054022439844)
+2013-02-18 19:54:50 [INFO] [wadeldo: Set own game mode to Survival Mode]
+2013-02-18 19:56:16 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-18 19:57:16 [INFO] [wadeldo: Set own game mode to Survival Mode]
+2013-02-18 19:57:52 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-18 19:58:53 [INFO] [wadeldo: Set own game mode to Survival Mode]
+2013-02-18 19:59:15 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-18 19:59:38 [INFO] [wadeldo: Set own game mode to Survival Mode]
+2013-02-18 20:00:10 [INFO] [wadeldo: Set own game mode to Creative Mode]
+2013-02-18 20:00:53 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-20 21:18:07 [INFO] shudgeons[/173.174.108.132:33412] logged in with entity id 151772 at (-359.7661508054547, 82.11555213556736, 404.35864867625054)
+2013-02-20 21:24:55 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-20 21:59:24 [INFO] shudgeons[/173.174.108.132:33089] logged in with entity id 166145 at (-639.8356657090883, 64.0, 391.699097283883)
+2013-02-20 22:08:00 [INFO] [shudgeons: Set the time to 0]
+2013-02-20 22:22:39 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-20 23:19:41 [INFO] shudgeons[/173.174.108.132:33453] logged in with entity id 194422 at (-367.1262387062167, 71.72256260746025, 376.18374008988656)
+2013-02-20 23:20:46 [INFO] fhudgeons[/173.174.108.132:33311] logged in with entity id 195306 at (-274.4848313737249, 71.99728083917655, 539.6980047669969)
+2013-02-20 23:23:22 [INFO] [shudgeons: Set the time to 0]
+2013-02-20 23:33:32 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-21 00:17:10 [INFO] shudgeons[/173.174.108.132:33493] logged in with entity id 272222 at (-252.6347535950864, 68.75750612088335, 507.5561553019763)
+2013-02-21 00:22:31 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-21 00:24:05 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-21 12:28:02 [INFO] shudgeons[/173.174.108.132:33313] logged in with entity id 283469 at (-366.3110351583842, 57.0, 297.4973073905612)
+2013-02-21 12:28:59 [INFO] fhudgeons[/173.174.108.132:33651] logged in with entity id 285398 at (-232.79249317464516, 71.10613723552818, 513.579377044473)
+2013-02-21 12:58:44 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-21 12:58:49 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-21 21:09:12 [INFO] shudgeons[/173.174.108.132:32997] logged in with entity id 352119 at (-272.7954252028097, 64.5, 485.39485533418554)
+2013-02-21 21:09:19 [INFO] [shudgeons: Set the time to 0]
+2013-02-21 21:10:29 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-22 00:05:27 [INFO] shudgeons[/173.174.108.132:33122] logged in with entity id 355226 at (-194.70043638823176, 72.85613424672191, 516.5514093037185)
+2013-02-22 00:15:20 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-22 12:34:15 [INFO] shudgeons[/173.174.108.132:32900] logged in with entity id 381268 at (66.5, 16.69999998807907, 340.1432930612849)
+2013-02-22 12:41:00 [INFO] fhudgeons[/173.174.108.132:33332] logged in with entity id 397523 at (-250.45919296223727, 64.0, 557.9834910596222)
+2013-02-22 12:42:54 [INFO] [shudgeons: Set the time to 0]
+2013-02-22 12:54:12 [INFO] [shudgeons: Set own game mode to Survival Mode]
+2013-02-22 12:54:27 [INFO] [shudgeons: Set own game mode to Creative Mode]
+2013-02-22 12:55:59 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-22 12:57:36 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-22 21:45:45 [INFO] wadeldo[/216.80.147.149:44941] logged in with entity id 470097 at (-68.77263433297557, 75.48935596568359, 199.94723617665545)
+2013-02-22 21:47:04 [INFO] wadeldo lost connection: disconnect.quitting
+2013-02-22 22:24:29 [INFO] shudgeons[/173.174.108.132:33420] logged in with entity id 473110 at (-286.15588526075186, 65.0, 394.4452277446397)
+2013-02-22 22:24:57 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-22 23:15:27 [INFO] shudgeons[/173.174.108.132:33472] logged in with entity id 474475 at (-324.70253549278084, 92.23107544009838, 440.21892720077057)
+2013-02-22 23:16:26 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-23 12:23:10 [INFO] shudgeons[/173.174.108.132:32974] logged in with entity id 475326 at (-340.0648833591342, 68.0, 436.3334078301097)
+2013-02-23 12:31:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-23 12:32:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-23 12:33:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-23 12:36:28 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-02-23 12:43:00 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-02-23 13:57:43 [INFO] fhudgeons[/173.174.108.132:33067] logged in with entity id 518239 at (-381.42523851577755, 72.0, 260.5651344345723)
+2013-02-23 13:57:59 [INFO] shudgeons[/173.174.108.132:32834] logged in with entity id 521510 at (-412.6718513071357, 66.87756035940347, 376.21063108173126)
+2013-02-23 14:08:00 [INFO] [shudgeons: Set the time to 0]
+2013-02-23 14:08:50 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-23 14:08:54 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-23 19:41:05 [INFO] shudgeons[/173.174.108.132:33072] logged in with entity id 556996 at (-563.359104973766, 70.98498044951741, 230.06921729010173)
+2013-02-23 19:41:40 [INFO] spitblast[/173.174.108.132:33064] logged in with entity id 557834 at (-463.3627551182073, 64.0, 285.9881077798202)
+2013-02-23 19:41:47 [INFO] [shudgeons: Set the time to 0]
+2013-02-23 19:44:19 [INFO] fhudgeons[/173.174.108.132:33201] logged in with entity id 561743 at (-439.6515791687627, 64.0, 391.3535306462895)
+2013-02-23 19:51:49 [INFO] [spitblast: Set the time to 0]
+2013-02-23 19:52:23 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-23 20:01:53 [INFO] [spitblast: Set the time to 0]
+2013-02-23 20:09:47 [INFO] [spitblast: Toggled downfall]
+2013-02-23 20:11:33 [INFO] azwii[/173.174.108.132:33401] logged in with entity id 593157 at (-597.2121886322873, 63.0, 214.1561458865702)
+2013-02-23 20:11:46 [INFO] [azwii: Teleported azwii to spitblast]
+2013-02-23 20:11:52 [INFO] fhudgeons[/173.174.108.132:33424] logged in with entity id 593795 at (-255.61444790383834, 89.0, 389.4225564789311)
+2013-02-23 20:12:05 [INFO] [shudgeons: Set the time to 0]
+2013-02-23 20:12:18 [INFO] [azwii: Teleported azwii to shudgeons]
+2013-02-23 20:14:18 [INFO] [azwii: Teleported fhudgeons to azwii]
+2013-02-23 20:22:19 [INFO] [spitblast: Set the time to 0]
+2013-02-23 20:23:39 [INFO] [azwii: Teleported azwii to spitblast]
+2013-02-23 20:29:42 [INFO] [azwii: Teleported fhudgeons to azwii]
+2013-02-23 20:30:25 [INFO] [shudgeons: Set the time to 0]
+2013-02-23 20:34:21 [INFO] azwii lost connection: disconnect.quitting
+2013-02-23 20:35:59 [INFO] azwii[/173.174.108.132:33550] logged in with entity id 621318 at (-520.2949050688688, 77.04373929529643, 212.76172199946652)
+2013-02-23 20:40:36 [INFO] [spitblast: Set the time to 0]
+2013-02-23 20:41:09 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-23 20:42:28 [INFO] shudgeons[/173.174.108.132:33709] logged in with entity id 625714 at (-527.6999999880787, 69.16530723927602, 227.2060256571298)
+2013-02-23 20:43:00 [INFO] [azwii: Set own game mode to Survival Mode]
+2013-02-23 20:43:53 [INFO] [fhudgeons: Set own game mode to Survival Mode]
+2013-02-23 20:44:02 [INFO] <shudgeons> shit
+2013-02-23 20:46:08 [INFO] fhudgeons was shot by azwii
+2013-02-23 20:46:24 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-02-23 20:46:41 [INFO] azwii lost connection: disconnect.quitting
+2013-02-23 20:46:45 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-23 20:46:45 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-23 22:44:28 [INFO] spitblast[/173.174.108.132:33021] logged in with entity id 629584 at (-522.3191046724178, 97.9893559654544, 207.80604705487622)
+2013-02-23 22:44:41 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-23 23:53:12 [INFO] azwii[/173.174.124.2:49604] logged in with entity id 629916 at (-526.942571387596, 67.0, 218.11008740990408)
+2013-02-23 23:53:48 [INFO] azwii lost connection: disconnect.quitting
+2013-02-24 13:48:31 [INFO] spitblast[/173.174.108.132:32880] logged in with entity id 630297 at (-478.6288008063391, 97.9893559654544, 236.66120049511534)
+2013-02-24 13:52:55 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-25 21:26:38 [INFO] shudgeons[/173.174.108.132:33197] logged in with entity id 641163 at (-508.8043888074074, 77.9665457980277, 219.34624727126783)
+2013-02-25 21:27:19 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-25 21:27:23 [INFO] shudgeons[/173.174.108.132:33225] logged in with entity id 642119 at (-525.4561316312099, 80.72994423409348, 231.902911397329)
+2013-02-25 21:31:25 [INFO] [shudgeons: Set the time to 0]
+2013-02-25 21:32:45 [INFO] shudgeons lost connection: disconnect.quitting
+2013-02-27 01:23:13 [INFO] spitblast[/208.191.157.180:50002] logged in with entity id 656135 at (-481.62439160852057, 67.0, 425.9412976592892)
+2013-02-27 01:41:36 [INFO] [spitblast: Set the time to 0]
+2013-02-27 01:41:59 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-27 01:42:11 [INFO] spitblast[/208.191.157.180:50050] logged in with entity id 668488 at (-484.6349297840742, 67.0, 209.51397331527022)
+2013-02-27 01:51:40 [INFO] [spitblast: Set the time to 0]
+2013-02-27 02:00:59 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-28 01:22:46 [INFO] spitblast[/208.191.157.180:49321] logged in with entity id 681736 at (-502.91895640780785, 87.08313630583929, 196.31505277950967)
+2013-02-28 01:23:02 [INFO] [spitblast: Set the time to 0]
+2013-02-28 01:32:57 [INFO] [spitblast: Set the time to 0]
+2013-02-28 01:41:26 [INFO] [spitblast: Toggled downfall]
+2013-02-28 01:43:18 [INFO] [spitblast: Set the time to 0]
+2013-02-28 01:53:22 [INFO] [spitblast: Set the time to 0]
+2013-02-28 02:03:34 [INFO] spitblast lost connection: disconnect.quitting
+2013-02-28 22:00:37 [INFO] shudgeons[/173.174.108.132:32791] logged in with entity id 704303 at (-321.21729798225243, 68.0, 203.32145748602719)
+2013-02-28 22:12:50 [INFO] [shudgeons: Set the time to 0]
+2013-02-28 22:16:32 [INFO] [shudgeons: Toggled downfall]
+2013-02-28 22:23:12 [INFO] [shudgeons: Set the time to 0]
+2013-02-28 22:33:48 [INFO] [shudgeons: Set the time to 0]
+2013-02-28 22:41:23 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-01 22:34:56 [INFO] wadeldo[/216.80.147.149:35086] logged in with entity id 738597 at (-62.777261371347244, 100.52865808291517, 204.13018477368541)
+2013-03-01 23:19:54 [INFO] wadeldo lost connection: disconnect.quitting
+2013-03-02 01:15:53 [INFO] azwii[/173.174.124.2:50949] logged in with entity id 771979 at (-519.5425310337378, 67.0, 218.0891316054015)
+2013-03-02 01:16:08 [INFO] spitblast[/208.191.157.180:49259] logged in with entity id 772530 at (-482.4576364446052, 64.0, 181.5353707506808)
+2013-03-02 01:16:47 [INFO] [azwii: Set own game mode to Creative Mode]
+2013-03-02 01:24:12 [INFO] [spitblast: Set the time to 0]
+2013-03-02 01:34:35 [INFO] [spitblast: Set the time to 0]
+2013-03-02 01:36:55 [INFO] [spitblast: Set the time to 12500]
+2013-03-02 01:39:42 [INFO] [spitblast: Set the time to 0]
+2013-03-02 01:41:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-02 01:41:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-02 01:42:59 [INFO] azwii lost connection: disconnect.quitting
+2013-03-02 01:43:01 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 01:49:24 [INFO] spitblast[/208.191.157.180:49476] logged in with entity id 807205 at (-528.5625158961216, 83.1230047079385, 216.54525468283234)
+2013-03-02 01:50:03 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 13:04:11 [INFO] spitblast[/208.191.157.180:59988] logged in with entity id 807526 at (-514.9412673427835, 78.98023379650157, 229.72139747578848)
+2013-03-02 13:05:21 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 13:07:29 [INFO] spitblast[/208.191.157.180:60186] logged in with entity id 808486 at (-533.0664753198804, 78.0, 220.2086076555141)
+2013-03-02 13:09:53 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 18:22:20 [INFO] azwii[/173.174.124.2:49322] logged in with entity id 810167 at (382.85699494106194, 83.04266418845216, 500.34200474504917)
+2013-03-02 18:22:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-02 18:24:15 [INFO] spitblast[/173.174.124.2:49522] logged in with entity id 813332 at (-519.1520807016317, 81.00856238604038, 221.391549439827)
+2013-03-02 18:24:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-02 18:24:27 [INFO] [azwii: Teleported azwii to spitblast]
+2013-03-02 18:24:45 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 18:26:07 [INFO] azwii lost connection: disconnect.quitting
+2013-03-02 18:27:32 [INFO] spitblast[/173.174.124.2:49557] logged in with entity id 814781 at (-508.1791824918955, 85.87352736539425, 207.7162799782965)
+2013-03-02 18:29:11 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 18:32:15 [INFO] spitblast[/173.174.124.2:49625] logged in with entity id 815992 at (-524.6930876642664, 80.73981936600332, 214.15805320920387)
+2013-03-02 18:33:06 [INFO] azwii[/173.174.124.2:49389] logged in with entity id 816594 at (-543.2075437571389, 89.21324542506821, 164.92393463997783)
+2013-03-02 18:33:29 [INFO] azwii lost connection: disconnect.quitting
+2013-03-02 18:33:34 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 18:33:52 [INFO] spitblast[/173.174.124.2:49635] logged in with entity id 817023 at (-513.5486651081493, 80.0, 200.6720075808826)
+2013-03-02 18:35:03 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 18:46:29 [INFO] spitblast[/173.174.124.2:49678] logged in with entity id 817734 at (-511.75265039810074, 80.0, 206.6743336406025)
+2013-03-02 18:47:43 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-02 19:07:24 [INFO] spitblast[/173.174.124.2:50045] logged in with entity id 818754 at (-514.6137393565858, 80.0, 227.33544864015195)
+2013-03-02 19:09:21 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-03 12:56:36 [INFO] spitblast[/208.191.157.180:63957] logged in with entity id 819982 at (-531.6999999880791, 77.90352074985749, 212.60981075203745)
+2013-03-03 13:10:24 [INFO] [spitblast: Set the time to 0]
+2013-03-03 13:16:59 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-03 13:17:58 [INFO] spitblast[/208.191.157.180:64002] logged in with entity id 849524 at (-479.41109428953297, 64.77481706126254, 170.1616532179205)
+2013-03-03 13:18:02 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-03 13:23:11 [INFO] somethingstupid9[/208.191.157.180:49533] logged in with entity id 849749 at (-381.5047018666165, 73.94055211374963, 110.3772248058265)
+2013-03-03 13:24:11 [INFO] [somethingstupid9: Set the time to 0]
+2013-03-03 13:30:57 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-03-03 23:10:44 [INFO] shudgeons[/173.174.108.132:33316] logged in with entity id 858308 at (-435.0353258579762, 89.83303266729204, 350.1744058675005)
+2013-03-03 23:13:14 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-04 01:13:29 [INFO] spitblast[/208.191.157.180:1707] logged in with entity id 865713 at (-479.41109428953297, 64.77481706126254, 170.1616532179205)
+2013-03-04 01:15:09 [INFO] [spitblast: Set the time to 0]
+2013-03-04 01:25:54 [INFO] [spitblast: Set the time to 0]
+2013-03-04 01:27:50 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-04 21:29:18 [INFO] shudgeons[/173.174.108.132:33768] logged in with entity id 888378 at (-607.4511812685338, 56.0, 196.37216720736484)
+2013-03-04 21:29:55 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-04 23:31:42 [INFO] shudgeons[/173.174.108.132:33339] logged in with entity id 890405 at (-451.55274523973907, 69.36933695946747, 180.45214888817418)
+2013-03-04 23:36:02 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-04 23:46:47 [INFO] shudgeons lost connection: disconnect.genericReason
+2013-03-05 21:09:54 [INFO] shudgeons[/173.174.108.132:33721] logged in with entity id 906019 at (-507.3793346510072, 61.0, 213.63891393210054)
+2013-03-05 21:12:05 [INFO] [shudgeons: Set the time to 0]
+2013-03-05 21:23:02 [INFO] [shudgeons: Set the time to 0]
+2013-03-05 21:29:42 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-06 21:11:34 [INFO] shudgeons[/173.174.108.132:33610] logged in with entity id 940162 at (-535.6218453002039, 69.46007774368363, 538.6608579581371)
+2013-03-06 21:14:03 [INFO] [shudgeons: Toggled downfall]
+2013-03-06 21:14:16 [INFO] [shudgeons: Set the time to 0]
+2013-03-06 21:16:10 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-06 22:32:23 [INFO] shudgeons[/173.174.108.132:32934] logged in with entity id 966301 at (-570.2846991861066, 103.34483487168688, 127.47263508285504)
+2013-03-06 22:48:48 [INFO] [shudgeons: Set the time to 0]
+2013-03-06 22:49:23 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-06 23:12:40 [INFO] shudgeons[/173.174.108.132:34006] logged in with entity id 1001160 at (-411.5515606519902, 77.91821130940524, 226.08383290634998)
+2013-03-06 23:13:24 [INFO] [shudgeons: Toggled downfall]
+2013-03-06 23:19:13 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-07 01:41:50 [INFO] spitblast[/208.191.157.180:1150] logged in with entity id 1040033 at (-236.30000001192087, 64.0, 556.7802746256625)
+2013-03-07 01:43:38 [INFO] [spitblast: Set the time to 0]
+2013-03-07 01:51:40 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-07 23:17:56 [INFO] shudgeons[/173.174.108.132:34685] logged in with entity id 1062813 at (-89.33908309268477, 87.7708284265586, 167.96118235621358)
+2013-03-07 23:18:08 [INFO] [shudgeons: Set the time to 0]
+2013-03-07 23:21:01 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-08 00:00:54 [INFO] shudgeons[/173.174.108.132:33629] logged in with entity id 1068410 at (-98.12200795789727, 97.9751033572901, 169.27285101857743)
+2013-03-08 00:08:45 [INFO] [shudgeons: Set the time to 0]
+2013-03-08 00:29:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-08 00:30:45 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-08 21:00:58 [INFO] shudgeons[/173.174.108.132:33494] logged in with entity id 1151011 at (-346.79721237234065, 88.67431945834879, 257.16336151756525)
+2013-03-08 21:01:15 [INFO] [shudgeons: Set the time to 0]
+2013-03-08 21:04:14 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-08 21:14:15 [INFO] shudgeons[/173.174.108.132:33338] logged in with entity id 1160109 at (-645.6999999880791, 58.20000004768371, 199.69999998807904)
+2013-03-08 21:22:48 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-08 23:22:19 [INFO] shudgeons[/173.174.108.132:33309] logged in with entity id 1177272 at (-333.2034524958393, 64.5625, 351.69999998807907)
+2013-03-08 23:22:31 [INFO] [shudgeons: Set the time to 0]
+2013-03-08 23:22:42 [INFO] [shudgeons: Toggled downfall]
+2013-03-08 23:33:16 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-09 03:05:05 [INFO] shudgeons[/173.174.108.132:33043] logged in with entity id 1202523 at (-413.72694773837344, 69.0, 205.1837321629215)
+2013-03-09 03:09:39 [INFO] [shudgeons: Toggled downfall]
+2013-03-09 03:11:48 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-09 03:20:50 [INFO] shudgeons[/173.174.108.132:33095] logged in with entity id 1216175 at (-385.5412501079019, 70.503876742545, 210.27790205458106)
+2013-03-09 03:22:28 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-09 03:45:03 [INFO] shudgeons[/173.174.108.132:35526] logged in with entity id 1230494 at (-402.5750013682519, 84.60912575778528, 275.53913607721915)
+2013-03-09 03:47:01 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-09 13:43:06 [INFO] Nealbros[/208.191.158.149:61381] logged in with entity id 1236105 at (-6.5, 57.62000000476837, -1.5)
+2013-03-09 13:52:53 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-09 13:53:20 [INFO] Nealbros[/208.191.158.149:61401] logged in with entity id 1248791 at (73.69999998807907, 26.0, -17.288347570517605)
+2013-03-09 13:54:38 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-09 14:04:07 [INFO] Nealbros[/208.191.158.149:62041] logged in with entity id 1249516 at (38.93968929420468, 30.0, -27.93107757813225)
+2013-03-09 14:04:16 [INFO] Nealbros was shot by Skeleton
+2013-03-09 14:05:09 [INFO] <Nealbros> will
+2013-03-09 14:18:04 [INFO] Nealbros hit the ground too hard
+2013-03-09 14:35:12 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-09 14:35:21 [INFO] Nealbros[/208.191.158.149:62076] logged in with entity id 1283041 at (49.53300886342632, 63.0, 173.41138783549133)
+2013-03-09 14:57:37 [INFO] <Nealbros> hi
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-09 15:06:38 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-09 15:19:15 [INFO] Nealbros[/208.191.158.149:49761] logged in with entity id 1312369 at (99.96301687393054, 62.0, 527.7487375626941)
+2013-03-09 15:25:31 [INFO] <Nealbros> 66
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-03-09 15:32:15 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-09 15:32:27 [INFO] Nealbros[/208.191.158.149:49782] logged in with entity id 1329150 at (-71.69999998807907, 91.0, 218.28068176353625)
+Item entity 1329173 has no item?!
+t: Loading entity NBT
+	at lq.e(SourceFile:1032)
+	at lv.a(SourceFile:122)
+	at aam.a(SourceFile:271)
+	at aam.a(SourceFile:72)
+	at aam.a(SourceFile:60)
+	at im.f(SourceFile:125)
+	at im.c(SourceFile:76)
+	at im.d(SourceFile:114)
+	at yc.e(SourceFile:279)
+	at yc.d(SourceFile:832)
+	at gm.c(SourceFile:146)
+	at gm.a(SourceFile:81)
+	at it.d(SourceFile:164)
+	at it.c(SourceFile:56)
+	at hu.a(SourceFile:49)
+	at ht.b(SourceFile:29)
+	at net.minecraft.server.MinecraftServer.r(SourceFile:762)
+	at ho.r(SourceFile:248)
+	at net.minecraft.server.MinecraftServer.q(SourceFile:679)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:613)
+	at fy.run(SourceFile:849)
+Caused by: java.lang.NullPointerException
+	at mj.b(SourceFile:138)
+	at px.a(SourceFile:229)
+	at px.a(SourceFile:179)
+	at lq.e(SourceFile:1027)
+	... 20 more
+2013-03-09 15:32:51 [INFO] Nealbros tried to swim in lava
+2013-03-09 15:33:05 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-09 15:35:25 [INFO] Nealbros[/208.191.158.149:49798] logged in with entity id 1330222 at (155.51492527333917, 79.0, 520.4535476817974)
+2013-03-09 15:43:13 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-09 16:10:12 [INFO] shudgeons[/173.174.108.132:34744] logged in with entity id 1340768 at (-378.51145661177924, 64.0, 242.4498209137155)
+2013-03-09 16:15:48 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-09 16:16:04 [INFO] fhudgeons[/173.174.108.132:33069] logged in with entity id 1354031 at (-246.5, 64.0, 557.5)
+2013-03-09 16:16:42 [INFO] [fhudgeons: Set own game mode to Creative Mode]
+2013-03-09 16:25:55 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-03-09 19:49:43 [INFO] Nealbros[/208.191.158.149:51868] logged in with entity id 1374515 at (535.0885544717838, 67.0, 12.52138658020504)
+2013-03-09 19:55:17 [INFO] Nealbros tried to swim in lava
+2013-03-09 20:10:16 [INFO] Nealbros was slain by Zombie Pigman
+2013-03-09 20:10:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-09 20:28:08 [INFO] Nealbros drowned
+2013-03-09 20:44:09 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-09 21:01:36 [INFO] Nealbros[/208.191.158.149:53139] logged in with entity id 1454204 at (1.8947712363835036, 62.0, -70.67193918109227)
+2013-03-09 21:10:01 [INFO] <Nealbros> hi
+2013-03-09 21:10:04 [INFO] <Nealbros> hi
+2013-03-09 21:42:41 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-09 22:55:54 [INFO] Nealbros[/208.191.158.149:53193] logged in with entity id 1507772 at (-708.5565608136519, 64.0, 344.9683885218968)
+2013-03-09 22:57:49 [INFO] <Nealbros> hi
+2013-03-09 22:57:51 [INFO] <Nealbros> hi
+2013-03-09 23:32:05 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-10 00:01:21 [INFO] Nealbros[/208.191.158.149:53941] logged in with entity id 1552505 at (166.8843073929896, 73.0, 520.9339874253621)
+2013-03-10 00:05:56 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-10 01:09:33 [INFO] shudgeons[/173.174.108.132:33164] logged in with entity id 1558327 at (-490.45982867856054, 64.0, 193.95327767580002)
+2013-03-10 01:15:49 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-10 02:43:46 [INFO] edenalter[/24.238.196.159:59789] logged in with entity id 1567546 at (250.68750458811667, 72.0, -188.3175935466538)
+2013-03-10 03:03:53 [INFO] jamiealter[/24.238.196.159:49231] logged in with entity id 1578715 at (270.01928552227264, 111.0, -184.31605219341088)
+2013-03-10 03:19:06 [INFO] jamiealter hit the ground too hard
+2013-03-10 03:20:54 [INFO] jamiealter was shot by Skeleton
+2013-03-10 03:41:18 [INFO] jamiealter hit the ground too hard
+2013-03-10 03:44:45 [INFO] jamiealter was slain by Zombie
+2013-03-10 04:01:36 [INFO] jamiealter was shot by Skeleton
+2013-03-10 04:02:14 [INFO] edenalter lost connection: disconnect.endOfStream
+2013-03-10 04:02:37 [INFO] edenalter[/24.238.196.159:59828] logged in with entity id 1655918 at (270.4775063607378, 95.0, -192.22134720360705)
+2013-03-10 04:02:53 [INFO] edenalter lost connection: disconnect.quitting
+2013-03-10 04:03:12 [INFO] edenalter[/24.238.196.159:59832] logged in with entity id 1656891 at (270.4775063607378, 95.0, -192.22134720360705)
+2013-03-10 04:03:21 [INFO] edenalter lost connection: disconnect.quitting
+2013-03-10 04:06:01 [INFO] jamiealter was slain by Spider
+2013-03-10 04:08:36 [INFO] edenalter[/24.238.196.159:59931] logged in with entity id 1665135 at (270.4775063607378, 95.0, -192.22134720360705)
+2013-03-10 04:14:59 [INFO] edenalter lost connection: disconnect.endOfStream
+2013-03-10 04:15:11 [INFO] edenalter[/24.238.196.159:59942] logged in with entity id 1669886 at (271.3439155026397, 95.0, -187.6561110131568)
+2013-03-10 04:18:49 [INFO] edenalter lost connection: disconnect.endOfStream
+2013-03-10 04:19:07 [INFO] jamiealter lost connection: disconnect.quitting
+2013-03-10 12:51:14 [INFO] Nealbros[/208.191.158.149:53985] logged in with entity id 1673485 at (-276.4961817923225, 63.0, 430.2517132371202)
+2013-03-10 13:02:40 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-10 13:41:42 [INFO] Nealbros[/208.191.158.149:55050] logged in with entity id 1690654 at (-465.5841349638718, 66.0, 427.4985814462247)
+2013-03-10 13:53:36 [INFO] <Nealbros> e
+java.lang.NullPointerException
+	at ef.a(SourceFile:310)
+	at mj.a(SourceFile:237)
+	at mj.a(SourceFile:157)
+	at et.a(SourceFile:36)
+	at ef.a(SourceFile:214)
+	at cg.h(SourceFile:178)
+	at cg.d(SourceFile:15)
+	at ci.run(SourceFile:114)
+2013-03-10 13:54:47 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-10 13:54:58 [INFO] Nealbros[/208.191.158.149:55073] logged in with entity id 1715208 at (-370.81748717935534, 70.0, 230.34723624367217)
+Item entity 1715212 has no item?!
+t: Loading entity NBT
+	at lq.e(SourceFile:1032)
+	at lv.a(SourceFile:122)
+	at aam.a(SourceFile:271)
+	at aam.a(SourceFile:72)
+	at aam.a(SourceFile:60)
+	at im.f(SourceFile:125)
+	at im.c(SourceFile:76)
+	at im.d(SourceFile:114)
+	at yc.e(SourceFile:279)
+	at yc.d(SourceFile:832)
+	at gm.c(SourceFile:146)
+	at gm.a(SourceFile:81)
+	at it.d(SourceFile:164)
+	at it.c(SourceFile:56)
+	at hu.a(SourceFile:49)
+	at ht.b(SourceFile:29)
+	at net.minecraft.server.MinecraftServer.r(SourceFile:762)
+	at ho.r(SourceFile:248)
+	at net.minecraft.server.MinecraftServer.q(SourceFile:679)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:613)
+	at fy.run(SourceFile:849)
+Caused by: java.lang.NullPointerException
+	at mj.b(SourceFile:138)
+	at px.a(SourceFile:229)
+	at px.a(SourceFile:179)
+	at lq.e(SourceFile:1027)
+	... 20 more
+2013-03-10 14:10:31 [INFO] <Nealbros> wjhfjSHFUhaSIJLfuyhqKJAYjkawnh\iuESfhjk
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-10 14:16:10 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-10 14:29:36 [INFO] shudgeons[/173.174.108.132:33295] logged in with entity id 1736260 at (-643.2542500449292, 58.5, 190.9989116264634)
+2013-03-10 14:33:56 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-10 17:08:28 [INFO] Nealbros[/208.191.158.149:55672] logged in with entity id 1749577 at (113.69275772686753, 63.0, 516.0665491891735)
+2013-03-10 17:09:37 [INFO] HarryDiamand[/70.113.89.92:54326] logged in with entity id 1750413 at (-446.6569098814487, 64.0, 359.7694305789237)
+2013-03-10 17:10:43 [INFO] <HarryDiamand> hello
+2013-03-10 17:11:38 [INFO] <Nealbros> whar are you
+2013-03-10 17:11:54 [INFO] <HarryDiamand> sawyer and fords friend
+2013-03-10 17:12:17 [INFO] <Nealbros> w w
+2013-03-10 17:13:30 [INFO] <Nealbros> whar are you
+2013-03-10 17:13:46 [INFO] <HarryDiamand> above the lilly pad path
+2013-03-10 17:14:20 [INFO] <Nealbros> do you have dimons
+2013-03-10 17:14:28 [INFO] <HarryDiamand> yes
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-03-10 17:16:57 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-10 17:17:04 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-03-10 17:36:39 [INFO] edenalter[/24.238.196.159:60146] logged in with entity id 1771853 at (270.06409530118674, 120.0, -188.67459371612406)
+2013-03-10 18:00:57 [INFO] HarryDiamand[/70.113.89.92:55437] logged in with entity id 1789478 at (-341.6978527249438, 63.0, 274.77749197524827)
+2013-03-10 18:01:40 [INFO] <HarryDiamand> is anyone there?
+2013-03-10 18:06:17 [INFO] edenalter lost connection: disconnect.quitting
+2013-03-10 18:06:22 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-03-10 19:25:56 [INFO] Nealbros[/208.191.158.149:55704] logged in with entity id 1797810 at (-148.99146102788296, 64.0, 121.82737065740706)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-10 19:26:45 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-10 20:34:39 [INFO] shudgeons[/173.174.108.132:33673] logged in with entity id 1798481 at (-428.3547611875535, 87.60496118707665, 399.80952202965335)
+2013-03-10 20:39:11 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-10 22:02:24 [INFO] edenalter[/24.238.196.159:60194] logged in with entity id 1807986 at (266.87154528968006, 111.0, -187.75789763332642)
+2013-03-10 22:05:55 [INFO] shudgeons[/173.174.108.132:33738] logged in with entity id 1809943 at (-493.1147399086018, 67.88244295235947, 200.29410753126714)
+2013-03-10 22:07:44 [INFO] Death_Cookie[/173.174.108.132:33570] logged in with entity id 1813589 at (6.5, 58.62000000476837, 8.5)
+2013-03-10 22:07:47 [INFO] Death_Cookie lost connection: disconnect.quitting
+2013-03-10 22:07:49 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-10 22:08:13 [INFO] Death_Cookie[/173.174.108.132:33613] logged in with entity id 1814570 at (6.5, 57.0, 8.5)
+2013-03-10 22:08:23 [INFO] shudgeons[/173.174.108.132:33772] logged in with entity id 1814952 at (-398.27236260687334, 84.72658628471855, 359.9950411050699)
+2013-03-10 22:08:47 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-10 22:08:48 [INFO] Death_Cookie lost connection: disconnect.quitting
+2013-03-10 22:23:15 [INFO] Death_Cookie[/173.174.108.132:32837] logged in with entity id 1824484 at (19.042861210227144, 63.015625, 25.581522518780382)
+2013-03-10 22:23:26 [INFO] shudgeons[/173.174.108.132:32958] logged in with entity id 1825719 at (-398.27236260687334, 84.72658628471855, 359.9950411050699)
+2013-03-10 22:23:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-10 22:23:50 [INFO] Death_Cookie lost connection: disconnect.quitting
+2013-03-10 22:23:53 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-10 22:24:24 [INFO] Death_Cookie[/173.174.108.132:33207] logged in with entity id 1827487 at (-12.65948433323395, 61.0, 47.70047890502242)
+2013-03-10 22:24:32 [INFO] Death_Cookie lost connection: disconnect.quitting
+2013-03-10 22:25:14 [INFO] Death_Cookie[/173.174.108.132:33265] logged in with entity id 1828352 at (-4.19905646123151, 62.0, 49.98733266724346)
+2013-03-10 22:25:38 [INFO] shudgeons[/173.174.108.132:33874] logged in with entity id 1829457 at (-395.71529317805874, 84.72658628471855, 363.08112961884035)
+2013-03-10 22:25:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-10 22:26:12 [INFO] [shudgeons: Opped death_cookie]
+2013-03-10 22:26:28 [INFO] [Death_Cookie: Set own game mode to Creative Mode]
+2013-03-10 22:27:19 [INFO] [shudgeons: Teleported shudgeons to Death_Cookie]
+2013-03-10 22:27:50 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-10 22:27:50 [INFO] Death_Cookie lost connection: disconnect.quitting
+2013-03-10 22:47:33 [INFO] Death_Cookie[/173.174.108.132:33683] logged in with entity id 1847096 at (-175.3715726476005, 64.0, -68.52285759248598)
+2013-03-10 22:49:32 [INFO] Death_Cookie lost connection: disconnect.quitting
+2013-03-10 23:33:49 [INFO] edenalter lost connection: disconnect.quitting
+2013-03-11 01:07:48 [INFO] edenalter[/24.238.196.159:61284] logged in with entity id 1880329 at (271.69121538475156, 95.0, -188.08292615835097)
+2013-03-11 01:22:23 [INFO] edenalter lost connection: disconnect.quitting
+2013-03-11 13:27:58 [INFO] Nealbros[/208.191.158.149:56391] logged in with entity id 1890831 at (-148.70678288098728, 64.0, 124.55616490114498)
+2013-03-11 13:29:23 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-11 17:12:59 [INFO] princesspritzi[/108.73.6.14:56256] logged in with entity id 1893427 at (-9.5, 60.62000000476837, 8.5)
+2013-03-11 17:16:25 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-11 17:16:36 [INFO] princesspritzi[/108.73.6.14:56290] logged in with entity id 1896434 at (-77.26017778267502, 75.0, 131.8004302402924)
+2013-03-11 17:16:47 [INFO] princesspritzi was slain by Slime
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-11 17:19:21 [INFO] princesspritzi lost connection: disconnect.genericReason
+2013-03-11 17:23:08 [INFO] princesspritzi[/108.73.6.14:56330] logged in with entity id 1899482 at (25.580799518505255, 63.0, -26.017395999823506)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-11 17:30:34 [INFO] princesspritzi lost connection: disconnect.genericReason
+2013-03-11 17:43:06 [INFO] edenalter[/24.238.196.159:61362] logged in with entity id 1907041 at (270.69999998807907, 103.0, -188.70055350456423)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-11 17:55:18 [INFO] edenalter lost connection: disconnect.genericReason
+2013-03-11 18:12:03 [INFO] princesspritzi[/108.73.6.14:56784] logged in with entity id 1916232 at (-150.50684496830243, 64.0, 157.57320253568543)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-03-11 18:42:40 [INFO] princesspritzi lost connection: disconnect.genericReason
+2013-03-11 18:47:39 [INFO] princesspritzi[/108.73.6.14:57039] logged in with entity id 1943886 at (-312.35382098740985, 65.0, 263.300000011921)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at ape.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at ci.run(SourceFile:120)
+2013-03-11 18:48:48 [INFO] princesspritzi lost connection: disconnect.genericReason
+2013-03-11 19:05:52 [INFO] edenalter[/24.238.196.159:61369] logged in with entity id 1944803 at (263.5, 111.0, -189.5)
+2013-03-11 19:07:59 [INFO] edenalter hit the ground too hard
+2013-03-11 19:16:22 [INFO] /173.174.100.117:60517 lost connection
+2013-03-11 19:16:44 [INFO] aja1901[/173.174.100.117:60531] logged in with entity id 1953937 at (6.5, 57.62000000476837, 3.5)
+2013-03-11 19:17:03 [INFO] edenalter drowned
+2013-03-11 19:17:28 [INFO] <aja1901> Hi mia
+2013-03-11 19:17:34 [INFO] <aja1901> wait r u on
+2013-03-11 19:17:53 [INFO] princesspritzi[/108.73.6.14:57100] logged in with entity id 1956358 at (-316.4274435820224, 65.0, 264.06734213476403)
+2013-03-11 19:17:57 [INFO] <aja1901> Hi
+2013-03-11 19:18:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-11 19:19:10 [INFO] <aja1901> Hi Princess
+2013-03-11 19:19:45 [INFO] <princesspritzi> hi
+2013-03-11 19:23:03 [INFO] <aja1901> hi mia
+2013-03-11 19:23:10 [INFO] <aja1901> lezz talk in Chat
+2013-03-11 19:24:38 [INFO] <aja1901> Princess where r u
+2013-03-11 19:24:46 [INFO] <aja1901> i have 2 go in 6 minutes
+2013-03-11 19:24:53 [INFO] <princesspritzi> were r u
+2013-03-11 19:25:33 [INFO] <aja1901> at the baginning of Wadeldos ride
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-11 19:25:39 [INFO] edenalter lost connection: disconnect.genericReason
+2013-03-11 19:26:12 [INFO] <aja1901> i have to go......
+2013-03-11 19:26:15 [INFO] aja1901 lost connection: disconnect.quitting
+2013-03-11 19:28:06 [INFO] azwii[/173.174.124.2:49258] logged in with entity id 1973005 at (-553.0043254931112, 89.21324542506821, 164.3779213483792)
+2013-03-11 19:29:56 [INFO] azwii lost connection: disconnect.quitting
+2013-03-11 19:30:45 [INFO] jamiealter[/108.194.57.98:52639] logged in with entity id 1981619 at (264.7617353737777, 120.0, -189.41628106027218)
+2013-03-11 19:31:28 [INFO] edenalter[/24.238.196.159:61381] logged in with entity id 1984289 at (268.2337132388967, 107.0, -190.69999998807907)
+2013-03-11 19:35:49 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-11 19:38:23 [INFO] <edenalter> hi!!!
+2013-03-11 19:39:01 [INFO] <jamiealter> Hi Beastie!
+2013-03-11 19:39:09 [INFO] <jamiealter> I love U
+2013-03-11 19:39:28 [INFO] <edenalter> im gonna get some sleep
+2013-03-11 19:40:10 [INFO] <jamiealter> remind me how to sleep
+2013-03-11 19:40:31 [INFO] <edenalter> control click on it
+2013-03-11 19:40:32 [INFO] <jamiealter> nevermind:)
+2013-03-11 19:41:02 [INFO] <edenalter> i went mining look what i found
+2013-03-11 19:41:06 [INFO] <jamiealter> im going to make an outside staircase!
+2013-03-11 19:41:20 [INFO] <edenalter> ok !!!
+2013-03-11 19:41:45 [INFO] <edenalter> its ok if u need to get back to work i can do it
+2013-03-11 19:42:04 [INFO] <edenalter> un less u want to
+2013-03-11 19:42:42 [INFO] <edenalter> do u have any dimiond??
+2013-03-11 19:43:10 [INFO] <jamiealter> let me look
+2013-03-11 19:43:21 [INFO] <jamiealter> yes!!!!!
+2013-03-11 19:43:33 [INFO] <jamiealter> 12 blocks. can u make armor with it?
+2013-03-11 19:43:45 [INFO] <edenalter> yah !!!
+2013-03-11 19:46:11 [INFO] <edenalter> how to u craft aurmor again
+2013-03-11 19:46:34 [INFO] <jamiealter> i dont remember... i think u build it in teh shape of the clothes
+2013-03-11 19:47:02 [INFO] <edenalter> thats what i thought but it didnt work !!
+2013-03-11 19:49:57 [INFO] <edenalter> found it !1
+2013-03-11 19:55:22 [INFO] <edenalter> more stone in chest want help??
+2013-03-11 19:56:40 [INFO] <jamiealter> uncle rob is here... im going to show him our tower
+2013-03-11 19:57:01 [INFO] <edenalter> kk
+2013-03-11 20:00:33 [INFO] <edenalter> where r u going ?
+2013-03-11 20:00:51 [INFO] <jamiealter> im just showing uncle rob how to dig
+2013-03-11 20:01:01 [INFO] <edenalter> oh
+2013-03-11 20:01:11 [INFO] <edenalter> going back to tower
+2013-03-11 20:02:34 [INFO] <edenalter> monning i conected our mine to outside !
+2013-03-11 20:03:27 [INFO] <edenalter> what r the holes in wall in basement for??
+2013-03-11 20:09:04 [INFO] <edenalter> what u crafting??
+2013-03-11 20:11:43 [INFO] <edenalter> got to go mommy says love you !!!
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-11 20:12:18 [INFO] edenalter lost connection: disconnect.genericReason
+2013-03-11 20:15:25 [INFO] jamiealter lost connection: disconnect.quitting
+2013-03-12 13:45:00 [INFO] Nealbros[/208.191.158.149:59393] logged in with entity id 2020699 at (-51.79077373099889, 73.0, 271.34176293746475)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-12 13:49:23 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-12 17:55:25 [INFO] princesspritzi[/108.73.6.14:57154] logged in with entity id 2026354 at (155.5, 67.19876458926547, 693.4987646011864)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-12 18:19:52 [INFO] princesspritzi lost connection: disconnect.genericReason
+2013-03-12 18:21:38 [INFO] princesspritzi[/108.73.6.14:57210] logged in with entity id 2057284 at (-313.9814453582915, 65.0, 263.83968236279446)
+2013-03-12 18:36:29 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-12 20:57:28 [INFO] Nealbros[/208.191.158.149:62267] logged in with entity id 2066835 at (-242.87310362967526, 63.0, 406.46046555991467)
+2013-03-12 21:09:10 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-12 21:09:30 [INFO] Nealbros[/208.191.158.149:62295] logged in with entity id 2080536 at (-433.8111603140522, 57.0, 348.69999998807907)
+2013-03-12 21:18:55 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-12 22:33:36 [INFO] princesspritzi[/108.73.6.14:57531] logged in with entity id 2090201 at (-315.62547421707603, 65.0, 264.0723758922431)
+2013-03-12 22:42:10 [INFO] princesspritzi was shot by Skeleton
+2013-03-12 22:52:36 [INFO] HarryDiamand[/70.113.89.92:58426] logged in with entity id 2109009 at (-435.00801307876867, 57.0, 347.30000001192093)
+2013-03-12 22:57:34 [INFO] [HarryDiamand: Set the time to 0]
+2013-03-12 23:00:23 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-03-12 23:03:08 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-12 23:41:10 [INFO] Nealbros[/208.191.158.149:63611] logged in with entity id 2126090 at (-420.56967121003646, 70.0, 127.19737730486912)
+2013-03-12 23:48:17 [INFO] <Nealbros> aghv
+2013-03-12 23:57:08 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-13 00:35:24 [INFO] Nealbros[/208.191.158.149:64936] logged in with entity id 2157268 at (-231.55557288521098, 66.0, 76.23449638475914)
+2013-03-13 00:38:56 [INFO] <Nealbros> fjahiuxhfuoysZYGHFIUCGZHDIUGHVAOSD
+2013-03-13 00:38:57 [INFO] <Nealbros> \FKVOHFIUGHDOSFG
+2013-03-13 00:40:52 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-13 00:57:55 [INFO] daisy7897721[/173.174.120.2:52604] logged in with entity id 2167944 at (-6.5, 58.62000000476837, -8.5)
+2013-03-13 00:58:48 [INFO] daisy7897721 lost connection: disconnect.quitting
+2013-03-13 01:01:55 [INFO] daisy7897721[/173.174.120.2:52853] logged in with entity id 2169692 at (5.494645455793728, 63.0, -22.023332086941814)
+2013-03-13 01:11:05 [INFO] Nealbros[/208.191.158.149:64958] logged in with entity id 2181228 at (-144.99827966482297, 68.0, 298.0349978186199)
+2013-03-13 01:11:27 [INFO] <Nealbros> HEELO
+2013-03-13 01:11:33 [INFO] <daisy7897721> hello
+2013-03-13 01:12:03 [INFO] <daisy7897721> does this server have monsters?
+2013-03-13 01:12:12 [INFO] <Nealbros> YES
+2013-03-13 01:12:52 [INFO] <daisy7897721> oh ok can u stop with the caps please
+2013-03-13 01:13:08 [INFO] <Nealbros> ok
+2013-03-13 01:13:19 [INFO] <daisy7897721> thank you
+2013-03-13 01:13:39 [INFO] <Nealbros> i killed a creaper
+2013-03-13 01:13:57 [INFO] <daisy7897721> cool i killed a zombie
+2013-03-13 01:14:20 [INFO] <Nealbros> do you have dimons
+2013-03-13 01:14:40 [INFO] <daisy7897721> no i just joined this server like 5 minutes ago
+2013-03-13 01:15:17 [INFO] <Nealbros> ware are you
+2013-03-13 01:15:36 [INFO] <daisy7897721> inside someone elses house to wait out the night
+2013-03-13 01:15:50 [INFO] <daisy7897721> then i will go to a village near by
+2013-03-13 01:16:19 [INFO] <Nealbros> you nead to sleep
+2013-03-13 01:16:32 [INFO] <daisy7897721> cant no bed or wool
+2013-03-13 01:17:24 [INFO] <daisy7897721> grr is it like night forever here?! lol
+2013-03-13 01:18:37 [INFO] <Nealbros> i got hit by seleton
+2013-03-13 01:18:57 [INFO] <Nealbros> its day
+2013-03-13 01:19:15 [INFO] <daisy7897721> yep i noticed haha is it raining where u r
+2013-03-13 01:20:57 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-13 01:32:23 [INFO] princesspritzi[/108.73.6.14:57581] logged in with entity id 2207086 at (-317.6369827811902, 65.0, 271.09799993989213)
+2013-03-13 01:37:55 [INFO] <princesspritzi> hi
+2013-03-13 01:38:12 [INFO] <daisy7897721> omf hi mia!!!
+2013-03-13 01:38:16 [INFO] <daisy7897721> omg
+2013-03-13 01:38:24 [INFO] <princesspritzi> hi were r u
+2013-03-13 01:38:55 [INFO] <daisy7897721> in a random persons house i was waiting out the night
+2013-03-13 01:39:18 [INFO] <princesspritzi> near the spawn area
+2013-03-13 01:40:16 [INFO] <daisy7897721> no in a village kinda near the spawn but close to the castle
+2013-03-13 01:40:35 [INFO] <princesspritzi> stay were ur
+2013-03-13 01:40:56 [INFO] <daisy7897721> wanna meet at the castle?
+2013-03-13 01:41:07 [INFO] <princesspritzi> ill find u
+2013-03-13 01:41:22 [INFO] <princesspritzi> do u see a rollor coaster
+2013-03-13 01:41:40 [INFO] <daisy7897721> i am on top of beacons and yes
+2013-03-13 01:41:53 [INFO] <princesspritzi> k comin
+2013-03-13 01:41:57 [INFO] <daisy7897721> k
+2013-03-13 01:42:29 [INFO] princesspritzi drowned
+2013-03-13 01:42:42 [INFO] <daisy7897721> R U OK?!
+2013-03-13 01:42:47 [INFO] <princesspritzi> ya
+2013-03-13 01:42:48 [INFO] <daisy7897721> u drowned
+2013-03-13 01:43:05 [INFO] <princesspritzi> i didnt want to walk
+2013-03-13 01:43:33 [INFO] <princesspritzi> die so we can meet up
+2013-03-13 01:43:51 [INFO] <daisy7897721> NO i have awesome stuff
+2013-03-13 01:43:59 [INFO] <princesspritzi> what
+2013-03-13 01:44:07 [INFO] <daisy7897721> awesome stuff
+2013-03-13 01:44:15 [INFO] <princesspritzi> what?
+2013-03-13 01:44:38 [INFO] <daisy7897721> i dont want to die cause then i will loose my awesome stuff
+2013-03-13 01:44:46 [INFO] <princesspritzi> what stuff
+2013-03-13 01:44:57 [INFO] <daisy7897721> oh diamond stuff
+2013-03-13 01:45:07 [INFO] <princesspritzi> ill find u
+2013-03-13 01:45:45 [INFO] <daisy7897721> k remember: beacons, roller coaster, village, castle
+2013-03-13 01:46:46 [INFO] <daisy7897721> do u see those things/
+2013-03-13 01:46:59 [INFO] <princesspritzi> on roolorcoaster
+2013-03-13 01:47:19 [INFO] <daisy7897721> k im watching the roller coaster i c
+2013-03-13 01:47:52 [INFO] <daisy7897721> i will go to the track and wait
+2013-03-13 01:49:14 [INFO] <princesspritzi> i cant find u
+2013-03-13 01:49:36 [INFO] <princesspritzi> can u getback to spawn?
+2013-03-13 01:49:48 [INFO] <daisy7897721> i will go to the top of the track and wait out the night and no
+2013-03-13 01:50:16 [INFO] <princesspritzi> ill try to find u
+2013-03-13 01:50:38 [INFO] <daisy7897721> k i am at the top of the roller coaster
+2013-03-13 01:50:55 [INFO] princesspritzi burned to death
+2013-03-13 01:51:28 [INFO] <daisy7897721> remember: castle, beacons, rollercoaster, village, and i am kinda near a snowy forest
+2013-03-13 01:51:35 [INFO] <daisy7897721> r u ok?!
+2013-03-13 01:51:45 [INFO] <princesspritzi> ya
+2013-03-13 01:52:11 [INFO] <daisy7897721> i am also close to a desert and i am in a grassy area
+2013-03-13 01:52:22 [INFO] <princesspritzi> k
+2013-03-13 01:54:20 [INFO] <princesspritzi> r u on waldoes rolor coaster
+2013-03-13 01:55:11 [INFO] princesspritzi hit the ground too hard
+2013-03-13 01:55:29 [INFO] <daisy7897721> haha again idk probablysounds farmiliar
+2013-03-13 01:57:09 [INFO] <daisy7897721> r u there?
+2013-03-13 01:57:26 [INFO] <princesspritzi> send me pic or were u r
+2013-03-13 01:57:34 [INFO] <daisy7897721> ok
+2013-03-13 01:57:56 [INFO] princesspritzi was shot by Skeleton
+2013-03-13 01:59:41 [INFO] <daisy7897721> did u get the first pic? second one is sending
+2013-03-13 02:00:04 [INFO] <princesspritzi> a slimes mad at me
+2013-03-13 02:00:19 [INFO] <daisy7897721> haha did u get my pics
+2013-03-13 02:00:37 [INFO] <princesspritzi> no
+2013-03-13 02:01:16 [INFO] <daisy7897721> oh i sent them to ur ipod
+2013-03-13 02:01:44 [INFO] <princesspritzi> i think my internet is poopy
+2013-03-13 02:01:48 [INFO] <daisy7897721> mialaceykendall@me.com, right?
+2013-03-13 02:02:38 [INFO] <daisy7897721> where r u i will try to find u
+2013-03-13 02:05:11 [INFO] <daisy7897721> gtg poo text u later bye
+2013-03-13 02:05:14 [INFO] daisy7897721 lost connection: disconnect.quitting
+2013-03-13 02:14:49 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-13 02:19:47 [INFO] princesspritzi[/108.73.6.14:57658] logged in with entity id 2281687 at (-313.9290933144173, 65.0, 263.94012015382464)
+2013-03-13 02:35:51 [INFO] princesspritzi tried to swim in lava
+2013-03-13 02:39:10 [INFO] princesspritzi tried to swim in lava
+2013-03-13 02:40:13 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-13 02:42:31 [INFO] princesspritzi[/108.73.6.14:57704] logged in with entity id 2307090 at (-123.6597559209649, 64.0, 76.14755370960911)
+2013-03-13 02:56:39 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-13 03:05:40 [INFO] princesspritzi[/108.73.6.14:57740] logged in with entity id 2324806 at (-338.30000001192093, 46.0, 264.5788372535027)
+2013-03-13 03:08:53 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-13 03:25:45 [INFO] princesspritzi[/108.73.6.14:57926] logged in with entity id 2330035 at (-368.30000001192093, 21.0, 264.30000001192093)
+2013-03-13 03:56:56 [INFO] princesspritzi blew up
+2013-03-13 03:58:14 [INFO] princesspritzi was slain by Zombie
+2013-03-13 04:08:13 [INFO] princesspritzi lost connection: disconnect.quitting
+2013-03-13 12:47:00 [INFO] Nealbros[/208.191.158.149:65064] logged in with entity id 2380575 at (-421.45666176806856, 66.0, 284.1802278408777)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:146)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at apd.a(Unknown Source)
+	at apd.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at ef.a(SourceFile:177)
+	at cg.i(SourceFile:249)
+	at cg.c(SourceFile:15)
+	at ch.run(SourceFile:93)
+2013-03-13 12:50:25 [INFO] Nealbros lost connection: disconnect.genericReason
+2013-03-13 12:51:41 [INFO] daisy7897721[/173.174.120.2:52937] logged in with entity id 2389885 at (-455.2681148881993, 67.0, 438.69999998807907)
+2013-03-13 13:07:05 [INFO] Nealbros[/208.191.158.149:65100] logged in with entity id 2405724 at (-592.8070925917167, 63.5, 412.8619291565571)
+2013-03-13 13:07:22 [INFO] <daisy7897721> hello
+2013-03-13 13:07:29 [INFO] <Nealbros> hi where are u
+2013-03-13 13:07:37 [INFO] <daisy7897721> in a village
+2013-03-13 13:07:42 [INFO] <daisy7897721> do u have bones
+2013-03-13 13:07:54 [INFO] <Nealbros> yes why
+2013-03-13 13:08:20 [INFO] <daisy7897721> i will trade you for some diamond stuff
+2013-03-13 13:08:28 [INFO] <Nealbros> do u now where the casel is
+2013-03-13 13:08:47 [INFO] <daisy7897721> yes im right near it why
+2013-03-13 13:08:55 [INFO] <Nealbros> i am to
+2013-03-13 13:09:08 [INFO] <Nealbros> go in it
+2013-03-13 13:09:11 [INFO] <daisy7897721> k
+2013-03-13 13:10:01 [INFO] <Nealbros> i dont see u
+2013-03-13 13:10:31 [INFO] <daisy7897721> hi can i have bones
+2013-03-13 13:10:37 [INFO] <Nealbros> why
+2013-03-13 13:11:19 [INFO] <Nealbros> why
+2013-03-13 13:11:25 [INFO] <daisy7897721> so i can get a pet wolf
+2013-03-13 13:11:28 [INFO] <Nealbros> i have
+2013-03-13 13:11:48 [INFO] <Nealbros> show me the pet and i give u
+2013-03-13 13:12:05 [INFO] <daisy7897721> can we wait till morning
+2013-03-13 13:12:18 [INFO] <Nealbros> uuuu sure
+2013-03-13 13:12:24 [INFO] <daisy7897721> thx
+2013-03-13 13:12:53 [INFO] <daisy7897721> nice shot
+2013-03-13 13:12:59 [INFO] <Nealbros> do u have ender pearls
+2013-03-13 13:13:04 [INFO] <daisy7897721> no
+2013-03-13 13:13:20 [INFO] <Nealbros> i wanted to go to the end
+2013-03-13 13:13:35 [INFO] <daisy7897721> i know where there is a portal
+2013-03-13 13:13:43 [INFO] <Nealbros> where
+2013-03-13 13:13:50 [INFO] <Nealbros> we will win
+2013-03-13 13:14:05 [INFO] <daisy7897721> its somewhere near that village over there
+2013-03-13 13:14:35 [INFO] <daisy7897721> nice shot again
+2013-03-13 13:14:41 [INFO] <Nealbros> thx
+2013-03-13 13:15:39 [INFO] <daisy7897721> thx
+2013-03-13 13:15:52 [INFO] <daisy7897721> hey do u have food?
+2013-03-13 13:16:06 [INFO] <Nealbros> yes
+2013-03-13 13:16:14 [INFO] <daisy7897721> thank you very much
+2013-03-13 13:17:06 [INFO] <Nealbros> i am going to get that creeper
+2013-03-13 13:17:13 [INFO] <daisy7897721> ok
+2013-03-13 13:17:39 [INFO] <Nealbros> do u have house
+2013-03-13 13:17:58 [INFO] <daisy7897721> no not yet i was just about to start building one
+2013-03-13 13:18:07 [INFO] <Nealbros> ender man over there
+2013-03-13 13:18:12 [INFO] <daisy7897721> i c
+2013-03-13 13:18:57 [INFO] <Nealbros> pet dog now
+2013-03-13 13:19:07 [INFO] <daisy7897721> come on lemme show u the wolf that i want
+2013-03-13 13:20:12 [INFO] <daisy7897721> THANK U
+2013-03-13 13:20:44 [INFO] <Nealbros> portal now
+2013-03-13 13:20:57 [INFO] <daisy7897721> yay thanks there is another over there i think if u want it
+2013-03-13 13:21:05 [INFO] <Nealbros> yes
+2013-03-13 13:21:32 [INFO] <Nealbros> the portal
+2013-03-13 13:21:46 [INFO] <daisy7897721> k follow me
+2013-03-13 13:22:10 [INFO] <Nealbros> he will tp
+2013-03-13 13:22:52 [INFO] <daisy7897721> found it
+2013-03-13 13:23:06 [INFO] <Nealbros> no to the end
+2013-03-13 13:23:23 [INFO] <daisy7897721> oh isnt the nether the end
+2013-03-13 13:23:45 [INFO] <Nealbros> no the ender drago
+2013-03-13 13:24:06 [INFO] <daisy7897721> oh dont u have to get the ender eyes
+2013-03-13 13:24:17 [INFO] <Nealbros> yah 2
+2013-03-13 13:24:27 [INFO] <daisy7897721> oh idk sorry
+2013-03-13 13:24:31 [INFO] <Nealbros> ready
+2013-03-13 13:24:41 [INFO] <daisy7897721> ?
+2013-03-13 13:24:49 [INFO] <daisy7897721> for what
+2013-03-13 13:25:02 [INFO] <Nealbros> to find the eander dragon
+2013-03-13 13:25:18 [INFO] <daisy7897721> ok i guess
+2013-03-13 13:25:31 [INFO] <daisy7897721> no! thats not how u do it
+2013-03-13 13:25:39 [INFO] <Nealbros> how
+2013-03-13 13:25:59 [INFO] <Nealbros> la
+2013-03-13 13:26:24 [INFO] <Nealbros> how
+2013-03-13 13:26:26 [INFO] <daisy7897721> it has to drop strait down. u dug where the magic wore off
+2013-03-13 13:26:38 [INFO] <daisy7897721> come back up
+2013-03-13 13:26:46 [INFO] <Nealbros> whrigt here i did
+2013-03-13 13:26:59 [INFO] <daisy7897721> throw it again then
+2013-03-13 13:27:35 [INFO] <Nealbros> ok
+2013-03-13 13:27:46 [INFO] <daisy7897721> c?
+2013-03-13 13:28:11 [INFO] <daisy7897721> no not yet!!!!!!
+2013-03-13 13:28:24 [INFO] <daisy7897721> it lost its magic again
+2013-03-13 13:28:36 [INFO] <Nealbros> u do it
+2013-03-13 13:29:32 [INFO] <Nealbros> i now where a bed is
+2013-03-13 13:29:39 [INFO] <daisy7897721> u c how to do it? wait till it stops completely
+2013-03-13 13:29:55 [INFO] <Nealbros> i did
+2013-03-13 13:30:12 [INFO] <Nealbros> some hing hapend
+2013-03-13 13:30:41 [INFO] <Nealbros> do u need dimond
+2013-03-13 13:31:09 [INFO] <daisy7897721> nothing happened, and no u didnt. u did it when it ran out of magic u have to keep right clicking wi
+2013-03-13 13:31:23 [INFO] <daisy7897721> and no i dont need diamond
+2013-03-13 13:31:24 [INFO] <Nealbros> do u need dimond
+2013-03-13 13:33:52 [INFO] <Nealbros> get off my lawn
+2013-03-13 13:34:03 [INFO] <daisy7897721> me?
+2013-03-13 13:34:10 [INFO] <Nealbros> yes u
+2013-03-13 13:34:20 [INFO] <Nealbros> no just kiding
+2013-03-13 13:34:22 [INFO] <daisy7897721> r u joking or r u serious
+2013-03-13 13:34:44 [INFO] <Nealbros> whats that]
+2013-03-13 13:35:34 [INFO] <daisy7897721> oh r u pretending to be old
+2013-03-13 13:35:54 [INFO] <Nealbros> your dog is wright there
+2013-03-13 13:36:14 [INFO] <Nealbros> siting
+2013-03-13 13:36:15 [INFO] <daisy7897721> where
+2013-03-13 13:36:30 [INFO] <Nealbros> yes
+2013-03-13 13:36:35 [INFO] <daisy7897721> awww he will be fine
+2013-03-13 13:36:56 [INFO] <Nealbros> here dogy
+2013-03-13 13:36:58 [INFO] <daisy7897721> do u know what seaworld is
+2013-03-13 13:37:09 [INFO] <Nealbros> yes
+2013-03-13 13:37:16 [INFO] <daisy7897721> im going today
+2013-03-13 13:37:24 [INFO] <Nealbros> cool
+2013-03-13 13:37:38 [INFO] <Nealbros> where do u live
+2013-03-13 13:37:49 [INFO] <daisy7897721> in real life?
+2013-03-13 13:37:54 [INFO] <Nealbros> yes
+2013-03-13 13:37:58 [INFO] <daisy7897721> USA
+2013-03-13 13:38:05 [INFO] <Nealbros> where me to
+2013-03-13 13:38:11 [INFO] <daisy7897721> texas
+2013-03-13 13:38:17 [INFO] <Nealbros> me to
+2013-03-13 13:38:20 [INFO] <Nealbros> where
+2013-03-13 13:38:25 [INFO] <daisy7897721> awesome what city
+2013-03-13 13:38:34 [INFO] <Nealbros> austin
+2013-03-13 13:38:40 [INFO] <daisy7897721> ME TOO
+2013-03-13 13:38:47 [INFO] <daisy7897721> what school
+2013-03-13 13:38:51 [INFO] <Nealbros> casis
+2013-03-13 13:39:02 [INFO] <daisy7897721> me too wait what is ur name
+2013-03-13 13:39:08 [INFO] <Nealbros> hayden
+2013-03-13 13:39:21 [INFO] <daisy7897721> hmmm......... what grade
+2013-03-13 13:39:25 [INFO] <Nealbros> 4
+2013-03-13 13:39:30 [INFO] <daisy7897721> oh cool
+2013-03-13 13:39:33 [INFO] <Nealbros> u
+2013-03-13 13:39:39 [INFO] <daisy7897721> fifth
+2013-03-13 13:39:46 [INFO] <Nealbros> your name
+2013-03-13 13:39:57 [INFO] <daisy7897721> its in my username
+2013-03-13 13:40:16 [INFO] <Nealbros> oh with the numbers
+2013-03-13 13:40:22 [INFO] <daisy7897721> ya
+2013-03-13 13:40:50 [INFO] <daisy7897721> brb
+2013-03-13 13:41:18 [INFO] <Nealbros> whos ur teacher
+2013-03-13 13:42:00 [INFO] <Nealbros> whos ur teacher
+2013-03-13 13:42:22 [INFO] <daisy7897721> k im back
+2013-03-13 13:42:29 [INFO] <daisy7897721> i have mr.b
+2013-03-13 13:42:30 [INFO] <Nealbros> whos ur teacher
+2013-03-13 13:42:42 [INFO] <daisy7897721> u?
+2013-03-13 13:42:42 [INFO] <Nealbros> i have ms mathes
+2013-03-13 13:42:54 [INFO] <daisy7897721> cool i HAD mrs.mcpike
+2013-03-13 13:43:01 [INFO] <Nealbros> cool
+2013-03-13 13:43:06 [INFO] <Nealbros> follow me
+2013-03-13 13:43:26 [INFO] <daisy7897721> ok just a sec
+2013-03-13 13:43:29 [INFO] <Nealbros> ur dog
+2013-03-13 13:43:44 [INFO] <Nealbros> do u greeff
+2013-03-13 13:43:52 [INFO] <Nealbros> people
+2013-03-13 13:43:56 [INFO] <daisy7897721> huh? what is greef
+2013-03-13 13:44:12 [INFO] <Nealbros> to steal there stuff
+2013-03-13 13:44:16 [INFO] <daisy7897721> where is my dog
+2013-03-13 13:44:29 [INFO] <daisy7897721> sometimes not alot though
+2013-03-13 13:44:58 [INFO] <Nealbros> is that ur dog
+2013-03-13 13:45:03 [INFO] <daisy7897721> NOOOOO i accidentally killed my dog!!!
+2013-03-13 13:45:32 [INFO] <Nealbros> we will get a nother i have 60 bones
+2013-03-13 13:45:49 [INFO] <daisy7897721> wait but i have to do it can i have some
+2013-03-13 13:46:04 [INFO] <Nealbros> yes
+2013-03-13 13:46:13 [INFO] <Nealbros> follow me
+2013-03-13 13:46:18 [INFO] <daisy7897721> ok
+2013-03-13 13:47:04 [INFO] <daisy7897721> i didnt get any bones
+2013-03-13 13:47:58 [INFO] <daisy7897721> i got a dog where r u
+2013-03-13 13:48:08 [INFO] <Nealbros> looking
+2013-03-13 13:48:23 [INFO] <daisy7897721> where r u looking
+2013-03-13 13:48:39 [INFO] <Nealbros> nere a forest
+2013-03-13 13:49:09 [INFO] <daisy7897721> im in a forest
+2013-03-13 13:49:52 [INFO] <Nealbros> where
+2013-03-13 13:50:18 [INFO] <daisy7897721> gtg ttyl bye
+2013-03-13 13:50:24 [INFO] daisy7897721 lost connection: disconnect.quitting
+2013-03-13 14:06:33 [INFO] Nealbros lost connection: disconnect.quitting
+2013-03-13 16:16:41 [INFO] princesspritzi[/108.73.6.14:57976] logged in with entity id 2480552 at (-314.64094681382704, 65.0, 264.9776736746917)
+2013-03-13 16:27:45 [INFO] princesspritzi burned to death
+2013-03-13 16:47:33 [INFO] princesspritzi lost connection: disconnect.endOfStream
+2013-03-16 20:04:55 [INFO] Disconnecting Nealbros [/208.191.158.149:52986]: Outdated server!
+2013-03-17 00:43:09 [INFO] spitblast[/208.191.157.180:1794] logged in with entity id 2515729 at (-641.3036060534928, 59.0, 190.33008441513888)
+2013-03-17 00:43:23 [INFO] spitblast lost connection: disconnect.quitting
+2013-03-17 16:09:40 [INFO] bhudgeons[/12.130.123.240:24021] logged in with entity id 2518546 at (-567.8493051827995, 89.57129207811353, 490.49938982543006)
+2013-03-17 16:10:32 [INFO] [bhudgeons: Set the time to 0]
+2013-03-17 16:10:58 [INFO] [bhudgeons: Set the time to 0]
+2013-03-17 16:11:22 [INFO] bhudgeons lost connection: disconnect.endOfStream
