@@ -5973,3 +5973,185 @@
 2013-03-17 16:10:32 [INFO] [bhudgeons: Set the time to 0]
 2013-03-17 16:10:58 [INFO] [bhudgeons: Set the time to 0]
 2013-03-17 16:11:22 [INFO] bhudgeons lost connection: disconnect.endOfStream
+2013-03-20 21:15:05 [INFO] Starting minecraft server version 1.5
+2013-03-20 21:15:05 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-03-20 21:15:05 [INFO] Loading properties
+2013-03-20 21:15:05 [INFO] Default game type: SURVIVAL
+2013-03-20 21:15:05 [INFO] Generating keypair
+2013-03-20 21:15:06 [INFO] Starting Minecraft server on *:25565
+2013-03-20 21:15:06 [INFO] Preparing level "world"
+2013-03-20 21:15:06 [INFO] Preparing start region for level 0
+2013-03-20 21:15:07 [INFO] Preparing spawn area: 5%
+2013-03-20 21:15:08 [INFO] Preparing spawn area: 47%
+2013-03-20 21:15:10 [INFO] Preparing spawn area: 94%
+2013-03-20 21:15:10 [INFO] Done (3.618s)! For help, type "help" or "?"
+2013-03-20 21:15:15 [INFO] shudgeons[/173.174.108.132:32827] logged in with entity id 50 at (-75.20353028526918, 60.0, -103.81595319579976)
+2013-03-20 21:15:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-20 21:17:46 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-20 21:19:47 [INFO] shudgeons[/173.174.108.132:32792] logged in with entity id 7908 at (-392.37440341105, 78.323765876725, 274.73018367238063)
+2013-03-20 21:20:50 [INFO] [shudgeons: Banned player Nealbros]
+2013-03-20 21:22:17 [INFO] [shudgeons: Banned player princesspritzi]
+2013-03-20 21:23:15 [INFO] [shudgeons: Set the time to 0]
+2013-03-20 21:23:55 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-20 21:50:44 [INFO] shudgeons[/173.174.108.132:33713] logged in with entity id 14926 at (-330.5664098863203, 70.13107239923829, 381.6951760710436)
+2013-03-20 21:50:58 [INFO] [shudgeons: Set the time to 0]
+2013-03-20 21:51:09 [INFO] [shudgeons: Toggled downfall]
+2013-03-20 21:52:29 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-21 20:47:38 [INFO] shudgeons[/173.174.108.132:33185] logged in with entity id 24580 at (-642.4232396642099, 58.5, 189.7710785826847)
+2013-03-21 20:48:13 [INFO] [shudgeons: Set the time to 0]
+2013-03-21 20:51:39 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-22 01:08:02 [INFO] shudgeons[/173.174.108.132:33293] logged in with entity id 38106 at (-346.0477524987436, 92.84782605285828, 313.8188235751884)
+2013-03-22 01:08:32 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-22 20:17:03 [INFO] shudgeons[/173.174.108.132:33580] logged in with entity id 38995 at (-363.8947620588917, 64.0, 376.447416377806)
+2013-03-22 20:32:29 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-22 20:51:08 [INFO] shudgeons[/173.174.108.132:32826] logged in with entity id 73987 at (-391.7692930749326, 64.0, 275.29411886245384)
+2013-03-22 20:54:01 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-22 21:57:02 [INFO] Disconnecting wadeldo [/216.80.147.149:34579]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-22 21:57:16 [INFO] Disconnecting wadeldo [/216.80.147.149:39845]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-23 00:30:58 [INFO] somethingstupid9[/24.155.177.226:49929] logged in with entity id 77771 at (-474.2371623561145, 65.9140723453182, 212.59788077769423)
+2013-03-23 00:31:07 [INFO] somethingstupid9 lost connection: disconnect.quitting
+2013-03-23 13:52:19 [INFO] shudgeons[/173.174.108.132:33761] logged in with entity id 78285 at (-410.7946061520292, 63.0, 479.699999988079)
+2013-03-23 14:07:27 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-25 01:02:17 [INFO] shudgeons[/173.174.108.132:32948] logged in with entity id 106602 at (-436.633898178965, 64.0, 369.97398770603)
+2013-03-25 01:03:35 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-25 22:37:53 [INFO] shudgeons[/173.174.108.132:33132] logged in with entity id 107763 at (-421.23984958254584, 67.23936374880415, 364.9969727140528)
+2013-03-25 22:47:05 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-26 21:42:53 [INFO] Disconnecting princesspritzi [/108.73.6.14:57701]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-26 21:43:38 [INFO] Disconnecting princesspritzi [/108.73.6.14:57714]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-26 23:17:05 [INFO] Mason32005[/76.253.76.197:50696] logged in with entity id 142098 at (8.5, 56.0, -3.5)
+2013-03-26 23:20:09 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-27 00:02:09 [INFO] azwii[/173.174.124.2:57619] logged in with entity id 145513 at (-567.2494484265899, 117.36689980390274, 132.5145636511911)
+2013-03-27 00:02:28 [INFO] azwii lost connection: disconnect.quitting
+2013-03-27 20:18:32 [INFO] shudgeons[/173.174.108.132:33486] logged in with entity id 147129 at (-606.8338018808556, 63.0, 411.1908485218969)
+2013-03-27 20:19:00 [INFO] [shudgeons: Set the time to 0]
+2013-03-27 20:40:38 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-27 23:53:42 [INFO] Disconnecting princesspritzi [/108.73.6.14:60791]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-28 17:47:33 [INFO] ZEUS9173[/24.155.245.210:57409] logged in with entity id 167098 at (-472.435916824364, 85.91113018307112, 423.09046544707144)
+2013-03-28 17:49:42 [INFO] ZEUS9173 lost connection: disconnect.quitting
+2013-03-28 20:00:54 [INFO] Mason32005[/76.253.76.197:52680] logged in with entity id 169320 at (-13.53595044201156, 64.0, -18.802266546212035)
+2013-03-28 20:06:42 [INFO] Disconnecting Nealbros [/208.191.158.149:52412]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-28 20:06:45 [INFO] shudgeons[/173.174.108.132:32831] logged in with entity id 177352 at (-403.5193786768749, 80.2382679012922, 138.09405084857178)
+2013-03-28 20:06:53 [INFO] Disconnecting Nealbros [/208.191.158.149:52427]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-28 20:07:56 [INFO] Disconnecting Nealbros [/208.191.158.149:52444]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-28 20:08:13 [INFO] Disconnecting Nealbros [/208.191.158.149:52460]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-28 20:08:23 [INFO] Disconnecting Nealbros [/208.191.158.149:52490]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-28 20:13:37 [INFO] [shudgeons: Set the time to 0]
+2013-03-28 20:13:43 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-28 20:51:20 [INFO] Mason32005 fell out of the world
+2013-03-28 21:06:02 [INFO] Mason32005 was slain by Zombie
+2013-03-28 21:06:03 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-28 21:41:18 [INFO] Disconnecting Nealbros [/208.191.158.149:56082]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-28 23:03:05 [INFO] Mason32005[/76.253.76.197:52876] logged in with entity id 383374 at (-209.02671935021712, 63.0, 75.13686494941561)
+2013-03-28 23:15:50 [INFO] Mason32005 drowned
+2013-03-28 23:23:55 [INFO] Mason32005 lost connection: disconnect.genericReason
+2013-03-28 23:50:17 [INFO] Mason32005[/76.253.76.197:52902] logged in with entity id 405321 at (-194.7687323763742, 64.0, 87.72547369503583)
+2013-03-28 23:51:33 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-29 00:46:09 [INFO] Mason32005[/76.253.76.197:53054] logged in with entity id 406217 at (-225.46435563976718, 63.0, 120.49229824941719)
+2013-03-29 00:46:23 [INFO] Disconnecting Mason32005 [/76.253.76.197:53043]: Took too long to log in
+2013-03-29 00:48:45 [INFO] Mason32005 was slain by Zombie
+2013-03-29 00:54:58 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-29 00:55:26 [INFO] Mason32005[/76.253.76.197:53079] logged in with entity id 415541 at (0.4198991609045501, 60.0, -8.80629495438441)
+2013-03-29 00:56:34 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-29 01:45:56 [INFO] shudgeons[/173.174.108.132:33681] logged in with entity id 416996 at (-457.41080550982065, 76.97995649901578, 436.54860590452034)
+2013-03-29 01:49:18 [INFO] [shudgeons: Set the time to 0]
+2013-03-29 01:50:21 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-29 02:14:31 [INFO] shudgeons[/173.174.108.132:33032] logged in with entity id 422338 at (-497.0488436723023, 89.86796596811506, 198.30234725396403)
+2013-03-29 02:17:06 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-29 13:46:25 [INFO] Mason32005[/76.253.76.197:53427] logged in with entity id 427218 at (-24.794255632452455, 64.0, 54.373641566889034)
+2013-03-29 13:48:52 [INFO] Mason32005 drowned
+2013-03-29 13:53:31 [INFO] Disconnecting Nealbros [/208.191.158.149:58450]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-29 13:54:21 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-29 15:18:34 [INFO] shudgeons[/173.174.108.132:33431] logged in with entity id 437078 at (-332.78328290396513, 64.0, 204.08058926367272)
+2013-03-29 15:20:13 [INFO] [shudgeons: Set the time to 0]
+2013-03-29 15:25:30 [INFO] fhudgeons[/173.174.108.132:33756] logged in with entity id 449731 at (-256.3495285196159, 64.0, 555.3224901671887)
+2013-03-29 15:28:48 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-29 15:29:42 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-03-29 16:07:43 [INFO] Mason32005[/76.253.76.197:53557] logged in with entity id 460828 at (-23.913576635142455, 64.0, 19.489672206194342)
+2013-03-29 16:10:24 [INFO] Mason32005 drowned
+2013-03-29 16:25:19 [INFO] maxie5man[/65.111.101.222:42123] logged in with entity id 477640 at (-426.30000001192093, 60.0, 394.1503597981176)
+2013-03-29 16:26:13 [INFO] [maxie5man: Toggled downfall]
+2013-03-29 16:32:01 [INFO] <Mason32005> iuygb
+2013-03-29 16:35:24 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-29 16:55:08 [INFO] maxie5man lost connection: disconnect.quitting
+2013-03-29 19:32:42 [INFO] Disconnecting Nealbros [/208.191.158.149:60730]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-29 21:17:38 [INFO] Mason32005[/76.253.76.197:53699] logged in with entity id 566602 at (252.60224578363955, 63.0, -175.87764138664187)
+2013-03-29 21:30:23 [INFO] azwii[/208.191.157.164:50201] logged in with entity id 590833 at (-593.7034810069468, 108.00197750022703, 126.07557262173557)
+2013-03-29 21:30:49 [INFO] [azwii: Teleported azwii to Mason32005]
+2013-03-29 21:31:09 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-29 21:31:12 [INFO] azwii lost connection: disconnect.quitting
+2013-03-29 21:47:07 [INFO] azwii[/208.191.157.164:50429] logged in with entity id 592113 at (753.3545250141271, 84.37498103331245, -549.2786386616535)
+2013-03-29 21:47:37 [INFO] azwii lost connection: disconnect.quitting
+2013-03-29 21:49:38 [INFO] Disconnecting Death_Cookie [/208.191.157.164:50445]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-29 21:50:36 [INFO] azwii[/208.191.157.164:50528] logged in with entity id 593471 at (716.6518389034566, 82.83359807017675, -463.6941601387601)
+2013-03-29 21:50:48 [INFO] [azwii: Unbanned player death_cookie]
+2013-03-29 21:50:51 [INFO] azwii lost connection: disconnect.quitting
+2013-03-30 02:39:20 [INFO] Disconnecting princesspritzi [/108.73.6.14:64631]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-30 13:12:43 [INFO] shudgeons[/173.174.108.132:32926] logged in with entity id 593724 at (-352.9523010523853, 70.86474863072084, 373.8356776553934)
+2013-03-30 13:15:28 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 13:23:58 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-30 14:51:13 [INFO] shudgeons[/173.174.108.132:33262] logged in with entity id 614580 at (-546.9026348305583, 65.94179360778625, 439.0362534545995)
+2013-03-30 14:51:32 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 14:52:51 [INFO] Mason32005[/76.253.76.197:55126] logged in with entity id 617501 at (750.4566669805922, 73.0, -543.1730716514728)
+2013-03-30 14:52:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-30 14:53:08 [INFO] <shudgeons> who r u
+2013-03-30 14:53:38 [INFO] <shudgeons> who are you
+2013-03-30 14:55:03 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-30 14:55:14 [INFO] shudgeons[/173.174.108.132:33228] logged in with entity id 628607 at (-484.0382559723971, 63.47279599099629, 268.77899143870115)
+2013-03-30 14:55:25 [INFO] bhudgeons[/173.174.108.132:33335] logged in with entity id 629322 at (-399.65516675852115, 63.0, 359.5963539693961)
+2013-03-30 14:55:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-30 14:56:43 [INFO] <bhudgeons> hi Mason
+2013-03-30 14:58:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-30 14:58:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-30 14:59:05 [INFO] <Mason32005> Hello bhudgeons
+2013-03-30 14:59:20 [INFO] <bhudgeons> do we know you?
+2013-03-30 14:59:24 [INFO] <shudgeons> who are you
+2013-03-30 15:01:05 [INFO] [shudgeons: Teleported shudgeons to Mason32005]
+2013-03-30 15:01:21 [INFO] <Mason32005> No.And are you guys gonna kill me?
+2013-03-30 15:01:29 [INFO] <shudgeons> no
+2013-03-30 15:01:34 [INFO] [bhudgeons: Teleported bhudgeons to Mason32005]
+2013-03-30 15:01:53 [INFO] [bhudgeons: Set the time to 0]
+2013-03-30 15:02:34 [INFO] <shudgeons> are you an op
+2013-03-30 15:02:56 [INFO] <Mason32005> Whats a op?
+2013-03-30 15:03:45 [INFO] [bhudgeons: Teleported bhudgeons to shudgeons]
+2013-03-30 15:04:16 [INFO] <shudgeons> whats your real name
+2013-03-30 15:04:45 [INFO] <shudgeons> yes
+2013-03-30 15:05:44 [INFO] <Mason32005> HEY  SHUDGEONS,YOURE RIGHT BESIDE ME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2013-03-30 15:06:10 [INFO] <bhudgeons> have fun Mason32005
+2013-03-30 15:06:11 [INFO] <Mason32005> Thanks
+2013-03-30 15:06:25 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-03-30 15:06:43 [INFO] <shudgeons> what is your real name
+2013-03-30 15:07:03 [INFO] <Mason32005> MASON TY NGUYEN
+2013-03-30 15:08:02 [INFO] <shudgeons> are you miles's brother
+2013-03-30 15:08:22 [INFO] <Mason32005> yes
+2013-03-30 15:08:42 [INFO] <shudgeons> welcome on the server
+2013-03-30 15:09:37 [INFO] <Mason32005> can i  come in your house?
+2013-03-30 15:10:06 [INFO] <shudgeons> this is your house
+2013-03-30 15:10:35 [INFO] <shudgeons> good bye
+2013-03-30 15:10:38 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-30 15:35:38 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-30 15:36:18 [INFO] Mason32005[/76.253.76.197:55304] logged in with entity id 684190 at (778.6999999880791, 80.0, -708.4232198280068)
+2013-03-30 15:39:43 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-30 16:19:29 [INFO] bhudgeons[/173.174.108.132:32983] logged in with entity id 686672 at (785.5111595962244, 85.50117958907877, -683.4579273080424)
+2013-03-30 16:19:44 [INFO] shudgeons[/173.174.108.132:32966] logged in with entity id 687028 at (777.6510495813368, 80.0, -698.6999999880791)
+2013-03-30 16:21:43 [INFO] [bhudgeons: Teleported bhudgeons to shudgeons]
+2013-03-30 16:25:47 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 16:35:40 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 16:36:23 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-03-30 16:41:05 [INFO] [shudgeons: Toggled downfall]
+2013-03-30 16:46:02 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 16:49:48 [INFO] shudgeons lost connection: disconnect.quitting
