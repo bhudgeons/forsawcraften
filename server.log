@@ -6155,3 +6155,313 @@ Reason: Banned by an operator.
 2013-03-30 16:41:05 [INFO] [shudgeons: Toggled downfall]
 2013-03-30 16:46:02 [INFO] [shudgeons: Set the time to 0]
 2013-03-30 16:49:48 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-30 18:11:03 [INFO] Starting minecraft server version 1.5
+2013-03-30 18:11:03 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-03-30 18:11:03 [INFO] Loading properties
+2013-03-30 18:11:03 [INFO] Default game type: SURVIVAL
+2013-03-30 18:11:03 [INFO] Generating keypair
+2013-03-30 18:11:04 [INFO] Starting Minecraft server on *:25565
+2013-03-30 18:11:05 [INFO] Preparing level "world"
+2013-03-30 18:11:05 [INFO] Preparing start region for level 0
+2013-03-30 18:11:06 [INFO] Preparing spawn area: 8%
+2013-03-30 18:11:07 [INFO] Preparing spawn area: 48%
+2013-03-30 18:11:08 [INFO] Preparing spawn area: 90%
+2013-03-30 18:11:09 [INFO] Done (3.762s)! For help, type "help" or "?"
+2013-03-30 18:11:15 [INFO] shudgeons[/173.174.108.132:33781] logged in with entity id 35 at (-513.6207127633745, 80.0, 218.59736151544166)
+2013-03-30 18:11:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-30 18:17:42 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 18:27:51 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 18:37:50 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 18:47:57 [INFO] [shudgeons: Set the time to 0]
+2013-03-30 18:51:57 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-30 21:44:42 [INFO] Hollister0730[/173.174.112.7:57681] logged in with entity id 28795 at (-2.5, 56.0, 6.5)
+2013-03-30 21:46:14 [INFO] Hollister0730 was slain by Spider
+2013-03-30 22:01:57 [INFO] Hollister0730 was blown up by Creeper
+2013-03-30 22:05:57 [INFO] Hollister0730 was shot by Skeleton
+2013-03-30 22:06:00 [INFO] Hollister0730 lost connection: disconnect.quitting
+2013-03-30 22:06:05 [INFO] Hollister0730[/173.174.112.7:57738] logged in with entity id 59325 at (82.37381284049106, 30.0, -8.300000011920941)
+2013-03-30 22:09:14 [INFO] Hollister0730 was slain by Zombie Pigman
+2013-03-30 22:29:35 [INFO] Hollister0730 lost connection: disconnect.quitting
+2013-03-31 01:13:02 [INFO] shudgeons[/173.174.108.132:33534] logged in with entity id 83948 at (-514.3265921006597, 84.51537871304721, 221.0335223620881)
+2013-03-31 01:18:10 [INFO] [shudgeons: Set the time to 0]
+2013-03-31 01:21:36 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-31 01:39:05 [INFO] Mason32005[/76.253.76.197:57365] logged in with entity id 96611 at (763.1832675758428, 80.0, -705.6917757986988)
+2013-03-31 01:41:11 [INFO] <Mason32005> AWEAWEUAWODUA;OWFYUA;OW8DY;AWOYAW;ODEYO\
+2013-03-31 01:43:00 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-31 13:19:23 [INFO] shudgeons[/173.174.108.132:33398] logged in with entity id 99485 at (-462.67132694541465, 63.015625, 330.22130455725375)
+2013-03-31 13:31:46 [INFO] [shudgeons: Set the time to 0]
+2013-03-31 13:33:17 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-31 13:59:34 [INFO] shudgeons[/173.174.108.132:33073] logged in with entity id 110741 at (-361.38455022484175, 30.0, 463.5244776463044)
+2013-03-31 14:00:19 [INFO] [shudgeons: Set the time to 0]
+2013-03-31 14:00:30 [INFO] [shudgeons: Toggled downfall]
+2013-03-31 14:01:01 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-31 16:25:28 [INFO] Mason32005[/76.253.76.197:58937] logged in with entity id 111869 at (762.3384258859346, 80.0, -705.2336490148913)
+2013-03-31 16:27:20 [INFO] <Mason32005> gam
+2013-03-31 16:33:01 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-03-31 19:40:51 [INFO] shudgeons[/173.174.108.132:36535] logged in with entity id 118167 at (-383.9033196030505, 66.76763213434951, 399.5074782088)
+2013-03-31 19:44:52 [INFO] bhudgeons[/173.174.108.132:34349] logged in with entity id 121349 at (-531.3728820572596, 90.86537708290898, 224.9037417557852)
+2013-03-31 19:48:00 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-03-31 19:48:04 [INFO] bhudgeons[/173.174.108.132:34729] logged in with entity id 123083 at (-514.1036982061745, 82.48661211080139, 208.07755560132458)
+2013-03-31 19:56:18 [INFO] [shudgeons: Set the time to 0]
+2013-03-31 19:57:55 [INFO] shudgeons lost connection: disconnect.quitting
+2013-03-31 19:58:03 [INFO] Hollister0730[/173.174.112.7:57942] logged in with entity id 127206 at (42.515064879594696, 3.0, -34.69999998807906)
+2013-03-31 19:58:25 [INFO] <bhudgeons> hi Hollister0730
+2013-03-31 19:58:42 [INFO] [bhudgeons: Teleported bhudgeons to Hollister0730]
+2013-03-31 19:59:16 [INFO] [bhudgeons: Teleported bhudgeons to Hollister0730]
+2013-03-31 19:59:34 [INFO] <bhudgeons> hi
+2013-03-31 20:00:02 [INFO] [bhudgeons: Teleported bhudgeons to Hollister0730]
+2013-03-31 20:00:22 [INFO] <bhudgeons> do we know you?
+2013-03-31 20:01:08 [INFO] <bhudgeons> who are you?
+2013-03-31 20:01:33 [INFO] Hollister0730 was slain by bhudgeons
+2013-03-31 20:02:06 [INFO] <bhudgeons> Hollister0730 do we know you or not?
+2013-03-31 20:02:26 [INFO] [bhudgeons: Teleported bhudgeons to Hollister0730]
+2013-03-31 20:03:01 [INFO] [bhudgeons: Banned player Hollister0730]
+2013-03-31 20:03:09 [INFO] Disconnecting Hollister0730 [/173.174.112.7:57964]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-31 20:03:53 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-03-31 20:05:50 [INFO] Disconnecting Hollister0730 [/173.174.112.7:57969]: You are banned from this server!
+Reason: Banned by an operator.
+2013-03-31 21:34:28 [INFO] shudgeons[/173.174.108.132:35567] logged in with entity id 135217 at (-456.91858209160733, 71.79350352405685, 228.90315063591598)
+2013-03-31 21:41:33 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-01 19:57:51 [INFO] shudgeons[/173.174.108.132:33147] logged in with entity id 147926 at (-460.8632946094523, 67.09396507968741, 176.69999998807899)
+2013-04-01 19:59:03 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-01 20:45:37 [INFO] Mason32005[/76.253.76.197:64687] logged in with entity id 151957 at (310.9698376287522, 60.0, -559.6869106742231)
+2013-04-01 20:47:03 [INFO] Mason32005 drowned
+2013-04-01 20:48:52 [INFO] Mason32005 fell from a high place
+2013-04-01 20:51:33 [INFO] Mason32005 fell from a high place
+2013-04-01 20:57:21 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-01 22:37:42 [INFO] shudgeons[/173.174.108.132:35474] logged in with entity id 160481 at (-433.05647572869714, 87.47953815475749, 460.8823963900134)
+2013-04-01 22:39:43 [INFO] [shudgeons: Set the time to 0]
+2013-04-01 22:42:25 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-02 19:59:20 [INFO] shudgeons[/173.174.108.132:33289] logged in with entity id 170632 at (-600.6999999880791, 63.0, 411.40336315622994)
+2013-04-02 20:05:23 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-03 00:07:52 [INFO] Disconnecting Nealbros [/208.191.158.149:54256]: You are banned from this server!
+Reason: Banned by an operator.
+2013-04-04 23:45:58 [INFO] Disconnecting Nealbros [/208.191.158.149:62265]: You are banned from this server!
+Reason: Banned by an operator.
+2013-04-05 00:56:41 [INFO] Disconnecting princesspritzi [/108.73.6.14:56826]: You are banned from this server!
+Reason: Banned by an operator.
+2013-04-05 02:03:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-05 20:09:55 [INFO] shudgeons[/173.174.108.132:33542] logged in with entity id 178492 at (-573.7320024391033, 70.39857814436996, 404.9209048922982)
+2013-04-05 20:11:01 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-05 23:22:15 [INFO] Mason32005[/76.253.76.197:63253] logged in with entity id 179423 at (773.9129099355765, 80.0, -704.6999999880791)
+2013-04-05 23:27:28 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-06 00:18:31 [INFO] spitblast[/208.191.157.180:1347] logged in with entity id 182213 at (-603.6502497560637, 85.09375714970986, 220.48522572549533)
+2013-04-06 00:20:33 [INFO] spitblast lost connection: disconnect.quitting
+2013-04-06 17:43:30 [INFO] Mason32005[/76.253.76.197:65276] logged in with entity id 186129 at (777.1996615732437, 80.0, -702.6872403202835)
+2013-04-06 17:43:47 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-06 20:54:26 [INFO] cheeseinparis[/172.1.77.66:52785] logged in with entity id 186345 at (-3.5, 58.0, -7.5)
+2013-04-06 21:01:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-06 21:02:29 [INFO] cheeseinparis was slain by Zombie Pigman
+2013-04-06 21:02:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-06 21:04:20 [INFO] cheeseinparis was blown up by Creeper
+2013-04-06 21:06:04 [INFO] cheeseinparis lost connection: disconnect.genericReason
+2013-04-06 23:11:54 [INFO] shudgeons[/173.174.108.132:32882] logged in with entity id 197468 at (-565.9250000119209, 65.32726752928374, 430.5005689175213)
+2013-04-06 23:13:28 [INFO] [shudgeons: Set the time to 0]
+2013-04-06 23:17:47 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-07 15:45:53 [INFO] Disconnecting Nealbros [/208.191.158.149:62780]: You are banned from this server!
+Reason: Banned by an operator.
+2013-04-07 18:50:49 [INFO] azwii[/173.174.124.2:49267] logged in with entity id 201695 at (715.9136321310664, 82.83359807017675, -461.88132593278164)
+2013-04-07 18:52:41 [INFO] azwii lost connection: disconnect.quitting
+2013-04-08 16:13:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-08 21:24:17 [INFO] shudgeons [/173.174.108.132:33472] lost connection
+2013-04-11 00:50:03 [INFO] cheeseinparis[/172.1.77.66:56336] logged in with entity id 203132 at (11.200747822230454, 62.0, 20.315167114524716)
+2013-04-11 01:01:27 [INFO] cheeseinparis was doomed to fall by Zombie Pigman
+2013-04-11 01:03:32 [INFO] cheeseinparis fell from a high place
+2013-04-11 01:03:41 [INFO] cheeseinparis lost connection: disconnect.genericReason
+2013-04-11 21:07:30 [INFO] cheeseinparis[/172.1.77.66:57049] logged in with entity id 215886 at (-3.5, 72.0, -2.5)
+2013-04-11 21:09:44 [INFO] cheeseinparis lost connection: disconnect.quitting
+2013-04-16 00:06:24 [INFO] Mason32005[/76.253.76.197:58925] logged in with entity id 217129 at (777.426320702545, 80.0, -702.8801582180321)
+2013-04-16 00:08:31 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-16 00:10:07 [INFO] Mason32005[/76.253.76.197:58943] logged in with entity id 217916 at (778.2884918914574, 80.0, -701.7691394673816)
+2013-04-16 00:11:09 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-16 20:49:34 [INFO] azwii[/173.174.124.2:57205] logged in with entity id 218657 at (715.6999999880791, 95.11435596545442, -480.30000001192093)
+2013-04-16 20:58:35 [INFO] shudgeons[/173.174.108.132:33080] logged in with entity id 227210 at (-433.30000001192104, 83.5379326526359, 184.06440870650104)
+2013-04-16 20:59:19 [INFO] <azwii> hi
+2013-04-16 20:59:31 [INFO] <shudgeons> hi
+2013-04-16 20:59:37 [INFO] [azwii: Teleported azwii to shudgeons]
+2013-04-16 20:59:51 [INFO] <azwii> will is on as me
+2013-04-16 21:00:22 [INFO] <shudgeons> what the hell are we going to buld
+2013-04-16 21:00:36 [INFO] <azwii> mmh
+2013-04-16 21:00:58 [INFO] fhudgeons[/173.174.108.132:33599] logged in with entity id 229743 at (-262.17188548938964, 73.23935609618474, 508.64802838818554)
+2013-04-16 21:01:06 [INFO] <shudgeons> shit ford is joining
+2013-04-16 21:03:13 [INFO] [shudgeons: Set the time to 0]
+2013-04-16 21:03:47 [INFO] <azwii> go on survival
+2013-04-16 21:04:03 [INFO] <shudgeons> why
+2013-04-16 21:05:56 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-04-16 21:06:15 [INFO] [shudgeons: Cleared the inventory of azwii, removing 494 items]
+2013-04-16 21:06:34 [INFO] <shudgeons> hehehe
+2013-04-16 21:06:45 [INFO] <shudgeons> good bye
+2013-04-16 21:06:51 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-16 21:06:51 [INFO] <azwii> grrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2013-04-16 21:07:17 [INFO] azwii lost connection: disconnect.quitting
+2013-04-17 03:10:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-20 21:54:01 [INFO] shudgeons[/173.174.108.132:32992] logged in with entity id 235494 at (-596.1306482894379, 73.50284378062747, 196.1224862679024)
+2013-04-20 21:54:34 [INFO] [shudgeons: Set the time to 0]
+2013-04-20 21:54:58 [INFO] [shudgeons: Toggled downfall]
+2013-04-20 21:56:03 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-20 23:30:26 [INFO] Disconnecting Nealbros [/208.191.158.149:60891]: You are banned from this server!
+Reason: Banned by an operator.
+2013-04-21 13:00:34 [INFO] Mason32005[/76.253.76.197:50568] logged in with entity id 238475 at (778.2270159602033, 80.0, -702.0467178714028)
+2013-04-21 13:02:01 [INFO] fhudgeons[/173.174.108.132:33157] logged in with entity id 239412 at (-460.6313605846372, 63.0, 229.53405960965935)
+2013-04-21 13:02:23 [INFO] <Mason32005> hy ford
+2013-04-21 13:03:55 [INFO] <Mason32005> where are you?
+2013-04-21 13:05:03 [INFO] <Mason32005> wwwuhwiuyhwhwkjgwjjgb
+2013-04-21 13:05:19 [INFO] <fhudgeons> i am at the diamond block house
+2013-04-21 13:05:54 [INFO] <Mason32005> i am in the jungle
+2013-04-21 13:06:55 [INFO] <fhudgeons> what jungle?
+2013-04-21 13:07:47 [INFO] <Mason32005> the jungle that your brother gave us
+2013-04-21 13:09:07 [INFO] <Mason32005> sorry trouble typing
+2013-04-21 13:11:44 [INFO] <Mason32005> i mean the jungle that has the house that your brother gave us
+2013-04-21 13:12:32 [INFO] <fhudgeons> i dont know where your house is
+2013-04-21 13:13:21 [INFO] <Mason32005> ask sowyer
+2013-04-21 13:14:49 [INFO] <fhudgeons> but saywer is asleep
+2013-04-21 13:17:54 [INFO] <Mason32005> i need 64 gunpowder, rose di, and paper
+2013-04-21 13:23:43 [INFO] <fhudgeons> mason
+2013-04-21 13:24:18 [INFO] <Mason32005> no, max
+2013-04-21 13:25:27 [INFO] <fhudgeons> i have  that stuff
+2013-04-21 13:26:07 [INFO] <fhudgeons> i'm at the diamond block house.  come pick it up
+2013-04-21 13:27:15 [INFO] <Mason32005> im gonna yose it to make fireworks
+2013-04-21 13:27:41 [INFO] <fhudgeons> cool
+2013-04-21 13:28:12 [INFO] <Mason32005> so you can find me
+2013-04-21 13:28:46 [INFO] <Mason32005> and its night
+2013-04-21 13:38:06 [INFO] <Mason32005> im going to look for you
+2013-04-21 13:38:46 [INFO] <fhudgeons> im gonna shoot off fireworks. you come to them
+2013-04-21 13:39:17 [INFO] <Mason32005> fir!!!!!!!!!!!!!!!!
+2013-04-21 13:43:15 [INFO] <fhudgeons> hahahahahahahah
+2013-04-21 13:44:21 [INFO] <fhudgeons> max
+2013-04-21 13:47:12 [INFO] <fhudgeons> come to the beacon
+2013-04-21 13:49:16 [INFO] <Mason32005> im underground hiding from an enderman
+2013-04-21 13:50:10 [INFO] <fhudgeons> where?  i will kill it for you
+2013-04-21 13:50:44 [INFO] <Mason32005> in the feald
+2013-04-21 13:56:35 [INFO] <fhudgeons> max!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2013-04-21 13:59:21 [INFO] <fhudgeons> i looked in the field  i can't find you.
+2013-04-21 13:59:53 [INFO] [fhudgeons: Teleported fhudgeons to Mason32005]
+2013-04-21 14:02:07 [INFO] <fhudgeons> max
+2013-04-21 14:02:43 [INFO] shudgeons[/173.174.108.132:33047] logged in with entity id 337762 at (-383.01273461439126, 68.4636551916648, 194.69881610408623)
+2013-04-21 14:02:53 [INFO] <fhudgeons> are you still playing?
+2013-04-21 14:04:08 [INFO] <fhudgeons> max!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2013-04-21 14:04:50 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-04-21 14:04:56 [INFO] fhudgeons[/173.174.108.132:33071] logged in with entity id 344818 at (672.3000000119209, 62.49064318920142, -583.7578766711566)
+2013-04-21 14:05:43 [INFO] shudgeons lost connection: disconnect.quitting
+2013-04-21 14:06:54 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-04-21 14:07:33 [INFO] <Mason32005> yes
+2013-04-21 14:11:39 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-21 18:18:17 [INFO] Mason32005[/76.253.76.197:51551] logged in with entity id 349994 at (654.1254754874113, 65.0, -347.4412660255075)
+2013-04-21 18:34:35 [INFO] Mason32005 drowned
+2013-04-21 18:37:01 [INFO] <Mason32005> ttttt
+2013-04-21 19:02:38 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-22 13:10:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-22 20:02:53 [INFO] Mason32005[/76.253.76.197:53316] logged in with entity id 383398 at (776.474638118607, 80.0, -703.1319152610488)
+2013-04-22 20:24:37 [INFO] <Mason32005> help!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2013-04-22 20:25:29 [INFO] Mason32005 lost connection: disconnect.genericReason
+2013-04-23 22:11:53 [INFO] Mason32005[/76.253.76.197:51558] logged in with entity id 406217 at (200.30000001192101, 61.0, -540.3000000119209)
+2013-04-23 22:30:29 [INFO] Mason32005 burned to death
+2013-04-23 22:30:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-23 22:38:58 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-24 21:57:17 [INFO] Mason32005[/76.253.76.197:59221] logged in with entity id 435070 at (680.6999999880791, 61.0, 9.300000011920925)
+2013-04-24 22:00:25 [INFO] Mason32005 lost connection: disconnect.endOfStream
+2013-04-26 11:10:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-26 21:56:57 [INFO] azwii[/173.174.124.2:49913] logged in with entity id 436603 at (-464.46428028647165, 64.5, 227.35915636432134)
+2013-04-26 22:00:29 [INFO] azwii lost connection: disconnect.quitting
+2013-04-26 22:42:20 [INFO] fhudgeons[/173.174.108.132:33557] logged in with entity id 438779 at (672.7271612150313, 60.0, -585.8574755422112)
+2013-04-26 22:45:38 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-04-27 01:20:28 [INFO] Reply_Hazy[/173.174.98.152:50991] logged in with entity id 446306 at (1.5, 75.0, 3.5)
+2013-04-27 01:22:46 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-04-27 13:06:35 [INFO] Reply_Hazy[/173.174.98.152:52326] logged in with entity id 448630 at (7.525355825052626, 73.0, -26.753358733059006)
+2013-04-27 13:23:31 [INFO] Reply_Hazy was shot by Skeleton
+2013-04-27 13:29:08 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-04-27 13:30:32 [INFO] Reply_Hazy[/173.174.98.152:52375] logged in with entity id 462747 at (134.53674239482766, 64.0, -72.49342518066237)
+2013-04-27 13:32:54 [INFO] azwii[/173.174.124.2:49633] logged in with entity id 464561 at (-509.7638305521788, 80.0, 211.93628169657734)
+2013-04-27 13:33:31 [INFO] [azwii: Opped Reply_Hazy]
+2013-04-27 13:33:36 [INFO] [Reply_Hazy: Set own game mode to Creative Mode]
+2013-04-27 13:33:42 [INFO] [Reply_Hazy: Teleported Reply_Hazy to azwii]
+2013-04-27 13:34:26 [INFO] [azwii: Teleported azwii to Reply_Hazy]
+2013-04-27 13:35:32 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:37 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:37 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:37 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:35:37 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-04-27 13:36:39 [INFO] [Reply_Hazy: Teleported Reply_Hazy to azwii]
+2013-04-27 13:38:43 [INFO] [Reply_Hazy: Teleported Reply_Hazy to azwii]
+2013-04-27 13:39:13 [INFO] [Reply_Hazy: Given Command Block (ID 137) * 1 to Reply_Hazy]
+2013-04-27 13:47:24 [INFO] azwii lost connection: disconnect.quitting
+2013-04-27 13:47:42 [INFO] azwii[/173.174.124.2:49652] logged in with entity id 481559 at (-406.08854942804567, 67.0, 266.2805228873986)
+2013-04-27 13:48:35 [INFO] [Reply_Hazy: Kicked azwii from the game]
+2013-04-27 13:48:43 [INFO] azwii[/173.174.124.2:49660] logged in with entity id 482701 at (-412.30000001192093, 63.015625, 302.75768416078336)
+2013-04-27 13:52:46 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-04-27 13:53:58 [INFO] Reply_Hazy[/173.174.98.152:52708] logged in with entity id 490237 at (-507.40482147944743, 63.680061465046236, 242.21122114030783)
+2013-04-27 13:57:55 [INFO] [Reply_Hazy: Teleported Reply_Hazy to azwii]
+2013-04-27 13:59:29 [INFO] [Reply_Hazy: Set the time to 0]
+2013-04-27 14:01:06 [INFO] [Reply_Hazy: Teleported azwii to Reply_Hazy]
+2013-04-27 14:02:11 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-04-27 14:03:01 [INFO] azwii lost connection: disconnect.genericReason
+2013-04-27 14:16:43 [INFO] Reply_Hazy[/173.174.98.152:52857] logged in with entity id 500958 at (-499.095938638688, 69.40635224175773, 274.84624128207986)
+2013-04-27 14:18:03 [INFO] Reply_Hazy lost connection: disconnect.genericReason
+2013-04-27 17:21:47 [INFO] Shadow__Hunter[/173.174.98.152:53106] logged in with entity id 501827 at (-1.5, 74.0, -1.5)
+2013-04-27 17:22:28 [INFO] Reply_Hazy[/173.174.98.152:53121] logged in with entity id 503392 at (-499.095938638688, 69.40635224175773, 274.84624128207986)
+2013-04-27 17:22:51 [INFO] [Reply_Hazy: Opped Shadow_Hunter]
+2013-04-27 17:22:59 [INFO] [Reply_Hazy: Opped Shadow__Hunter]
+2013-04-27 17:23:05 [INFO] [Reply_Hazy: Kicked Shadow__Hunter from the game]
+2013-04-27 17:23:09 [INFO] Reply_Hazy lost connection: disconnect.genericReason
+2013-04-27 17:23:15 [INFO] Shadow__Hunter[/173.174.98.152:53129] logged in with entity id 504533 at (-1.5, 74.0, -1.5)
+2013-04-27 17:23:21 [INFO] [Shadow__Hunter: Set own game mode to Creative Mode]
+2013-04-27 17:31:08 [INFO] Reply_Hazy[/173.174.98.152:53144] logged in with entity id 515758 at (-500.87307021676173, 69.40635224175773, 269.425281959684)
+2013-04-27 17:31:46 [INFO] [Reply_Hazy: Sharpness V can't be combined with Sharpness V]
+2013-04-27 17:32:05 [INFO] [Reply_Hazy: Smite V can't be combined with Sharpness V]
+2013-04-27 17:32:11 [INFO] [Reply_Hazy: Bane of Arthropods V can't be combined with Sharpness V]
+2013-04-27 17:33:31 [INFO] [Reply_Hazy: Teleported Shadow__Hunter to Reply_Hazy]
+2013-04-27 17:33:35 [INFO] Reply_Hazy lost connection: disconnect.genericReason
+2013-04-27 17:33:42 [INFO] Shadow__Hunter fell out of the world
+2013-04-27 17:52:09 [INFO] [Shadow__Hunter: Set the time to 0]
+2013-04-27 18:03:30 [INFO] Shadow__Hunter lost connection: disconnect.endOfStream
+2013-04-27 18:03:37 [INFO] Shadow__Hunter[/173.174.98.152:53161] logged in with entity id 549994 at (-290.99772638795014, 53.23555185463648, -458.30000001192093)
+2013-04-27 18:16:53 [SEVERE] Encountered an unexpected exception OutOfMemoryError
+java.lang.OutOfMemoryError: Java heap space
+	at bq.a(SourceFile:27)
+	at cf.b(SourceFile:96)
+	at bs.a(SourceFile:34)
+	at ca.a(SourceFile:38)
+	at cf.b(SourceFile:96)
+	at bs.a(SourceFile:34)
+	at cf.b(SourceFile:96)
+	at bs.a(SourceFile:34)
+	at cf.b(SourceFile:96)
+	at cc.a(SourceFile:75)
+	at acd.a(SourceFile:54)
+	at iy.f(SourceFile:125)
+	at iy.c(SourceFile:76)
+	at ix.<init>(SourceFile:26)
+	at iw.a(SourceFile:172)
+	at iw.d(SourceFile:300)
+	at gu.d(SourceFile:194)
+	at jh.a(SourceFile:278)
+	at ee.a(SourceFile:136)
+	at ci.b(SourceFile:350)
+	at jh.d(SourceFile:60)
+	at jk.b(SourceFile:35)
+	at ie.b(SourceFile:30)
+	at net.minecraft.server.MinecraftServer.r(SourceFile:480)
+	at hz.r(SourceFile:255)
+	at net.minecraft.server.MinecraftServer.q(SourceFile:397)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:331)
+	at gp.run(SourceFile:573)
+2013-04-27 18:16:59 [SEVERE] This crash report has been saved to: /home/ec2-user/forsawcraften/./crash-reports/crash-2013-04-27_18.16.59-server.txt
