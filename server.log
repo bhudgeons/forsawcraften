@@ -6465,3 +6465,305 @@ java.lang.OutOfMemoryError: Java heap space
 	at net.minecraft.server.MinecraftServer.run(SourceFile:331)
 	at gp.run(SourceFile:573)
 2013-04-27 18:16:59 [SEVERE] This crash report has been saved to: /home/ec2-user/forsawcraften/./crash-reports/crash-2013-04-27_18.16.59-server.txt
+2013-05-03 00:23:43 [INFO] Starting minecraft server version 1.5.2
+2013-05-03 00:23:43 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-05-03 00:23:43 [INFO] Loading properties
+2013-05-03 00:23:43 [INFO] Default game type: SURVIVAL
+2013-05-03 00:23:43 [INFO] Generating keypair
+2013-05-03 00:23:45 [INFO] Starting Minecraft server on *:25565
+2013-05-03 00:23:45 [INFO] Preparing level "world"
+2013-05-03 00:23:45 [INFO] Preparing start region for level 0
+2013-05-03 00:23:46 [INFO] Preparing spawn area: 9%
+2013-05-03 00:23:47 [INFO] Preparing spawn area: 45%
+2013-05-03 00:23:48 [INFO] Preparing spawn area: 96%
+2013-05-03 00:23:48 [INFO] Done (3.610s)! For help, type "help" or "?"
+2013-05-03 00:24:04 [INFO] bhudgeons[/173.174.108.132:33052] logged in with entity id 49 at (-6.328430651962235, 77.29783203491264, -4.689288313633942)
+2013-05-03 00:24:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-03 00:24:13 [INFO] [bhudgeons: Set the time to 0]
+2013-05-03 00:24:50 [INFO] fhudgeons[/173.174.108.132:33461] logged in with entity id 2772 at (272.1406008773011, 72.54040519445257, -581.9771387728584)
+2013-05-03 00:24:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-03 00:24:57 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-05-03 00:25:02 [INFO] fhudgeons[/173.174.108.132:33430] logged in with entity id 3337 at (272.1406008773011, 72.54040519445257, -581.9771387728584)
+2013-05-03 00:25:25 [INFO] shudgeons[/173.174.108.132:33043] logged in with entity id 4865 at (-382.7309585338876, 78.74705231160578, 233.46591374423227)
+2013-05-03 00:25:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-03 00:25:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-03 00:25:54 [INFO] [fhudgeons: Teleported fhudgeons to bhudgeons]
+2013-05-03 00:26:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-03 00:26:11 [INFO] [shudgeons: Teleported shudgeons to bhudgeons]
+2013-05-03 00:31:17 [INFO] [bhudgeons: Set the time to 0]
+2013-05-03 00:40:01 [INFO] [shudgeons: Teleported shudgeons to bhudgeons]
+2013-05-03 00:42:38 [INFO] [bhudgeons: Set the time to 0]
+2013-05-03 00:44:09 [INFO] [bhudgeons: Set own game mode to Creative Mode]
+2013-05-03 00:46:39 [INFO] <shudgeons> DAD are you coming slowpoke
+2013-05-03 00:48:04 [INFO] [fhudgeons: Teleported fhudgeons to bhudgeons]
+2013-05-03 00:48:33 [INFO] [bhudgeons: Set own game mode to Survival Mode]
+2013-05-03 00:51:37 [INFO] [bhudgeons: Set own game mode to Creative Mode]
+2013-05-03 00:54:09 [INFO] [bhudgeons: Set own game mode to Survival Mode]
+2013-05-03 00:57:05 [INFO] [shudgeons: Teleported shudgeons to bhudgeons]
+2013-05-03 00:57:18 [INFO] [fhudgeons: Teleported fhudgeons to bhudgeons]
+2013-05-03 00:58:40 [INFO] [shudgeons: Teleported shudgeons to bhudgeons]
+2013-05-03 00:59:50 [INFO] [shudgeons: Teleported shudgeons to bhudgeons]
+2013-05-03 01:01:26 [INFO] [shudgeons: Teleported shudgeons to bhudgeons]
+2013-05-03 01:04:32 [INFO] [fhudgeons: Teleported fhudgeons to bhudgeons]
+2013-05-03 01:10:32 [INFO] [bhudgeons: Teleported bhudgeons to fhudgeons]
+2013-05-03 01:11:30 [INFO] [shudgeons: Teleported shudgeons to bhudgeons]
+2013-05-03 01:11:53 [INFO] shudgeons lost connection: disconnect.quitting
+2013-05-03 01:12:05 [INFO] bhudgeons lost connection: disconnect.quitting
+2013-05-03 01:12:09 [INFO] fhudgeons lost connection: disconnect.quitting
+2013-05-03 01:24:25 [INFO] Shadow__Hunter[/173.174.98.152:52309] logged in with entity id 118504 at (-305.2663018181886, 68.64293640821518, -441.8075455074012)
+2013-05-03 01:47:06 [INFO] Shadow__Hunter lost connection: disconnect.quitting
+2013-05-04 01:01:18 [INFO] spitblast[/208.191.157.180:49729] logged in with entity id 130195 at (-484.68361844709574, 95.29055213310639, 177.26188187345153)
+2013-05-04 01:01:41 [INFO] spitblast lost connection: disconnect.quitting
+2013-05-04 01:49:42 [INFO] Disconnecting Reply_Hazy [/208.191.157.164:53484]: Outdated client!
+2013-05-04 01:51:11 [INFO] Reply_Hazy[/208.191.157.164:53517] logged in with entity id 131248 at (-454.0692367107363, 67.0, 181.5602774602079)
+2013-05-04 01:58:40 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-04 16:03:42 [INFO] cheeseinparis[/172.1.77.66:57079] logged in with entity id 136115 at (0.38323438845409874, 64.0, -5.487500011920929)
+2013-05-04 16:07:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-04 16:08:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-04 16:14:05 [INFO] cheeseinparis lost connection: disconnect.quitting
+2013-05-04 16:39:58 [INFO] cheeseinparis[/172.1.77.66:57133] logged in with entity id 144528 at (76.31903773761287, 72.0, -432.57182212515994)
+2013-05-04 16:40:06 [INFO] cheeseinparis lost connection: disconnect.quitting
+2013-05-04 19:36:59 [INFO] HarryDiamand[/70.113.89.92:49374] logged in with entity id 144705 at (-435.48954390493395, 64.0, 381.06986946060664)
+2013-05-04 19:47:16 [INFO] HarryDiamand lost connection: disconnect.quitting
+2013-05-04 20:37:19 [INFO] cheeseinparis[/172.1.77.66:58175] logged in with entity id 151108 at (76.31903773761287, 72.0, -432.57182212515994)
+2013-05-04 20:37:24 [INFO] cheeseinparis lost connection: disconnect.quitting
+2013-05-04 21:28:26 [INFO] spitblast[/99.57.128.19:50513] logged in with entity id 151286 at (-391.9599598343942, 78.80015853409598, 242.32886843756887)
+2013-05-04 21:29:43 [INFO] spitblast lost connection: disconnect.genericReason
+2013-05-05 11:07:57 [INFO] Reply_Hazy[/173.174.98.152:55280] logged in with entity id 152024 at (-471.80647498304296, 63.0, 257.33306707986833)
+2013-05-05 11:09:24 [INFO] [Reply_Hazy: The selected enchantment can't be added to the target item]
+2013-05-05 11:09:27 [INFO] [Reply_Hazy: The selected enchantment can't be added to the target item]
+2013-05-05 11:09:33 [INFO] [Reply_Hazy: The target doesn't hold an item]
+2013-05-05 11:09:50 [INFO] [Reply_Hazy: Given Speed (ID 1) * 0 to Reply_Hazy for 10 seconds]
+2013-05-05 11:10:13 [INFO] [Reply_Hazy: Given Speed (ID 1) * 12 to Reply_Hazy for 999 seconds]
+2013-05-05 11:12:05 [INFO] [Reply_Hazy: Given Speed (ID 1) * 250 to Reply_Hazy for 999 seconds]
+2013-05-05 11:12:26 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-05 11:13:29 [INFO] Reply_Hazy[/173.174.98.152:55302] logged in with entity id 154157 at (-473.6999999880791, 62.0, 257.9801475151339)
+2013-05-05 11:14:52 [INFO] <Reply_Hazy> hi
+2013-05-05 11:17:05 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-05 16:25:14 [INFO] Disconnecting Nealbros [/208.191.158.149:64086]: You are banned from this server!
+Reason: Banned by an operator.
+2013-05-05 22:58:55 [INFO] Reply_Hazy [/67.78.70.139:58344] lost connection
+2013-05-05 23:07:05 [INFO] Reply_Hazy [/67.78.70.139:58455] lost connection
+2013-05-06 20:46:32 [INFO] Reply_Hazy[/173.174.98.152:49254] logged in with entity id 155583 at (-471.6944714245587, 63.0, 256.9568081199609)
+2013-05-06 20:47:13 [INFO] [Reply_Hazy: Given Slowness (ID 2) * 0 to Reply_Hazy for 10 seconds]
+2013-05-06 20:47:21 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-09 00:15:02 [INFO] Shadow__Hunter[/208.191.157.164:51583] logged in with entity id 155953 at (-316.45511053695526, 69.00809033974552, -441.7887099054027)
+2013-05-09 00:15:24 [INFO] [Shadow__Hunter: Set the time to 12500]
+2013-05-09 00:38:12 [INFO] Shadow__Hunter lost connection: disconnect.quitting
+2013-05-09 21:26:43 [INFO] Reply_Hazy[/173.174.98.152:63267] logged in with entity id 211362 at (-460.4079736028571, 63.0, 256.38514265116737)
+2013-05-09 21:32:00 [INFO] Reply_Hazy[/173.174.98.152:63291] logged in with entity id 216051 at (-408.5315391357423, 67.0, 265.86984919875374)
+2013-05-09 21:32:15 [INFO] Reply_Hazy [/173.174.98.152:63302] lost connection
+2013-05-09 21:32:23 [INFO] Reply_Hazy [/173.174.98.152:63305] lost connection
+2013-05-09 21:32:25 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-09 21:32:30 [INFO] Reply_Hazy [/173.174.98.152:63313] lost connection
+2013-05-09 21:32:34 [INFO] Reply_Hazy [/173.174.98.152:63317] lost connection
+2013-05-09 21:32:40 [INFO] Reply_Hazy [/173.174.98.152:63321] lost connection
+2013-05-09 21:32:46 [INFO] Reply_Hazy[/173.174.98.152:63329] logged in with entity id 216387 at (-408.5315391357423, 67.0, 265.86984919875374)
+2013-05-09 21:43:23 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-09 22:09:37 [INFO] Shadow__Hunter[/173.174.98.152:65035] logged in with entity id 227344 at (-691.3000000119209, 26.543376598967896, 318.8587879767815)
+2013-05-09 22:10:50 [INFO] Shadow__Hunter fell out of the world
+2013-05-09 22:19:04 [INFO] Shadow__Hunter lost connection: disconnect.quitting
+2013-05-10 22:36:13 [INFO] azwii[/173.174.124.2:52962] logged in with entity id 237937 at (-481.1498085490676, 65.0, 310.9266235666817)
+2013-05-10 22:38:38 [INFO] Reply_Hazy[/173.174.98.152:58458] logged in with entity id 240480 at (-429.63608902174644, 65.0, 255.51470196774042)
+2013-05-10 22:39:12 [INFO] [Reply_Hazy: Teleported azwii to Reply_Hazy]
+2013-05-10 22:39:38 [INFO] [Reply_Hazy: Set azwii's game mode to Survival Mode]
+2013-05-10 22:39:42 [INFO] azwii was burnt to a crisp whilst fighting Reply_Hazy
+2013-05-10 22:40:36 [INFO] [azwii: Set own game mode to Creative Mode]
+2013-05-10 22:40:37 [INFO] [Reply_Hazy: Teleported azwii to Reply_Hazy]
+2013-05-10 22:41:29 [INFO] [Reply_Hazy: Set azwii's game mode to Survival Mode]
+2013-05-10 22:41:51 [INFO] sethellington[/70.113.67.141:49748] logged in with entity id 245269 at (0.5, 76.0, -5.5)
+2013-05-10 22:41:58 [INFO] azwii was slain by Reply_Hazy using Shadeslayer
+2013-05-10 22:42:18 [INFO] [azwii: Set own game mode to Creative Mode]
+2013-05-10 22:42:20 [INFO] [Reply_Hazy: Opped seth]
+2013-05-10 22:42:24 [INFO] [Reply_Hazy: Opped sethellington]
+2013-05-10 22:42:39 [INFO] [sethellington: Set own game mode to Creative Mode]
+2013-05-10 22:42:39 [INFO] [Reply_Hazy: Teleported sethellington to Reply_Hazy]
+2013-05-10 22:43:00 [INFO] [Reply_Hazy: Set sethellington's game mode to Survival Mode]
+2013-05-10 22:43:05 [INFO] sethellington was slain by Reply_Hazy using Shadeslayer
+2013-05-10 22:43:14 [INFO] [Reply_Hazy: Teleported sethellington to Reply_Hazy]
+2013-05-10 22:44:24 [INFO] sethellington fell from a high place
+2013-05-10 22:44:31 [INFO] [Reply_Hazy: Set sethellington's game mode to Creative Mode]
+2013-05-10 22:44:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-10 22:44:50 [INFO] [Reply_Hazy: Opped sethellington]
+2013-05-10 22:44:58 [INFO] [Reply_Hazy: Teleported sethellington to Reply_Hazy]
+2013-05-10 22:45:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-10 22:46:00 [INFO] [Reply_Hazy: Kicked sethellington from the game: 'No More S***']
+2013-05-10 22:46:07 [INFO] sethellington[/70.113.67.141:49806] logged in with entity id 254155 at (-459.9684015569843, 68.49236609599642, 246.39984682462037)
+2013-05-10 22:46:32 [INFO] [Reply_Hazy: Kicked sethellington from the game: '# MUDDERFUDDER']
+2013-05-10 22:47:04 [INFO] azwii lost connection: disconnect.quitting
+2013-05-10 22:47:15 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-10 23:47:01 [INFO] Shadow__Hunter[/173.174.98.152:59385] logged in with entity id 255694 at (-292.30000001192093, 81.0, -440.4786003013863)
+2013-05-10 23:48:27 [INFO] Shadow__Hunter lost connection: disconnect.quitting
+2013-05-11 17:50:03 [INFO] Reply_Hazy[/173.174.98.152:60515] logged in with entity id 256200 at (-459.1944527308331, 63.0, 254.44337360402528)
+2013-05-11 17:56:31 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-11 17:57:40 [INFO] Reply_Hazy[/173.174.98.152:60562] logged in with entity id 260265 at (-454.6160369892975, 64.0, 266.30000001192093)
+2013-05-11 18:06:16 [INFO] [Reply_Hazy: Set the time to 0]
+2013-05-11 18:21:06 [INFO] [Reply_Hazy: Changing to clear weather]
+2013-05-11 18:21:19 [INFO] [Reply_Hazy: Set the time to 0]
+2013-05-11 18:21:26 [INFO] [Reply_Hazy: Changing to rain and thunder]
+2013-05-11 18:21:34 [INFO] [Reply_Hazy: Set the time to 0]
+2013-05-11 18:23:21 [INFO] [Reply_Hazy: Set the time to 12500]
+2013-05-11 18:26:18 [INFO] Reply_Hazy lost connection: disconnect.quitting
+2013-05-11 18:27:32 [INFO] Shadow__Hunter[/173.174.98.152:60727] logged in with entity id 281524 at (-313.7243445108011, 81.0, -452.4547288032825)
+2013-05-11 18:48:23 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:31 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:31 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:31 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:31 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:31 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:31 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:33 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:37 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:40 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:40 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:40 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 18:48:41 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:01 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:01 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:06 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:07 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:07 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:07 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:07 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:08 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:08 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:09 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:09 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:17 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:17 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:17 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:17 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:17 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:17 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:17 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:18 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:18 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:18 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:18 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:19 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:20 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:21 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:21 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:21 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:21 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:22 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:22 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:22 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:23 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:24 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:26 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:26 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:27 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:27 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:06:27 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:40 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:40 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:41 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:41 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:42 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:42 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:42 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:42 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:44 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:45 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:45 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:09:45 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:34 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:35 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:36 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:38 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:39 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:40 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:40 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:41 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:42 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:43 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:43 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:45 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:45 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:46 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:46 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:46 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:48 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:48 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:49 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:49 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:10:49 [INFO] Naming an item only, cost too high; giving discount to cap cost to 39 levels
+2013-05-11 19:12:26 [INFO] Shadow__Hunter lost connection: disconnect.quitting
+2013-05-11 19:46:51 [INFO] shudgeons[/173.174.108.132:32933] logged in with entity id 319368 at (135.990060916637, 18.65574547268675, -17.089676150228463)
+2013-05-11 19:47:44 [INFO] [shudgeons: Given Command Block (ID 137) * 1 to shudgeons]
+2013-05-11 19:49:15 [INFO] Reply_Hazy[/173.174.98.152:61226] logged in with entity id 320874 at (-457.9014786112303, 101.0, 238.04555055067377)
+2013-05-11 19:49:50 [INFO] <Reply_Hazy> Hey sawyer
+2013-05-11 19:50:17 [INFO] <shudgeons> hay who are you
+2013-05-11 19:50:22 [INFO] <Reply_Hazy> Gabriel
+2013-05-11 19:50:56 [INFO] <shudgeons> oh yah we are enabeling command blocks
+2013-05-11 19:51:02 [INFO] <Reply_Hazy> SWEET
+2013-05-11 19:51:07 [INFO] [Reply_Hazy: Given Command Block (ID 137) * 1 to Reply_Hazy]
+2013-05-11 19:51:27 [INFO] <Reply_Hazy> when u enable them?
+2013-05-11 19:51:50 [INFO] sethellington[/70.113.67.141:52862] logged in with entity id 323536 at (-466.1212801636811, 63.0, 236.9878644510399)
+2013-05-11 19:52:05 [INFO] [shudgeons: Teleported shudgeons to Reply_Hazy]
+2013-05-11 19:53:03 [INFO] Starting minecraft server version 1.5.2
+2013-05-11 19:53:03 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-05-11 19:53:03 [INFO] Loading properties
+2013-05-11 19:53:03 [INFO] Default game type: SURVIVAL
+2013-05-11 19:53:03 [INFO] Generating keypair
+2013-05-11 19:53:05 [INFO] Starting Minecraft server on *:25565
+2013-05-11 19:53:05 [INFO] Preparing level "world"
+2013-05-11 19:53:05 [INFO] Preparing start region for level 0
+2013-05-11 19:53:06 [INFO] Preparing spawn area: 10%
+2013-05-11 19:53:07 [INFO] Preparing spawn area: 47%
+2013-05-11 19:53:08 [INFO] Preparing spawn area: 93%
+2013-05-11 19:53:08 [INFO] Done (3.529s)! For help, type "help" or "?"
