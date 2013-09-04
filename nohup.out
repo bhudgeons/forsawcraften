@@ -1,0 +1,116 @@
+2013-08-30 21:58:36 [INFO] Starting minecraft server version 1.6.2
+2013-08-30 21:58:36 [INFO] Loading properties
+2013-08-30 21:58:36 [INFO] Default game type: SURVIVAL
+2013-08-30 21:58:36 [INFO] Generating keypair
+2013-08-30 21:58:38 [INFO] Starting Minecraft server on *:25565
+2013-08-30 21:58:38 [INFO] Preparing level "world"
+2013-08-30 21:58:38 [INFO] Preparing start region for level 0
+2013-08-30 21:58:39 [INFO] Preparing spawn area: 8%
+2013-08-30 21:58:40 [INFO] Preparing spawn area: 46%
+2013-08-30 21:58:41 [INFO] Preparing spawn area: 74%
+2013-08-30 21:58:42 [INFO] Done (3.989s)! For help, type "help" or "?"
+2013-08-30 21:58:43 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 21:58:44 [INFO] bhudgeons[/173.174.112.215:57217] logged in with entity id 59 at (-2922.0075661916208, 66.0, 756.4298909512065)
+2013-08-30 21:58:44 [INFO] bhudgeons joined the game
+2013-08-30 21:58:46 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 21:58:50 [INFO] shudgeons[/173.174.112.215:58463] logged in with entity id 306 at (-322.306140769936, 73.47534810777337, 309.6491534511133)
+2013-08-30 21:58:50 [INFO] shudgeons joined the game
+2013-08-30 21:58:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-30 21:59:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-30 22:00:24 [INFO] [bhudgeons: Teleported bhudgeons to shudgeons]
+2013-08-30 22:00:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-30 22:04:32 [INFO] [shudgeons: Set the time to 0]
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:478)
+	at java.net.ServerSocket.accept(ServerSocket.java:446)
+	at ix.run(SourceFile:61)
+2013-08-30 22:06:49 [INFO] Starting minecraft server version 1.6.2
+2013-08-30 22:06:49 [INFO] Loading properties
+2013-08-30 22:06:49 [INFO] Default game type: SURVIVAL
+2013-08-30 22:06:49 [INFO] Generating keypair
+2013-08-30 22:06:51 [INFO] Starting Minecraft server on *:25565
+2013-08-30 22:06:51 [INFO] Preparing level "world"
+2013-08-30 22:06:51 [INFO] Preparing start region for level 0
+2013-08-30 22:06:52 [INFO] Preparing spawn area: 6%
+2013-08-30 22:06:53 [INFO] Preparing spawn area: 48%
+2013-08-30 22:06:54 [INFO] Preparing spawn area: 90%
+2013-08-30 22:06:54 [INFO] Done (3.626s)! For help, type "help" or "?"
+2013-08-30 22:06:55 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 22:06:55 [INFO] /173.174.112.215:57315 lost connection
+2013-08-30 22:06:57 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 22:06:59 [INFO] bhudgeons[/173.174.112.215:57322] logged in with entity id 63 at (-374.10047614234117, 64.5, 263.02205235009706)
+2013-08-30 22:06:59 [INFO] bhudgeons joined the game
+2013-08-30 22:07:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-30 22:07:12 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 22:07:14 [INFO] shudgeons[/173.174.112.215:58475] logged in with entity id 2348 at (-485.39375725278927, 89.0, 181.6999999880791)
+2013-08-30 22:07:14 [INFO] shudgeons joined the game
+2013-08-30 22:07:17 [INFO] [bhudgeons: Set own game mode to Creative Mode]
+2013-08-30 22:07:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:478)
+	at java.net.ServerSocket.accept(ServerSocket.java:446)
+	at ix.run(SourceFile:61)
+2013-08-30 22:10:57 [INFO] Starting minecraft server version 1.6.2
+2013-08-30 22:10:57 [INFO] Loading properties
+2013-08-30 22:10:58 [INFO] Default game type: SURVIVAL
+2013-08-30 22:10:58 [INFO] Generating keypair
+2013-08-30 22:10:59 [INFO] Starting Minecraft server on *:25565
+2013-08-30 22:10:59 [INFO] Preparing level "world"
+2013-08-30 22:10:59 [INFO] Preparing start region for level 0
+2013-08-30 22:11:00 [INFO] Preparing spawn area: 8%
+2013-08-30 22:11:01 [INFO] Preparing spawn area: 38%
+2013-08-30 22:11:03 [INFO] Preparing spawn area: 74%
+2013-08-30 22:11:03 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 22:11:03 [INFO] Done (4.200s)! For help, type "help" or "?"
+2013-08-30 22:11:03 [INFO] /173.174.112.215:57345 lost connection
+2013-08-30 22:11:05 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 22:11:07 [INFO] bhudgeons[/173.174.112.215:57350] logged in with entity id 63 at (-374.5123377435751, 85.87610431285583, 277.69999998807907)
+2013-08-30 22:11:07 [INFO] bhudgeons joined the game
+2013-08-30 22:11:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-30 22:11:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-30 22:12:08 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 22:12:13 [INFO] shudgeons[/173.174.112.215:58916] logged in with entity id 7059 at (-378.82911259460707, 64.0, 266.08889968027756)
+2013-08-30 22:12:13 [INFO] shudgeons joined the game
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:478)
+	at java.net.ServerSocket.accept(ServerSocket.java:446)
+	at ix.run(SourceFile:61)
+2013-08-30 22:15:49 [INFO] Starting minecraft server version 1.6.2
+2013-08-30 22:15:49 [INFO] Loading properties
+2013-08-30 22:15:49 [INFO] Default game type: SURVIVAL
+2013-08-30 22:15:49 [INFO] Generating keypair
+2013-08-30 22:15:51 [INFO] Starting Minecraft server on *:25565
+2013-08-30 22:15:51 [INFO] Preparing level "world"
+2013-08-30 22:15:51 [INFO] Preparing start region for level 0
+2013-08-30 22:15:52 [INFO] Preparing spawn area: 9%
+2013-08-30 22:15:53 [INFO] Preparing spawn area: 42%
+2013-08-30 22:15:55 [INFO] Preparing spawn area: 89%
+2013-08-30 22:15:55 [INFO] Done (3.756s)! For help, type "help" or "?"
+2013-08-30 22:15:57 [SEVERE] Reached end of stream for /173.174.112.215
+2013-08-30 22:15:58 [INFO] bhudgeons[/173.174.112.215:57369] logged in with entity id 70 at (-371.5811914999757, 64.0, 237.49027051659297)
+2013-08-30 22:15:59 [INFO] bhudgeons joined the game
+2013-08-30 22:16:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-08-30 22:19:56 [SEVERE] Reached end of stream for /173.61.44.75
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:375)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:478)
+	at java.net.ServerSocket.accept(ServerSocket.java:446)
+	at ix.run(SourceFile:61)
+u: Exception ticking world
+	at net.minecraft.server.MinecraftServer.t(SourceFile:466)
+	at ir.t(SourceFile:262)
+	at net.minecraft.server.MinecraftServer.s(SourceFile:405)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339)
+	at hh.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at jq.c(SourceFile:206)
+	at jr.b(SourceFile:110)
+	at net.minecraft.server.MinecraftServer.t(SourceFile:462)
+	... 4 more
