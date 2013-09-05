@@ -1,4 +1,4 @@
-# Updated 9/4/13 3:42 AM by Minecraft 1.6.2
+# Updated 9/5/13 12:47 AM by Minecraft 1.6.2
 # victim name | ban date | banned by | banned until | reason
 
 wadeldo|2013-03-20 21:11:48 +0000|shudgeons|Forever|Banned by an operator.
