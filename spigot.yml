@@ -13,6 +13,8 @@
 config-version: 8
 settings:
   save-user-cache-on-stop-only: false
+  bungeecord: false
+  late-bind: false
   sample-count: 12
   player-shuffle: 0
   filter-creative-items: true
@@ -20,8 +22,6 @@ settings:
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-threshold: 100.0
-  bungeecord: false
-  late-bind: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -59,36 +59,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
-    anti-xray:
-      enabled: true
-      engine-mode: 1
-      hide-blocks:
-      - 14
-      - 15
-      - 16
-      - 21
-      - 48
-      - 49
-      - 54
-      - 56
-      - 73
-      - 74
-      - 82
-      - 129
-      - 130
-      replace-blocks:
-      - 1
-      - 5
-    nerf-spawner-mobs: false
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -116,6 +86,36 @@ world-settings:
       sprint-exhaustion: 0.8
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
+    nerf-spawner-mobs: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+    anti-xray:
+      enabled: true
+      engine-mode: 1
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
+    mob-spawn-range: 4
     max-tnt-per-tick: 100
     view-distance: 10
     chunks-per-tick: 650
