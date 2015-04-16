@@ -36,6 +36,13 @@ ticks-per:
   animal-spawns: 400
   monster-spawns: 1
   autosave: 6000
+aliases: now-in-commands.yml
+database:
+  username: bukkit
+  isolation: SERIALIZABLE
+  driver: org.sqlite.JDBC
+  password: walrus
+  url: jdbc:sqlite:{DIR}{NAME}.db
 auto-updater:
   enabled: true
   on-broken:
@@ -47,10 +54,3 @@ auto-updater:
   preferred-channel: rb
   host: dl.bukkit.org
   suggest-channels: true
-aliases: now-in-commands.yml
-database:
-  username: bukkit
-  isolation: SERIALIZABLE
-  driver: org.sqlite.JDBC
-  password: walrus
-  url: jdbc:sqlite:{DIR}{NAME}.db
