@@ -120,17 +120,17 @@
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "19271091-a8c9-452d-ab78-4ad2c24fc48f",
-    "name": "wadeldo",
-    "created": "2014-05-26 16:34:41 +0000",
+    "uuid": "a966c50d-65a1-4005-bbff-30ee7fa507a1",
+    "name": "lpy7",
+    "created": "2015-03-29 16:17:32 +0000",
     "source": "shudgeons",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "a966c50d-65a1-4005-bbff-30ee7fa507a1",
-    "name": "lpy7",
-    "created": "2015-03-29 16:17:32 +0000",
+    "uuid": "19271091-a8c9-452d-ab78-4ad2c24fc48f",
+    "name": "wadeldo",
+    "created": "2014-05-26 16:34:41 +0000",
     "source": "shudgeons",
     "expires": "forever",
     "reason": "Banned by an operator."
