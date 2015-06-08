@@ -1,12 +1,7 @@
 [
   {
-    "uuid": "c75b947b-a09a-4580-bd96-94333173f90b",
-    "name": "Shadow__Hunter",
-    "level": 4
-  },
-  {
-    "uuid": "494ed960-7bf0-4365-838c-12b17eb4776e",
-    "name": "dar518",
+    "uuid": "3d49f24d-3433-4ae5-bbe8-557b6e451464",
+    "name": "somethingstupid9",
     "level": 4
   },
   {
@@ -15,18 +10,8 @@
     "level": 4
   },
   {
-    "uuid": "32edb961-a3ff-4a14-927b-2f9aeca21224",
-    "name": "shudgeons",
-    "level": 4
-  },
-  {
     "uuid": "ce44cd93-bf59-4be9-a190-0049b89aa27f",
     "name": "bluedancer",
-    "level": 4
-  },
-  {
-    "uuid": "6dca8d52-6b57-4ef2-85ba-04508f9a1f1d",
-    "name": "D6rkstorm",
     "level": 4
   },
   {
@@ -40,23 +25,13 @@
     "level": 4
   },
   {
-    "uuid": "3646a715-0343-458a-9cff-ed673b9d8abb",
-    "name": "spitblast",
+    "uuid": "6dca8d52-6b57-4ef2-85ba-04508f9a1f1d",
+    "name": "D6rkstorm",
     "level": 4
   },
   {
-    "uuid": "9a15d4a6-57f5-43af-a7d2-ba139b03a3ad",
-    "name": "maxie5man",
-    "level": 4
-  },
-  {
-    "uuid": "96d45c69-f908-4a21-9c9d-7f4ede9b3680",
-    "name": "alterslider",
-    "level": 4
-  },
-  {
-    "uuid": "3d49f24d-3433-4ae5-bbe8-557b6e451464",
-    "name": "somethingstupid9",
+    "uuid": "32edb961-a3ff-4a14-927b-2f9aeca21224",
+    "name": "shudgeons",
     "level": 4
   },
   {
@@ -65,8 +40,33 @@
     "level": 4
   },
   {
+    "uuid": "3646a715-0343-458a-9cff-ed673b9d8abb",
+    "name": "spitblast",
+    "level": 4
+  },
+  {
+    "uuid": "96d45c69-f908-4a21-9c9d-7f4ede9b3680",
+    "name": "alterslider",
+    "level": 4
+  },
+  {
+    "uuid": "c75b947b-a09a-4580-bd96-94333173f90b",
+    "name": "Shadow__Hunter",
+    "level": 4
+  },
+  {
     "uuid": "29bd41c1-8d5f-45f0-9a11-dfc70ce7780a",
     "name": "fhudgeons",
+    "level": 4
+  },
+  {
+    "uuid": "494ed960-7bf0-4365-838c-12b17eb4776e",
+    "name": "dar518",
+    "level": 4
+  },
+  {
+    "uuid": "9a15d4a6-57f5-43af-a7d2-ba139b03a3ad",
+    "name": "maxie5man",
     "level": 4
   }
 ]
