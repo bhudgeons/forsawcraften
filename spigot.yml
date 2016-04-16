@@ -59,7 +59,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -107,6 +106,7 @@ world-settings:
     save-structure-info: true
     max-bulk-chunks: 5
     max-entity-collisions: 8
+    mob-spawn-range: 4
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
