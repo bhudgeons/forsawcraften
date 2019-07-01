@@ -10,7 +10,7 @@
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
-config-version: 11
+config-version: 12
 settings:
   save-user-cache-on-stop-only: false
   bungeecord: false
@@ -38,6 +38,7 @@ settings:
   moved-too-quickly-threshold: 100.0
   global-api-cache: false
 commands:
+  send-namespaced: true
   tab-complete: 0
   log: true
   spam-exclusions:
@@ -64,8 +65,17 @@ stats:
   forced-stats: {}
 world-settings:
   default:
+    seed-desert: 14357617
+    seed-igloo: 14357618
+    seed-jungle: 14357619
+    seed-swamp: 14357620
+    seed-shipwreck: 165745295
+    seed-ocean: 14357621
+    seed-outpost: 165745296
     verbose: true
     entity-activation-range:
+      raiders: 48
+      tick-inactive-villagers: true
       animals: 32
       monsters: 32
       misc: 16
@@ -96,6 +106,12 @@ world-settings:
       other-multiplier: 0.0
     mob-spawn-range: 4
     growth:
+      beetroot-modifier: 100
+      carrot-modifier: 100
+      potato-modifier: 100
+      bamboo-modifier: 100
+      sweetberry-modifier: 100
+      kelp-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
       melon-modifier: 100
@@ -117,7 +133,6 @@ world-settings:
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
-    view-distance: 10
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
@@ -146,3 +161,5 @@ world-settings:
     chunks-per-tick: 650
     clear-tick-list: false
     hopper-alt-ticking: false
+    squid-spawn-range:
+      min: 45.0
